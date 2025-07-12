@@ -19,7 +19,8 @@
     },
     {
       "type": "perplexity",
-      "id": "perplexity"
+      "id": "perplexity",
+      "apiKey": "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"
     },
     {
       "type": "groq",
