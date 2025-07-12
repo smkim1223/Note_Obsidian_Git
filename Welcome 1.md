@@ -5,7 +5,8 @@ Make a note of something, [[create a link]], or try [the Importer](https://help.
 When you're ready, delete this note and make the vault your own.
 
 여기도 있다!
-This is a trial
+This is a trial for checking the cync!!
+
 
 
 
