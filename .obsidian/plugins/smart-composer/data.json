@@ -263,7 +263,7 @@
     }
   ],
   "chatModelId": "sonar-pro",
-  "applyModelId": "gpt-4o-mini",
+  "applyModelId": "sonar-pro",
   "embeddingModelId": "openai/text-embedding-3-small",
   "systemPrompt": "",
   "ragOptions": {
