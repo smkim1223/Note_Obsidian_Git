@@ -4,6 +4,8 @@
 #### 마크다운4
 - '-' bullet
 	- by tap
--
+	- [ ] '[ ]' can make a todo list
+- [ ] 'shift tap'
 
-- How to link it with
+1. '1.' making a new number
+2. likely No
