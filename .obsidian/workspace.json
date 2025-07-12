@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New test with 2nd computer.md",
+                "file": "Welcome 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New test with 2nd computer"
+              "title": "Welcome 1"
             }
           }
         ],
@@ -184,8 +184,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf9bea548ef60a91",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
+    "Note_000/Welcome.md",
+    "Welcome 1.md",
+    "SKim practice 1.md",
     "Note_000/SKim practice.md",
     "New test with 2nd computer.md",
     "Welcome.md",
@@ -213,9 +216,6 @@
     "Personal/Brokerage/William_s note/20250626 인플레이션 상황에 써먹는 자산증식 매뉴얼.md",
     "Personal/Brokerage/William_s note/20250708 블랙록과 JP모건의 숨겨진 전략 모든 자산의 토큰화가 금융 역사를 다시쓰게 될거야.md",
     "Personal/Brokerage/William_s note/20250701 내 자식 행복한 부자만들기 금융 교육🥭.md",
-    "Personal/Brokerage/William_s note/20250709 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 2.md",
-    "Personal/Brokerage/William_s note/20250709 CBDC 시대! 왜 슈퍼리치들은 이미 자산을 해외로 빼돌렸을까나~_.md",
-    "Personal/Brokerage/William_s note/20250623 숫자 하나로 경제 위기 파악하는 가장 쉽고 확실한 방법.md",
     "Personal/Brokerage/William_s note",
     "Personal/Brokerage",
     "Temp",
