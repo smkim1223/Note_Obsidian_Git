@@ -16,7 +16,6 @@ It is wonder that how it can be sync
 
 Local changed?
 
-이제는 작동 하는거 같다!!
 
 
  Oka does it work?
