@@ -8,4 +8,8 @@
 - [ ] 'shift tap'
 
 1. '1.' making a new number
-2. likely No
+2. likely Notion
+
+double '[[]]' making a link for a note
+
+How about template and table
