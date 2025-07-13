@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2252d7e2f86751a",
+            "id": "cf9bea548ef60a91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Brokerage/William_s note/20250714 윌리엄의 거시경제 소설 - 1화.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250714 윌리엄의 거시경제 소설 - 1화"
+              "title": "Welcome"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 300
   },
   "right": {
     "id": "ee26142e7387622f",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Brokerage/William_s note/20250714 윌리엄의 거시경제 소설 - 1화.md",
+                "file": "SKim practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 20250714 윌리엄의 거시경제 소설 - 1화"
+              "title": "Backlinks for SKim practice"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Brokerage/William_s note/20250714 윌리엄의 거시경제 소설 - 1화.md",
+                "file": "SKim practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 20250714 윌리엄의 거시경제 소설 - 1화"
+              "title": "Outgoing links from SKim practice"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Brokerage/William_s note/20250714 윌리엄의 거시경제 소설 - 1화.md",
+                "file": "SKim practice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250714 윌리엄의 거시경제 소설 - 1화"
+              "title": "Outline of SKim practice"
             }
           }
         ]
@@ -166,23 +166,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "cf9bea548ef60a91",
   "lastOpenFiles": [
-    "Personal/Brokerage/William_s note/20250713 윌리엄의 거시경제 소설이야기👽.md",
-    "Personal/Brokerage/William_s note/20250713 미국 연준(Fed)의 금리 결정을 미리 파악하는 방법.md",
-    "Personal/Brokerage/William_s note/20250713 미국이 달러를 무한대로 찍어내도 망하지 않았던 이유.md",
     "Personal/Brokerage/William_s note/20250714 윌리엄의 거시경제 소설 - 1화.md",
-    "Personal/Brokerage/William_s note/20250712 재무제표 숨겨진 의미를 꿰뚫어 보는 방법 1편.md",
-    "Personal/Brokerage/William_s note/20250712 재무제표 숨겨진 의미를 꿰뚫어 보는 방법 2편.md",
+    "Personal/Brokerage/William_s note/20250713 윌리엄의 거시경제 소설이야기👽.md",
+    "Personal/Brokerage/William_s note/20250713 미국이 달러를 무한대로 찍어내도 망하지 않았던 이유.md",
+    "Personal/Brokerage/William_s note/20250713 미국 연준(Fed)의 금리 결정을 미리 파악하는 방법.md",
     "Personal/Brokerage/William_s note/20250712 재무제표 숨겨진 의미를 꿰뚫어 보는 방법 3편.md",
-    "Temp/SKim practice 1.md",
-    "Temp/SKim practice 2.md",
-    "Temp/New test with 2nd computer.md",
+    "Personal/Brokerage/William_s note/20250712 재무제표 숨겨진 의미를 꿰뚫어 보는 방법 2편.md",
+    "Personal/Brokerage/William_s note/20250712 재무제표 숨겨진 의미를 꿰뚫어 보는 방법 1편.md",
     "Welcome 1.md",
+    "SKim practice 1.md",
+    "Temp/SKim practice 2.md",
+    "Temp/SKim practice 1.md",
+    "Temp/New test with 2nd computer.md",
+    "Temp",
+    "Note_000",
+    "Welcome.md",
+    "SKim practice.md",
+    "New test with 2nd computer.md",
     "Welcome.md",
     "Research work/Proposal concept/Electrochemical C-C coupling reaction.md",
     "Research work/Proposal concept/Carbon supported Brønsted acid catalysts.md",
@@ -198,15 +203,9 @@
     "Research work/Manuscript",
     "Personal/Brokerage/William_s note/20250703 미래의 1등 대장주 찾는 방법 (2_20) - 창업자의 강력한 리더십과 혁신적 비전.md",
     "Personal/Brokerage/William_s note/20250702 알아두면 저절로 부자되는 내 자식 금융교육 법 2탄.md",
-    "Personal/Brokerage/William_s note/20250623 반드시 피해야 할, 절대 사면 안 되는 기업 특징 3가지.md",
-    "Personal/Brokerage/William_s note/20250702 미래의 1등 대장주 찾는 방법 (1_20) - 시장 독점력 또는 높은 진입장벽.md",
-    "Personal/Brokerage/William_s note/20250624 미국 시장에서 10년 뒤 크게 성장할 유망 섹터 2가지.md",
-    "Personal/Brokerage/William_s note/20250618 몰빵 투자가 금융문맹의 돈을 잃게 만드는 이유.md",
     "Personal/Brokerage/William_s note",
     "Personal/Brokerage",
-    "Temp",
     "Research work",
-    "Personal",
-    "Note_000"
+    "Personal"
   ]
 }
