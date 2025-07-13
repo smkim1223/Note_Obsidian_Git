@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf9bea548ef60a91",
+            "id": "e2252d7e2f86751a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Temp/SKim practice 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "SKim practice 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SKim practice.md",
+                "file": "Temp/SKim practice 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SKim practice"
+              "title": "Backlinks for SKim practice 1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SKim practice.md",
+                "file": "Temp/SKim practice 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SKim practice"
+              "title": "Outgoing links from SKim practice 1"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SKim practice.md",
+                "file": "Temp/SKim practice 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SKim practice"
+              "title": "Outline of SKim practice 1"
             }
           }
         ]
@@ -166,21 +166,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "smart-composer:Open smart composer": false
     }
   },
-  "active": "cf9bea548ef60a91",
+  "active": "e2252d7e2f86751a",
   "lastOpenFiles": [
-    "Welcome 1.md",
-    "SKim practice 1.md",
     "Temp/SKim practice 2.md",
     "Temp/SKim practice 1.md",
     "Temp/New test with 2nd computer.md",
-    "Temp",
-    "Note_000",
-    "Welcome.md",
-    "SKim practice.md",
-    "New test with 2nd computer.md",
+    "Welcome 1.md",
     "Welcome.md",
     "Research work/Proposal concept/Electrochemical C-C coupling reaction.md",
     "Research work/Proposal concept/Carbon supported Brønsted acid catalysts.md",
@@ -203,9 +198,15 @@
     "Personal/Brokerage/William_s note/20250623 부자들이 절대로 큰돈을 잃지 않는 비법.md",
     "Personal/Brokerage/William_s note/20250616 투자 경제 관점 브리핑.md",
     "Personal/Brokerage/William_s note/20250627 중국이 CBDC를 서둘러 도입한 진짜 이유와 목표.md",
+    "Personal/Brokerage/William_s note/20250626 인플레이션 상황에 써먹는 자산증식 매뉴얼.md",
+    "Personal/Brokerage/William_s note/20250708 블랙록과 JP모건의 숨겨진 전략 모든 자산의 토큰화가 금융 역사를 다시쓰게 될거야.md",
+    "Personal/Brokerage/William_s note/20250701 내 자식 행복한 부자만들기 금융 교육🥭.md",
+    "Personal/Brokerage/William_s note/20250709 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 2.md",
     "Personal/Brokerage/William_s note",
     "Personal/Brokerage",
+    "Temp",
     "Research work",
-    "Personal"
+    "Personal",
+    "Note_000"
   ]
 }
