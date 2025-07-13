@@ -14,7 +14,7 @@ double '[[]]' making a link for a note
 
 How about template and table
 
-# Perplexitiy answer
+# Perplexity answer
 ## 옵시디언(Obsidian) 마크다운 및 링크 등 주요 기능 사용법
 
 ### 1. 기본 마크다운(Markdown) 문법
