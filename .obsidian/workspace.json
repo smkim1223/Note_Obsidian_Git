@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Clippings/Structure of the Atom  Edexcel A Level Chemistry Revision Notes 2015.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Structure of the Atom  Edexcel A Level Chemistry Revision Notes 2015"
             }
           }
         ]
@@ -169,8 +169,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf9bea548ef60a91",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
+    "Research work/Chemical Engineering/Physical chemistry/Untitled",
+    "Research work/Chemical Engineering/Physical chemistry",
+    "Welcome.md",
+    "Clippings/Structure of the Atom  Edexcel A Level Chemistry Revision Notes 2015.md",
+    "Clippings",
     "Personal/Brokerage/William_s note/20250714 윌리엄의 거시경제 소설 - 1화.md",
     "Personal/Brokerage/William_s note/20250713 윌리엄의 거시경제 소설이야기👽.md",
     "Personal/Brokerage/William_s note/20250713 미국이 달러를 무한대로 찍어내도 망하지 않았던 이유.md",
@@ -185,10 +190,8 @@
     "Temp/New test with 2nd computer.md",
     "Temp",
     "Note_000",
-    "Welcome.md",
     "SKim practice.md",
     "New test with 2nd computer.md",
-    "Welcome.md",
     "Research work/Proposal concept/Electrochemical C-C coupling reaction.md",
     "Research work/Proposal concept/Carbon supported Brønsted acid catalysts.md",
     "Research work/Proposal concept/Catalyst development for Li-CO2 battery.md",
@@ -202,10 +205,7 @@
     "Research work/Chemical Engineering",
     "Research work/Manuscript",
     "Personal/Brokerage/William_s note/20250703 미래의 1등 대장주 찾는 방법 (2_20) - 창업자의 강력한 리더십과 혁신적 비전.md",
-    "Personal/Brokerage/William_s note/20250702 알아두면 저절로 부자되는 내 자식 금융교육 법 2탄.md",
     "Personal/Brokerage/William_s note",
-    "Personal/Brokerage",
-    "Research work",
-    "Personal"
+    "Personal/Brokerage"
   ]
 }
