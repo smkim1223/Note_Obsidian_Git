@@ -1,12 +1,13 @@
 ---
-title: Calculating Rates of Reaction | Edexcel A Level Chemistry Revision Notes 2015
-source: https://www.savemyexams.com/a-level/chemistry/edexcel/17/revision-notes/1-physical-chemistry/1-9-kinetics-i/1-9-2-calculating-rates-of-reaction/
+title: "Calculating Rates of Reaction | Edexcel A Level Chemistry Revision Notes 2015"
+source: "https://www.savemyexams.com/a-level/chemistry/edexcel/17/revision-notes/1-physical-chemistry/1-9-kinetics-i/1-9-2-calculating-rates-of-reaction/"
 author:
   - "[[Richard Boole]]"
 published: 2025-01-05
-created: 2025-07-11
-description: Revision notes on Calculating Rates of Reaction for the Edexcel A Level Chemistry syllabus, written by the Chemistry experts at Save My Exams.
-tags: []
+created: 2025-07-14
+description: "Revision notes on Calculating Rates of Reaction for the Edexcel A Level Chemistry syllabus, written by the Chemistry experts at Save My Exams."
+tags:
+  - "clippings"
 ---
 ## Calculating Rates of Reaction
 
