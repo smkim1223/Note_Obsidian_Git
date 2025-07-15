@@ -12,7 +12,9 @@
 
 double '[[]]' making a link for a note
 
-How about template and table
+How about a template and a table
+
+
 
 # LaTeX 수식 문법 정리 (기초부터 자주 쓰는 예시까지)
 LaTeX는 수학 및 과학 문서를 위한 고급 조판 언어입니다. 옵시디언(Obsidian), 마크다운, 논문 등 다양한 곳에서 사용할 수 있으며, `$...$` 또는 `$$...$$` 안에 입력하면 수식이 렌더링됩니다.
