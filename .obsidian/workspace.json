@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "SKim practice 1"
             }
-          },
-          {
-            "id": "5184d91c66301e2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +170,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "5184d91c66301e2e",
+  "active": "e3c1775604ceb699",
   "lastOpenFiles": [
-    "Temp/SKim practice 1.md",
     "conflict-files-obsidian-git.md",
+    "Temp/SKim practice 1.md",
     "Personal/Brokerage/William_s note/20250715 큰 부자 만들어 줄 미래 성장 섹터 - 해양 미세플라스틱 제거 로봇 산업.md",
     "Personal/Brokerage/William_s note/20250715 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 1화.md",
     "Personal/Brokerage/William_s note/20250715 부자들이 평생 자산증식 될 수밖에 없는 진짜 이유.md",
