@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of conflict-files-obsidian-git"
             }
+          },
+          {
+            "id": "30c27b0a3cd3b031",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +177,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "e3c1775604ceb699",
+  "active": "30c27b0a3cd3b031",
   "lastOpenFiles": [
     "Temp/SKim practice 1.md",
     "Personal/Brokerage/William_s note/20250716 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 2화.md",
