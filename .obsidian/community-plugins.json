@@ -1,4 +1,9 @@
 [
   "obsidian-git",
-  "smart-composer"
+  "smart-composer",
+  "various-complements",
+  "templater-obsidian",
+  "tag-wrangler",
+  "highlightr-plugin",
+  "obsidian-importer"
 ]
