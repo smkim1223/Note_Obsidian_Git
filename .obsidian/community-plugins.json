@@ -2,5 +2,7 @@
   "obsidian-git",
   "smart-composer",
   "various-complements",
-  "templater-obsidian"
+  "templater-obsidian",
+  "tag-wrangler",
+  "highlightr-plugin"
 ]
