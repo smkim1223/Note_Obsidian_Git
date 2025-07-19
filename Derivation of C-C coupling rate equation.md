@@ -74,17 +74,15 @@ $$
 $$
                                                                          
 ## Enolate formation as rate-determining step
-If C3 enolate formation, (C3H5O – H) _M-O_ is assumed to be the rate-determining step (RDS, REF14-16), then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
+If $\mathrm{C}_{3}$ enolate formation, $\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O}$ is assumed to be the rate-determining step (RDS) [R1-14-16], then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
+
 $$
 \begin{equation*}
 r_{\text {enol }}=r_{2}-r_{-2} \tag{S.19}
 \end{equation*}
 $$
 
-
-                                                                                                                                                                                                                                    (S.19)
-
-where _r_2 and _r_-2 are the forward and reverse rates of enolate formation, respectively. These rates can be written as the products of their respective barrier crossing coefficients ( ) and transition state concentrations ( ) [17]:
+where $r_{2}$ and $r_{-2}$ are the forward and reverse rates of enolate formation, respectively. These rates can be written as the products of their respective barrier crossing coefficients ( ) and transition state concentrations ( ) [17]:
 
                                                                                                                                                                                                            (S.20)
 
