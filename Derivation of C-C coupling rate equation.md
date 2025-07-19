@@ -1,9 +1,77 @@
 # Self-condensation:
 ## Elementary steps for self-condensation
-1. $C_3H_6O$ + $\ast{BAS}$ $\xleftrightarrow{K_1}$  ${(C_3H_6O)\ast{BAS}}$
-2. ${(C_3H_6O)\ast{BAS}}$ $\xleftrightarrow{k_2}$  ${(C_3H_5O-H)\ast{BAS}}$
-3. ${(C_3H_6O)\ast{BAS}}$ + $C_3H_6O$ $\xleftrightarrow{K_3}$  ${(C_3H_6O)}$${(C_3H_5O-H)\ast{BAS}}$
-4. 
+$$
+\begin{equation*}
+\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}+*_{M-O} \stackrel{K_{1}}{\leftrightarrow}\left(\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}\right) *_{M-O} \tag{S.5}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}\right) *_{M-O} \xrightarrow{k_{2}}\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O} \tag{S.6}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}+\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O} \stackrel{K_{3}}{\leftrightarrow}\left(\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}\right)\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O} \tag{S.7}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}\right)\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O} \xrightarrow{k_{4}}\left(\mathrm{C}_{6} \mathrm{H}_{11} \mathrm{O}_{2}-\mathrm{H}\right) *_{M-O} \tag{S.8}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(C_{6} H_{11} O_{2}-H\right) *_{M-O} \stackrel{K_{5}}{\leftrightarrow}\left(C_{6} H_{12} O_{2}\right) *_{M-O} \tag{S.9}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(\mathrm{C}_{6} \mathrm{H}_{12} \mathrm{O}_{2}\right) *_{M-O} \stackrel{K_{6}}{\leftrightarrow}\left(\mathrm{H}_{2} \mathrm{O}\right)\left(\mathrm{C}_{6} \mathrm{H}_{10} \mathrm{O}\right) *_{M-O} \tag{S.10}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(\mathrm{H}_{2} \mathrm{O}\right)\left(\mathrm{C}_{6} \mathrm{H}_{10} \mathrm{O}\right) *_{M-O} \stackrel{K_{7}}{\leftrightarrow} \mathrm{H}_{2} \mathrm{O}+\left(\mathrm{C}_{6} \mathrm{H}_{10} \mathrm{O}\right) *_{M-O} \tag{S.11}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(C_{6} H_{10} O\right) *_{M-O} \stackrel{K_{8}}{\leftrightarrow} C_{6} H_{10} O+*_{M-O} \tag{S.12}
+\end{equation*}
+$$
+
+Cross-condensation:
+$$
+\begin{equation*}
+C_{7} H_{6} O+\left(C_{3} H_{5} O-H\right) *_{M-O} \stackrel{K_{9}}{\leftrightarrow}\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) *_{M-O} \tag{S.13}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}\right)\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O} \xrightarrow{k_{10}}\left(\mathrm{C}_{10} \mathrm{H}_{11} \mathrm{O}_{2}-\mathrm{H}\right) *_{M-O} \tag{S.14}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(C_{10} H_{11} O_{2}-H\right) *_{M-O} \stackrel{K_{11}}{\longleftrightarrow}\left(C_{10} H_{12} O_{2}\right) *_{M-O} \tag{S.15}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(C_{10} H_{12} O_{2}\right) *_{M-O} \stackrel{K_{12}}{\longleftrightarrow}\left(H_{2} O\right)\left(C_{10} H_{10} O\right) *_{M-O} \tag{S.16}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(H_{2} O\right)\left(C_{10} H_{10} O\right) *_{M-O} \stackrel{K_{13}}{\longleftrightarrow} H_{2} O+\left(C_{10} H_{10} O\right) *_{M-O} \tag{S.17}
+\end{equation*}
+$$
+$$
+\begin{equation*}
+\left(C_{10} H_{10} O\right) *_{M-O} \stackrel{K_{14}}{\longleftrightarrow} C_{10} H_{10} O+*_{M-O} \tag{S.18}
+\end{equation*}
+$$
                                                                                                                                                                       (S.5)
 
                                                                                                                                                         (S.6)
