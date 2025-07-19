@@ -37,12 +37,14 @@
             "id": "b01a20a4ac5d4c9b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "_PARA note taking/002 Area/Brokerage/William_s note"
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250713 윌리엄의 거시경제 소설이야기👽.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "William_s note"
+              "title": "20250713 윌리엄의 거시경제 소설이야기👽"
             }
           }
         ],
@@ -109,8 +111,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250713 윌리엄의 거시경제 소설이야기👽.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20250713 윌리엄의 거시경제 소설이야기👽"
             }
           }
         ],
@@ -191,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 561.5,
-    "collapsed": true
+    "width": 561.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +210,7 @@
   },
   "active": "b01a20a4ac5d4c9b",
   "lastOpenFiles": [
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250617 1,000만원이 50억이 되는 돈의 흐름 매뉴얼.md",
     "_PARA note taking/001 Project/Personal/Personal.md",
     "Tags",
     "Obsidian note.md",
@@ -244,7 +246,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 요트 판매량으로 보는 경제 호황 정점 파악방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250716 나스닥 시장에서 투자자 수급 파악하는 방법 - 아주 중요함.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250716 미래의 1등 대장주 찾는 방법 (620) - 확장성이 뛰어난 사업모델.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250716 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 2화.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250716 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 5.md"
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250716 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 2화.md"
   ]
 }
