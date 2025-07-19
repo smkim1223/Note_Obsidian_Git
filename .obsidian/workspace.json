@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian note.md",
+                "file": "Derivation of C-C coupling rate equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian note"
+              "title": "Derivation of C-C coupling rate equation"
             }
           }
         ],
@@ -200,15 +200,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "f0f9e79ee2cbdf23",
   "lastOpenFiles": [
+    "Obsidian note.md",
+    "Derivation of C-C coupling rate equation.md",
     "_PARA note taking/004 Archive",
     "_PARA note taking/003 Resources",
     "_PARA note taking/002 Area",
     "_PARA note taking/001 Project",
     "Personal/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
     "_PARA note taking",
-    "Research work/C-C coupling rate equation",
+    "Research work/C-C coupling and condensation",
     "Personal/Brokerage/William_s note/20250718 _디폴트와 국가부도! 한 나라가 망한다는건 어떤 의미일까?.md",
     "Personal/Brokerage/William_s note/20250718 _윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 4화.md",
     "Personal/Brokerage/William_s note/20250715 부자들이 평생 자산증식 될 수밖에 없는 진짜 이유.md",
@@ -226,7 +228,6 @@
     "Personal/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
     "Personal/Brokerage/William_s note/20250717 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 3화.md",
     "Personal/Brokerage/William_s note/20250717 요트 판매량으로 보는 경제 호황 정점 파악방법.md",
-    "Obsidian note.md",
     "Personal/Brokerage/William_s note/20250716 나스닥 시장에서 투자자 수급 파악하는 방법 - 아주 중요함.md",
     "Personal/Brokerage/William_s note/20250716 미래의 1등 대장주 찾는 방법 (620) - 확장성이 뛰어난 사업모델.md",
     "Personal/Brokerage/William_s note/20250716 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 2화.md",
@@ -237,7 +238,6 @@
     "Personal/Brokerage/William_s note/20250711 미래의 1등 대장주 찾는 방법 (5_20) - 뛰어난 기술력과 지속적인 투자.md",
     "Personal/Brokerage/William_s note/20250712 재무제표 숨겨진 의미를 꿰뚫어 보는 방법 1편.md",
     "Research work/Chemical Engineering/Physical chemistry/001 Atomic structure",
-    "Research work/Chemical Engineering/Physical chemistry/002 Ions and Electrons",
-    "Research work/Chemical Engineering/Physical chemistry"
+    "Research work/Chemical Engineering/Physical chemistry/002 Ions and Electrons"
   ]
 }
