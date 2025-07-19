@@ -11,7 +11,8 @@
     },
     {
       "type": "gemini",
-      "id": "gemini"
+      "id": "gemini",
+      "apiKey": "AIzaSyBvLh-gz8FXbyhddPF4rhuy2UJv1vk_2r4"
     },
     {
       "type": "deepseek",
