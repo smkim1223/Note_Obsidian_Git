@@ -179,12 +179,16 @@ $$
 \left(1+
 \frac{\gamma_{* M-O} K_{1} a_{C_{3} H_{6} O}}{\gamma_{\left(C_{3} H_{6} O\right)^{*} M-O}}+
 \frac{\gamma_{* M-O} K_{1} K_{2} a_{C_{3} H_{6} O} O}{\gamma_{\left(C_{3} H_{5} O-H\right)^{*} M-O}}+
-\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O}^2{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+
+\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O}^2}{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+
 \frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) 
 
 \tag{S.34}
 \end{equation*}
 $$
+
+temp
+$ds$
+
 
 If enolate formation is assumed to be irreversible (i.e., $r_{2} \gg r_{-2}$ ) at low $\mathrm{C}_{3}$ conversion and, according to the pseudo steady state hypothesis (PSSH), the rate of change in bound enolates is zero at the start of the reaction (i.e., initial rates), then:
 $$
