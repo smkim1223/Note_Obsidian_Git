@@ -189,7 +189,10 @@ $$
 temp
 $$
 \begin{equation*}
-\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) 
+1+\frac{1}{1}
+\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{}
+
+{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}
 
 \end{equation*}
 $$
