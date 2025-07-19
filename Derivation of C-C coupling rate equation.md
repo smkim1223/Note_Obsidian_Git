@@ -196,7 +196,7 @@ $$
 Substituting equations (S.34) and (S.36) into (S.32) and assuming that $\eta \rightarrow 0$ at low $\mathrm{C}_{3}$ conversion, gives the general form of the $\mathrm{C}_{3}$ self-condensation rate expression:
 $$
 \begin{equation*}
-\frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6}} O^{2}}{(k_{4} K_{3} a_{C_{3} H_{6} O}{ }+{k_{10} K_{9} a_{C_{7} H_{6} O)(1+\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6}} O^{2}})}}} \tag{S.37}
+\frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6}} O^{2}}{(k_{4} K_{3} a_{C_{3} H_{6} O}{ }+{k_{10} K_{9} a_{C_{7} H_{6} O)(1+\frac{\gamma_{*_{M-O}} K_{1} a_{C_{3} H_{6}} O^{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6}} O^{2}})}}} \tag{S.37}
 \end{equation*}
 $$
 
