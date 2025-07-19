@@ -38,7 +38,12 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "//_PARA note taking",
+    "//_PARA note taking/_PARA note taking/001 Project",
+    "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal",
+    "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal/_PARA note taking/001 Project/Personal/Brokerage",
+    "//_PARA note taking/_PARA note taking/002 Area"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
