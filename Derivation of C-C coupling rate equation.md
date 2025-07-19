@@ -1,8 +1,8 @@
 # Self-condensation:
 ## Elementary steps for self-condensation
 1. $C_3H_6O$ + $\ast{BAS}$ $\xleftrightarrow{K_1}$  ${(C_3H_6O)\ast{BAS}}$
-2. ${(C_3H_6O)\ast{BAS}}$ $\xleftrightarrow{k_2}$  ${(C_3H_6O)\ast{BAS}}$
-3. 
+2. ${(C_3H_6O)\ast{BAS}}$ $\xleftrightarrow{k_2}$  ${(C_3H_5O-H)\ast{BAS}}$
+3. ${(C_3H_6O)\ast{BAS}}$ + $C_3H_6O$ $\xleftrightarrow{K_3}$  ${(C_3H_5O-H)\ast{BAS}}$
                                                                                                                                                                       (S.5)
 
                                                                                                                                                         (S.6)
