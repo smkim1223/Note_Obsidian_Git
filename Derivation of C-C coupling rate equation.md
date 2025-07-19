@@ -218,7 +218,7 @@ $$
 \end{equation*}
 $$
 >[!note]
->For kinetically relevant C-C coupling step for self-condensation, $K_9$ and $
+>For kinetically relevant C-C coupling step for self-condensation, $k_{9}$ and $k_{10}$ are related to cross-aldol condensation.
 
 
 ## Kinetically relevant C-C coupling step for benzaldehyde and propanal cross-condensation
