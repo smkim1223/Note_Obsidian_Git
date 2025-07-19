@@ -176,7 +176,13 @@ $$
 \begin{equation*}
 1=\frac{a_{* M-O}}{\gamma_{* M-O}}
 
-\left(1+\frac{\gamma_{* M-O} K_{1} a_{3} H_{6} O}{\gamma_{\left(C_{3} H_{6} O\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} a_{C_{3} H_{6} O} O}{\gamma_{\left(C_{3} H_{5} O-H\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O} O^{2}}{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) \tag{S.34}
+\left(1+
+\frac{\gamma_{* M-O} K_{1} a_{3} H_{6} O}{\gamma_{\left(C_{3} H_{6} O\right)^{*} M-O}}+
+\frac{\gamma_{* M-O} K_{1} K_{2} a_{C_{3} H_{6} O} O}{\gamma_{\left(C_{3} H_{5} O-H\right)^{*} M-O}}+
+\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O} O^{2}}{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+
+\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) 
+
+\tag{S.34}
 \end{equation*}
 $$
 
