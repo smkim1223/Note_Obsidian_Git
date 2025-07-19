@@ -186,15 +186,6 @@ $$
 \end{equation*}
 $$
 
-temp
-$$
-\begin{equation*}
-\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}
-
-\end{equation*}
-$$
-
-
 If enolate formation is assumed to be irreversible (i.e., $r_{2} \gg r_{-2}$ ) at low $\mathrm{C}_{3}$ conversion and, according to the pseudo steady state hypothesis (PSSH), the rate of change in bound enolates is zero at the start of the reaction (i.e., initial rates), then:
 $$
 \begin{equation*}
@@ -220,8 +211,6 @@ $$
 \end{equation*}
 $$
 
-
-![](https://cdn.mathpix.com/cropped/2025_07_19_8c09b95d012d29403c18g-4.jpg?height=118&width=1402&top_left_y=1730&top_left_x=242)
 If vacant M-O site pairs are the MARI at the start of the reaction (i.e., $K_{1} \ll 1$ ), then the simplified rate expression becomes:
 $$
 \begin{equation*}
