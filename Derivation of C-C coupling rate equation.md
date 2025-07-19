@@ -41,7 +41,7 @@ $$
 \end{equation*}
 $$
 
-Cross-condensation:
+## Elementary steps for Cross-condensation:
 $$
 \begin{equation*}
 C_{7} H_{6} O+\left(C_{3} H_{5} O-H\right) *_{M-O} \stackrel{K_{9}}{\leftrightarrow}\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) *_{M-O} \tag{S.13}
@@ -72,38 +72,8 @@ $$
 \left(C_{10} H_{10} O\right) *_{M-O} \stackrel{K_{14}}{\longleftrightarrow} C_{10} H_{10} O+*_{M-O} \tag{S.18}
 \end{equation*}
 $$
-                                                                                                                                                                      (S.5)
-
-                                                                                                                                                        (S.6)
-
-                                                                                    (S.7)
-
-                                                                                                             (S.8)
-
-                                                                                                                                (S.9)
-
-                                                                                                                                        (S.10)
-
-                                                                                                             (S.11)
-
-                                                                                                                                                                (S.12)
-
-Cross-condensation:
-
-                                                                                  (S.13)
-
-                                                                                                        (S.14)
-
-                                                                                                                                     (S.15)
-
-                                                                                                                              (S.16)
-
-                                                                                                              (S.17)
-
-                                                                                                                                                            (S.18)
-
-_2.1_  _Enolate formation as rate-determining step_
-
+                                                                         
+## Enolate formation as rate-determining step
 If C3 enolate formation, (C3H5O – H) _M-O_ is assumed to be the rate-determining step (RDS) [14-16], then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
 
                                                                                                                                                                                                                                     (S.19)
