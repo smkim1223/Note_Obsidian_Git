@@ -1,4 +1,4 @@
-# Self-condensation:
+# Derivation of Rate equation for condensation:
 ## Elementary steps for self-condensation
 
 $$
@@ -74,7 +74,7 @@ $$
 \end{equation*}
 $$
 
-### Enolate formation as rate-determining step
+## Enolate formation as rate-determining step
 
 If $\mathrm{C}_{3}$ enolate formation, $\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O}$ is assumed to be the rate-determining step (RDS) [14-16], then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
 $$
@@ -156,7 +156,7 @@ $$
 \end{equation*}
 $$
 
-### Kinetically relevant C-C coupling step for propanal self-condensation}
+## Kinetically relevant C-C coupling step for propanal self-condensation}
 
 By assuming that the kinetically relevant $\mathrm{C}-\mathrm{C}$ coupling step for $\mathrm{C}_{3}$ self-condensation is nucleophilic attack of the $\mathrm{C}_{3}$ enolate $\left(\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O}\right)$ on a second $\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}$ adsorbed at the M-O site $\left(\left(\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}\right) *_{M-O}\right)$ and all other steps are quasi-equilibrated, the rate expression can be written as:
 $$
@@ -218,7 +218,7 @@ $$
 \end{equation*}
 $$
 
-### Kinetically relevant $C$-C coupling step for benzaldehyde and propanal cross-condensation}
+## Kinetically relevant $C$-C coupling step for benzaldehyde and propanal cross-condensation}
 
 Like the $\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}$ self-condensation pathway, by assuming that the kinetically relevant $\mathrm{C}-\mathrm{C}$ coupling step for benzaldehyde ( $\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}$ ) and $\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}$ cross-condensation is nucleophilic attack of $\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O}$ on $\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}$ adsorbed at the M-O site ( $\left(\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}\right) *_{M-O}$ ) and all other steps are quasiequilibrated, the rate expression is written as:
 $$
