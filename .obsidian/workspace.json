@@ -100,16 +100,13 @@
             }
           },
           {
-            "id": "b243e6a16c7cc1d7",
+            "id": "e2e34e66716738ba",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -209,13 +206,23 @@
               "icon": "wand-sparkles",
               "title": "Smart composer chat"
             }
+          },
+          {
+            "id": "fdd9ad732fc12f5a",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-perplexity_skim",
+              "state": {},
+              "icon": "lucide-cat",
+              "title": "Perplexity_SKim"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 561.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,7 +237,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b01a20a4ac5d4c9b",
+  "active": "fdd9ad732fc12f5a",
   "lastOpenFiles": [
     "Tags",
     "Obsidian note.md",
