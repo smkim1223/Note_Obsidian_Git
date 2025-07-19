@@ -74,7 +74,13 @@ $$
 $$
                                                                          
 ## Enolate formation as rate-determining step
-If C3 enolate formation, (C3H5O – H) _M-O_ is assumed to be the rate-determining step (RDS, REF14-16, then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
+If C3 enolate formation, (C3H5O – H) _M-O_ is assumed to be the rate-determining step (RDS, REF14-16), then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
+$$
+\begin{equation*}
+r_{\text {enol }}=r_{2}-r_{-2} \tag{S.19}
+\end{equation*}
+$$
+
 
                                                                                                                                                                                                                                     (S.19)
 
