@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cf9bea548ef60a91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Brokerage/William_s note/20250715 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 1화.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250715 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 1화"
-            }
-          },
-          {
-            "id": "9a98816cb8d26c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다"
-            }
-          },
-          {
             "id": "f0f9e79ee2cbdf23",
             "type": "leaf",
             "state": {
@@ -49,8 +21,7 @@
               "title": "Derivation of C-C coupling rate equation"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,13 +173,14 @@
   },
   "active": "f0f9e79ee2cbdf23",
   "lastOpenFiles": [
-    "Obsidian note.md",
+    "Personal/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
+    "Personal/Brokerage/William_s note/20250715 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 1화.md",
     "Derivation of C-C coupling rate equation.md",
+    "Obsidian note.md",
     "_PARA note taking/004 Archive",
     "_PARA note taking/003 Resources",
     "_PARA note taking/002 Area",
     "_PARA note taking/001 Project",
-    "Personal/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
     "_PARA note taking",
     "Research work/C-C coupling and condensation",
     "Personal/Brokerage/William_s note/20250718 _디폴트와 국가부도! 한 나라가 망한다는건 어떤 의미일까?.md",
@@ -236,7 +208,6 @@
     "Temp/SKim practice 1.md",
     "Pasted image 20250715002834.png",
     "Personal/Brokerage/William_s note/20250711 미래의 1등 대장주 찾는 방법 (5_20) - 뛰어난 기술력과 지속적인 투자.md",
-    "Personal/Brokerage/William_s note/20250712 재무제표 숨겨진 의미를 꿰뚫어 보는 방법 1편.md",
     "Research work/Chemical Engineering/Physical chemistry/001 Atomic structure",
     "Research work/Chemical Engineering/Physical chemistry/002 Ions and Electrons"
   ]
