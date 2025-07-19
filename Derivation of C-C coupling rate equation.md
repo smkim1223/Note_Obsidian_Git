@@ -218,6 +218,8 @@ $$
 \end{equation*}
 $$
 
+
+
 ## Kinetically relevant C-C coupling step for benzaldehyde and propanal cross-condensation}
 
 Like the $\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}$ self-condensation pathway, by assuming that the kinetically relevant $\mathrm{C}-\mathrm{C}$ coupling step for benzaldehyde ( $\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}$ ) and $\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}$ cross-condensation is nucleophilic attack of $\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O}$ on $\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}$ adsorbed at the M-O site ( $\left(\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}\right) *_{M-O}$ ) and all other steps are quasiequilibrated, the rate expression is written as:
