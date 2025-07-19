@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "Obsidian note"
             }
+          },
+          {
+            "id": "ec5090c94d4c7cdb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "b01a20a4ac5d4c9b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/GetStarted.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/GetStarted.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -73,8 +98,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "b243e6a16c7cc1d7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,10 +227,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0f9e79ee2cbdf23",
+  "active": "b01a20a4ac5d4c9b",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Tags",
     "Obsidian note.md",
+    "Welcome.md",
     "Pasted image 20250715002834.png",
     "_PARA note taking/001 Project/Research/On-going or future Proposal concept/Electrochemical C-C coupling reaction.md",
     "_PARA note taking/001 Project/Personal",
@@ -228,7 +265,6 @@
     "_PARA note taking/001 Project/Personal/Brokerage/William_s note/20250716 나스닥 시장에서 투자자 수급 파악하는 방법 - 아주 중요함.md",
     "_PARA note taking/001 Project/Personal/Brokerage/William_s note/20250716 미래의 1등 대장주 찾는 방법 (620) - 확장성이 뛰어난 사업모델.md",
     "_PARA note taking/001 Project/Personal/Brokerage/William_s note/20250716 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 2화.md",
-    "_PARA note taking/001 Project/Personal/Brokerage/William_s note/20250716 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 5.md",
-    "_PARA note taking/001 Project/Personal/Brokerage/William_s note/20250715 큰 부자 만들어 줄 미래 성장 섹터 - 해양 미세플라스틱 제거 로봇 산업.md"
+    "_PARA note taking/001 Project/Personal/Brokerage/William_s note/20250716 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 5.md"
   ]
 }

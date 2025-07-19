@@ -2,5 +2,8 @@
   "obsidian-git",
   "smart-composer",
   "table-editor-obsidian",
-  "editing-toolbar"
+  "editing-toolbar",
+  "make-md",
+  "obsidian-hover-editor",
+  "obsidian-custom-frames"
 ]
