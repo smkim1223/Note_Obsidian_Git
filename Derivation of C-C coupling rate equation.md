@@ -218,7 +218,7 @@ $$
 \end{equation*}
 $$
 
-## Kinetically relevant $C$-C coupling step for benzaldehyde and propanal cross-condensation}
+## Kinetically relevant C-C coupling step for benzaldehyde and propanal cross-condensation}
 
 Like the $\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}$ self-condensation pathway, by assuming that the kinetically relevant $\mathrm{C}-\mathrm{C}$ coupling step for benzaldehyde ( $\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}$ ) and $\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}$ cross-condensation is nucleophilic attack of $\left(\mathrm{C}_{3} \mathrm{H}_{5} \mathrm{O}-\mathrm{H}\right) *_{M-O}$ on $\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}$ adsorbed at the M-O site ( $\left(\mathrm{C}_{7} \mathrm{H}_{6} \mathrm{O}\right) *_{M-O}$ ) and all other steps are quasiequilibrated, the rate expression is written as:
 $$
@@ -237,7 +237,7 @@ $$
 $$
 
 
-### Ref
+## Ref
 (14) S. Wang, K. Goulas, E. Iglesia, Condensation and esterification reactions of alkanals, alkanones, and alkanols on TiO2: Elementary steps, site requirements, and synergistic effects of bifunctional strategies, Journal of Catalysis, 340 (2016) 302-320.
 
 (15) S. Wang, E. Iglesia, Entropy-Driven High Reactivity of Formaldehyde in Nucleophilic Attack by Enolates on Oxide Surfaces, Journal of the American Chemical Society, 140 (2018) 775-782.
@@ -245,3 +245,6 @@ $$
 (16) S. Wang, E. Iglesia, Substituent Effects and Molecular Descriptors of Reactivity in Condensation and Esterification Reactions of Oxygenates on Acid–Base Pairs at TiO2 and ZrO2 Surfaces, Journal of Physical Chemistry C, 120 (2016) 21589-21616.
 
 (17) A.A. Khechfe, T.B.M. Matha, Y. Román-Leshkov, Solvent Polarity and Framework Hydrophobicity of Hf-BEA Zeolites Influence Aldol Addition Rates in Organic Media, ACS Catalysis, 13 (2023) 6474-6485.
+
+
+sdfsd
