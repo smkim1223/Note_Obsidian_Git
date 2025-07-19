@@ -1,6 +1,6 @@
 # Self-condensation:
 ## Elementary steps for self-condensation
-1. $C_3H_6O$ + *M-O $\leftrightarrow$  
+1. $C_3H_6O$ + $\ase*M-O $\xleftrightarrow{K_1}$  ()
                                                                                                                                                                       (S.5)
 
                                                                                                                                                         (S.6)
