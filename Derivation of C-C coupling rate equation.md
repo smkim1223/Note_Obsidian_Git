@@ -1,6 +1,6 @@
 # Self-condensation:
-\section*{1. Derivation of plausible rate expressions for self- and cross-aldol condensations}
-$\frac{\text { Self-condensation: }}{K_{1}}$
+## Elementary steps for self-condensation
+
 $$
 \begin{equation*}
 \mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}+*_{M-O} \stackrel{K_{1}}{\leftrightarrow}\left(\mathrm{C}_{3} \mathrm{H}_{6} \mathrm{O}\right) *_{M-O} \tag{S.5}
@@ -42,7 +42,7 @@ $$
 \end{equation*}
 $$
 
-Cross-condensation:
+## ECross-condensation:
 $$
 \begin{equation*}
 C_{7} H_{6} O+\left(C_{3} H_{5} O-H\right) *_{M-O} \stackrel{K_{9}}{\leftrightarrow}\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) *_{M-O} \tag{S.13}
