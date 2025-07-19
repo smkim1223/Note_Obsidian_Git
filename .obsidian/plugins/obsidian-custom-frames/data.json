@@ -1,9 +1,9 @@
 {
   "frames": [
     {
-      "url": "",
-      "displayName": "New Frame",
-      "icon": "",
+      "url": "https://www.perplexity.ai/",
+      "displayName": "Perplexity",
+      "icon": "cat",
       "hideOnMobile": true,
       "addRibbonIcon": false,
       "openInCenter": false,
