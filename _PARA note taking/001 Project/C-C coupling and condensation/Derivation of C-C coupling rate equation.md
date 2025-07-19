@@ -222,8 +222,8 @@ $$
 >$$
 \begin{equation*}
 \frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6} O}^{2}}{k_{4} K_{3} a_{C_{3} H_{6} O}}
-= \gamma_{*_{M-O}} k_{2} K_{1} K_{3} a_{C_{3} H_{6} O}^{2}
-\tag{S.38}
+= \gamma_{*_{M-O}} k_{2} K_{1} a_{C_{3} H_{6} O}
+\tag{S.38 rev}
 \end{equation*} 
 $$
 
@@ -255,5 +255,3 @@ $$
 
 (17) A.A. Khechfe, T.B.M. Matha, Y. Román-Leshkov, Solvent Polarity and Framework Hydrophobicity of Hf-BEA Zeolites Influence Aldol Addition Rates in Organic Media, ACS Catalysis, 13 (2023) 6474-6485.
 
-
-sdfsd
