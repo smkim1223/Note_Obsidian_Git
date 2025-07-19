@@ -218,7 +218,7 @@ $$
 \end{equation*}
 $$
 >[!note]
->Since the kinetically relevant step of C-C coupling in self-condensation, **$k_{9}$ and $k_{10}$ are associated with cross-aldol condensation**. So, we should disregard those term. Hence, the rate expression should be changed below:
+>Since the kinetically relevant step of C-C coupling in self-condensation, **$k_{9}$ and $k_{10}$ are associated with cross-aldol condensation, which can be neglected.** Therefore, we can simplify the rate equationdisregard those term. Hence, the rate expression should be changed below:
 
 
 ## Kinetically relevant C-C coupling step for benzaldehyde and propanal cross-condensation
