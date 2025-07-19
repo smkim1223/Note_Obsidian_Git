@@ -1,6 +1,4 @@
-**1.**     **Derivation of plausible rate expressions for self- and cross-aldol condensations**
-
-Self-condensation:
+# Self-condensation:
 
                                                                                                                                                                       (S.5)
 
