@@ -174,7 +174,9 @@ $$
 which can be expressed in terms of $a_{i}, \gamma_{i}$, and $K_{i}$ as:
 $$
 \begin{equation*}
-1=\frac{a_{* M-O}}{\gamma_{* M-O}}\left(1+\frac{\gamma_{* M-O} K_{1} a a_{3} H_{6} O}{\gamma_{\left(C_{3} H_{6} O\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} a_{C_{3} H_{6} O} O}{\gamma_{\left(C_{3} H_{5} O-H\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O} O^{2}}{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) \tag{S.34}
+1=\frac{a_{* M-O}}{\gamma_{* M-O}}
+
+\left(1+\frac{\gamma_{* M-O} K_{1} a_{3} H_{6} O}{\gamma_{\left(C_{3} H_{6} O\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} a_{C_{3} H_{6} O} O}{\gamma_{\left(C_{3} H_{5} O-H\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O} O^{2}}{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) \tag{S.34}
 \end{equation*}
 $$
 
@@ -196,7 +198,10 @@ $$
 Substituting equations (S.34) and (S.36) into (S.32) and assuming that $\eta \rightarrow 0$ at low $\mathrm{C}_{3}$ conversion, gives the general form of the $\mathrm{C}_{3}$ self-condensation rate expression:
 $$
 \begin{equation*}
-\frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6} O}^{2}}{\left(1+\frac{\gamma_{* M-O} K_{1} a a_{3} H_{6} O}{\gamma_{\left(C_{3} H_{6} O\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} a_{C_{3} H_{6} O} O}{\gamma_{\left(C_{3} H_{5} O-H\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O} O^{2}}{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) } \tag{S.37}
+\frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6} O}^{2}}
+
+{\left(1+\frac{\gamma_{* M-O} K_{1}  a_{3} H_{6} O}{\gamma_{\left(C_{3} H_{6} O\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} a_{C_{3} H_{6} O} O}{\gamma_{\left(C_{3} H_{5} O-H\right)^{*} M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O} O^{2}}{\gamma_{\left(C_{3} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}+\frac{\gamma_{* M-O} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{\left(C_{7} H_{6} O\right)\left(C_{3} H_{5} O-H\right) * M-O}}\right) } 
+\tag{S.37}
 \end{equation*}
 $$
 
