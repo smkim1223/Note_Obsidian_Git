@@ -217,8 +217,9 @@ $$
 \frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6} O}^{2}}{k_{4} K_{3} a_{C_{3} H_{6} O}{ }+{k_{10} K_{9} a_{C_{7} H_{6} O}}} \tag{S.38}
 \end{equation*}
 $$
+>[!note]
+>sdf
 
-#
 
 ## Kinetically relevant C-C coupling step for benzaldehyde and propanal cross-condensation}
 
