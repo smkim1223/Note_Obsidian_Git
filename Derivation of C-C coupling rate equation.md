@@ -206,9 +206,9 @@ $$
 \begin{equation*}
 (
 {k_{4} K_{3} a_{C_{3} H_{6} O}{ }+{k_{10} K_{9} a_{C_{7} H_{6} O}}})(1+\frac{\gamma_{*_{M-O}} K_{1} a_{C_{3} H_{6} O}}{\gamma_{_{(C_{3} H_{6} O)}*_{M-O}}} + 
-\frac{\gamma_{*_{M-O}} K_{1} a_{C_{3} H_{6} O}}{\gamma_{_{(C_{3} H_{6} O)}*_{M-O}}}
+\frac{\gamma_{*_{M-O}} K_{1} K_{2} a_{C_{3} H_{6} O}}{\gamma_{_{(C_{3} H_{6} O)}*_{M-O}}}
 +
-\frac{\gamma_{*_{M-O}} K_{1} a_{C_{3} H_{6} O}}{\gamma_{_{(C_{3} H_{6} O)}*_{M-O}}}
+\frac{\gamma_{*_{M-O}} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O}}{\gamma_{_{(C_{3} H_{6} O)}*_{M-O}}}
 +
 \frac{\gamma_{*_{M-O}} K_{1} a_{C_{3} H_{6} O}}{\gamma_{_{(C_{3} H_{6} O)}*_{M-O}}}
 )
