@@ -1,5 +1,7 @@
+Re
 # Self-condensation:
-
+## Elementary steps for self-condensation
+1. C3H6O + 
                                                                                                                                                                       (S.5)
 
                                                                                                                                                         (S.6)
