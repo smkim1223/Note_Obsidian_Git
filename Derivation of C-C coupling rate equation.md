@@ -202,14 +202,6 @@ $$
 +
 \frac{\gamma_{*_{M-O}} K_{1} K_{2} K_{3} a_{C_{3} H_{6} O}^2}{\gamma_{_{(C_{3} H_{6} O)(C_{3} H_{5} O-H)}*_{M-O}}}
 +
-\frac{\gamma_{*_{M-O}} K_{1} K_{2} K_{9} a_{C_{3} H_{6} O} a_{C_{7} H_{6} O}}{\gamma_{_{(C_{7} H_{6} O)(C_{3} H_{5} O-H)}*_{M-O}}}
-)} \tag{S.37}
-\end{equation*}
-$$
-
-
-Temp
-$$
 \begin{equation*}
 (
 {k_{4} K_{3} a_{C_{3} H_{6} O}{ }+{k_{10} K_{9} a_{C_{7} H_{6} O}}})(1+\frac{\gamma_{*_{M-O}} K_{1} a_{C_{3} H_{6} O}}{\gamma_{_{(C_{3} H_{6} O)}*_{M-O}}} + 
@@ -221,6 +213,7 @@ $$
 )
 
 \end{equation*}
+
 $$
 
 $$
