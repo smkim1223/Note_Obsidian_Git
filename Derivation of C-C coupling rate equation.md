@@ -218,7 +218,7 @@ $$
 \end{equation*}
 $$
 
-
+#
 
 ## Kinetically relevant C-C coupling step for benzaldehyde and propanal cross-condensation}
 
