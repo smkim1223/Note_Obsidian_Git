@@ -205,7 +205,7 @@ $$
 If vacant M-O site pairs are the MARI at the start of the reaction (i.e., $K_{1} \ll 1$ ), then the simplified rate expression becomes:
 $$
 \begin{equation*}
-\frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6}} O^{2}}{k_{4} K_{3} a_{C_{3} H_{6} O}{ }+{k_{10} K_{9} a_{C_{7} H_{6} O}}} \tag{S.38}
+\frac{r_{\text {self }}}{[L]}=\frac{\gamma_{*_{M-O}} k_{2} k_{4} K_{1} K_{3} a_{C_{3} H_{6} O}^{2}}{k_{4} K_{3} a_{C_{3} H_{6} O}{ }+{k_{10} K_{9} a_{C_{7} H_{6} O}}} \tag{S.38}
 \end{equation*}
 $$
 
