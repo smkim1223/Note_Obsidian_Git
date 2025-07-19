@@ -74,7 +74,7 @@ $$
 $$
                                                                          
 ## Enolate formation as rate-determining step
-If C3 enolate formation, (C3H5O – H) _M-O_ is assumed to be the rate-determining step (RDS) [14-16], then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
+If C3 enolate formation, (C3H5O – H) _M-O_ is assumed to be the rate-determining step (RDS, REF14-16, then, according to transition-state theory, the total rate of reaction can be described by the net rate of reaction for step 2 (S.6):
 
                                                                                                                                                                                                                                     (S.19)
 
@@ -167,3 +167,9 @@ Substituting equations (S.34) and (S.36) into (S.39) and assuming that  → 0 a
                         If vacant M-O site pairs are the MARI at the start of the reaction (i.e., _K_1 ≪ 1), then the simplified rate expression becomes:
 
                                                                                                                                                                       (S.41)
+
+14 S. Wang, K. Goulas, E. Iglesia, Condensation and esterification reactions of alkanals, alkanones, and alkanols on TiO2: Elementary steps, site requirements, and synergistic effects of bifunctional strategies, Journal of Catalysis, 340 (2016) 302-320.
+
+15  S. Wang, E. Iglesia, Entropy-Driven High Reactivity of Formaldehyde in Nucleophilic Attack by Enolates on Oxide Surfaces, Journal of the American Chemical Society, 140 (2018) 775-782.
+
+16  S. Wang, E. Iglesia, Substituent Effects and Molecular Descriptors of Reactivity in Condensation and Esterification Reactions of Oxygenates on Acid–Base Pairs at TiO2 and ZrO2 Surfaces, Journal of Physical Chemistry C, 120 (2016) 21589-21616.
