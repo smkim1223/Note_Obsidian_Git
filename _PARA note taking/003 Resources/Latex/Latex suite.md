@@ -1,11 +1,3 @@
-$$
-\alpha_{1}
-$$
-$$
-\alpha
-$$
-
-
 ###  Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
