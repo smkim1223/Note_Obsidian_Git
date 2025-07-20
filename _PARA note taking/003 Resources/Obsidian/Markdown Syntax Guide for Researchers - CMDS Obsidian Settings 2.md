@@ -71,6 +71,8 @@ Created at
 \*\*\*볼드체와 이탤릭체 함께\*\*\* or \_\_\_볼드체와 이탤릭체 함께\_\_\_  
 볼드체와 이탤릭체 함께
 
+---
+
 ## Lists
 
 ### Ordered List
@@ -113,6 +115,7 @@ Second item
 
 Third item
 
+---
 ### Task List
 
 \- \[x\] Write the literature review
@@ -136,6 +139,8 @@ Analyze results
 논문리뷰
 
 리비전 교정 표 만들고
+
+---
 
 ## Code
 
