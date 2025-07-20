@@ -39,14 +39,12 @@
             "id": "5ff2b28b2c9ab46c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
-                "mode": "source",
-                "source": false
+                "path": "_PARA note taking/003 Resources/Obsidian"
               },
               "icon": "lucide-file",
-              "title": "20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회"
+              "title": "Obsidian"
             }
           }
         ],
@@ -221,8 +219,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2509ad4999647b57",
+  "active": "5ff2b28b2c9ab46c",
   "lastOpenFiles": [
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250718 디폴트와 국가부도! 한 나라가 망한다는건 어떤 의미일까.md",
@@ -251,7 +250,6 @@
     "_PARA note taking/003 Resources/Latex",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250624 ETF (상장지수펀드) 개별 종목에 물려본 사람이 알아야 할 투자 필수템.md",
     "_PARA note taking/004 Archive",
     "Temp2",
     "Tags",
