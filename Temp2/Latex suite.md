@@ -1,4 +1,6 @@
-Test
+$$
+
+$$
 $$
 \alpha
 $$
@@ -40,8 +42,7 @@ $$
 ### Text environment
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
     {trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
-
-    // Basic operations
+### Basic operations
     {trigger: "sr", replacement: "^{2}", options: "mA"},
 	{trigger: "cb", replacement: "^{3}", options: "mA"},
 	{trigger: "rd", replacement: "^{$0}$1", options: "mA"},
