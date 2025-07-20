@@ -39,14 +39,12 @@
             "id": "5ff2b28b2c9ab46c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
-                "mode": "source",
-                "source": false
+                "path": "_PARA note taking/002 Area/Brokerage"
               },
               "icon": "lucide-file",
-              "title": "Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2"
+              "title": "Brokerage"
             }
           }
         ],
@@ -113,8 +111,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,8 +218,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "5ff2b28b2c9ab46c",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
+    "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
@@ -235,7 +233,6 @@
     "Temp/Practice.md",
     "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
     "_PARA note taking/003 Resources/Obsidian/Obsidian Markdown syntax guide for researchers.md",
-    "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
     "Clippings/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings.md",
     "Clippings/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 1.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Derivation of C-C coupling rate equation.md",
