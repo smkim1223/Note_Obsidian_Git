@@ -13,44 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
+                "file": "Temp/Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!"
+              "title": "Practice"
             }
           },
           {
-            "id": "8829aef2302d376e",
+            "id": "efd9c9132ca0965c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀"
-            }
-          },
-          {
-            "id": "5ff2b28b2c9ab46c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +90,7 @@
             }
           },
           {
-            "id": "2509ad4999647b57",
+            "id": "46cc1505d80d2bb5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -181,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/Practice.md",
+                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Practice"
+              "title": "Outline of conflict-files-obsidian-git"
             }
           },
           {
@@ -217,14 +203,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false
+      "smart-composer:Open smart composer": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "5ff2b28b2c9ab46c",
+  "active": "efd9c9132ca0965c",
   "lastOpenFiles": [
-    "Clippings/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
-    "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
+    "conflict-files-obsidian-git.md",
     "Temp/Practice.md",
+    "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
+    "Clippings/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
     "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
     "_PARA note taking/003 Resources/Obsidian/Obsidian Markdown syntax guide for researchers.md",
     "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
@@ -247,7 +236,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250624 ETF (상장지수펀드) 개별 종목에 물려본 사람이 알아야 할 투자 필수템.md",
     "_PARA note taking/004 Archive",
     "Temp2/# mar.md",
-    "conflict-files-obsidian-git.md",
     "Temp2",
     "Tags",
     "Personal/Note/Para note taking.md",
