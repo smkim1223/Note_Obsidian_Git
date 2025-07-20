@@ -148,37 +148,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
-            }
-          },
-          {
-            "id": "30c27b0a3cd3b031",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
-          },
-          {
-            "id": "d80d6330aec8956c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +176,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d93153dbfd6ea11e",
+  "active": "e31070ef2ce98d44",
   "lastOpenFiles": [
     "Obsidian note.md",
     "Temp2/Confirmation for sync.md",
