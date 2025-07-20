@@ -180,8 +180,7 @@ $$
     {trigger: "oinf", replacement: "\\int_{0}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
 	{trigger: "infi", replacement: "\\int_{-\\infty}^{\\infty} $0 \\, d${1:x} $2", options: "mA"},
 
-
-    // Trigonometry
+### Trigonometry
     {trigger: /([^\\])(arcsin|sin|arccos|cos|arctan|tan|csc|sec|cot)/, replacement: "[[0]]\\[[1]]", options: "rmA", description: "Add backslash before trig funcs"},
 
     {trigger: /\\(arcsin|sin|arccos|cos|arctan|tan|csc|sec|cot)([A-Za-gi-z])/,
@@ -192,8 +191,7 @@ $$
      replacement: "\\[[0]] [[1]]", options: "rmA",
      description: "Add space after hyperbolic trig funcs"},
 
-
-    // Visual operations
+### Visual operations
 	{trigger: "U", replacement: "\\underbrace{ ${VISUAL} }_{ $0 }", options: "mA"},
 	{trigger: "O", replacement: "\\overbrace{ ${VISUAL} }^{ $0 }", options: "mA"},
 	{trigger: "B", replacement: "\\underset{ $0 }{ ${VISUAL} }", options: "mA"},
@@ -201,8 +199,7 @@ $$
 	{trigger: "K", replacement: "\\cancelto{ $0 }{ ${VISUAL} }", options: "mA"},
 	{trigger: "S", replacement: "\\sqrt{ ${VISUAL} }", options: "mA"},
 
-
-    // Physics
+### Physics
 	{trigger: "kbt", replacement: "k_{B}T", options: "mA"},
 	{trigger: "msun", replacement: "M_{\\odot}", options: "mA"},
 
@@ -214,16 +211,14 @@ $$
 	{trigger: "ket", replacement: "\\ket{$0} $1", options: "mA"},
 	{trigger: "brk", replacement: "\\braket{ $0 | $1 } $2", options: "mA"},
     {trigger: "outer", replacement: "\\ket{${0:\\psi}} \\bra{${0:\\psi}} $1", options: "mA"},
-
-    // Chemistry
+### Chemistry
 	{trigger: "pu", replacement: "\\pu{ $0 }", options: "mA"},
 	{trigger: "cee", replacement: "\\ce{ $0 }", options: "mA"},
 	{trigger: "he4", replacement: "{}^{4}_{2}He ", options: "mA"},
 	{trigger: "he3", replacement: "{}^{3}_{2}He ", options: "mA"},
 	{trigger: "iso", replacement: "{}^{${0:4}}_{${1:2}}${2:He}", options: "mA"},
 
-
-    // Environments
+### Environments
 	{trigger: "pmat", replacement: "\\begin{pmatrix}\n$0\n\\end{pmatrix}", options: "MA"},
 	{trigger: "bmat", replacement: "\\begin{bmatrix}\n$0\n\\end{bmatrix}", options: "MA"},
 	{trigger: "Bmat", replacement: "\\begin{Bmatrix}\n$0\n\\end{Bmatrix}", options: "MA"},
@@ -242,8 +237,7 @@ $$
 	{trigger: "align", replacement: "\\begin{align}\n$0\n\\end{align}", options: "mA"},
 	{trigger: "array", replacement: "\\begin{array}\n$0\n\\end{array}", options: "mA"},
 
-
-    // Brackets
+### Brackets
 	{trigger: "avg", replacement: "\\langle $0 \\rangle $1", options: "mA"},
 	{trigger: "norm", replacement: "\\lvert $0 \\rvert $1", options: "mA", priority: 1},
 	{trigger: "Norm", replacement: "\\lVert $0 \\rVert $1", options: "mA", priority: 1},
