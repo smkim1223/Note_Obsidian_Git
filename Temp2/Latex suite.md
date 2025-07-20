@@ -147,9 +147,7 @@ $$
 	{trigger: "RR", replacement: "\\mathbb{R}", options: "mA"},
 	{trigger: "ZZ", replacement: "\\mathbb{Z}", options: "mA"},
 	{trigger: "NN", replacement: "\\mathbb{N}", options: "mA"},
-
-    // Handle spaces and backslashes
-
+### Handle spaces and backslashes
     // Snippet variables can be used as shortcuts when writing snippets.
     // For example, ${GREEK} below is shorthand for "alpha|beta|gamma|Gamma|delta|..."
     // You can edit snippet variables under the Advanced snippet settings section.
@@ -168,9 +166,7 @@ $$
 	{trigger: "\\\\(${GREEK}|${SYMBOL}) vec", replacement: "\\vec{\\[[0]]}", options: "rmA"},
 	{trigger: "\\\\(${GREEK}|${SYMBOL}) tilde", replacement: "\\tilde{\\[[0]]}", options: "rmA"},
 	{trigger: "\\\\(${GREEK}|${SYMBOL}) und", replacement: "\\underline{\\[[0]]}", options: "rmA"},
-
-
-    // Derivatives and integrals
+### Derivatives and integrals
     {trigger: "par", replacement: "\\frac{ \\partial ${0:y} }{ \\partial ${1:x} } $2", options: "m"},
     {trigger: /pa([A-Za-z])([A-Za-z])/, replacement: "\\frac{ \\partial [[0]] }{ \\partial [[1]] } ", options: "rm"},
     {trigger: "ddt", replacement: "\\frac{d}{dt} ", options: "mA"},
