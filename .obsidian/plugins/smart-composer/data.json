@@ -281,7 +281,7 @@
   },
   "chatOptions": {
     "includeCurrentFileContent": true,
-    "enableTools": true,
+    "enableTools": false,
     "maxAutoIterations": 1
   }
 }
