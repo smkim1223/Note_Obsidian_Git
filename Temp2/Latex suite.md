@@ -1,7 +1,7 @@
- Test
- $$
-a
-$$
+Test
+
+
+
 ###  Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
