@@ -42,11 +42,10 @@
     "//_PARA note taking/_PARA note taking/001 Project",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal/_PARA note taking/001 Project/Personal/Brokerage",
-    "//_PARA note taking/_PARA note taking/002 Area",
-    "//_PARA note taking/_PARA note taking/002 Area/_PARA note taking/002 Area/Brokerage",
     "//_PARA note taking/_PARA note taking/002 Area/_PARA note taking/002 Area/Brokerage/_PARA note taking/002 Area/Brokerage/William_s note",
     "//Temp2",
-    "//_PARA note taking"
+    "//_PARA note taking",
+    "//_PARA note taking/_PARA note taking/003 Resources"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

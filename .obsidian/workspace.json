@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!"
+              "title": "20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회"
             }
           }
         ],
@@ -113,7 +113,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -220,10 +221,16 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "5ff2b28b2c9ab46c",
+  "active": "2509ad4999647b57",
   "lastOpenFiles": [
-    "Clippings/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
-    "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250718 디폴트와 국가부도! 한 나라가 망한다는건 어떤 의미일까.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250719 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 6 디지털화폐 특집.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250719 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 5화.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250719윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 4화.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
     "Temp/Practice.md",
     "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
     "_PARA note taking/003 Resources/Obsidian/Obsidian Markdown syntax guide for researchers.md",
@@ -246,14 +253,8 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250624 ETF (상장지수펀드) 개별 종목에 물려본 사람이 알아야 할 투자 필수템.md",
     "_PARA note taking/004 Archive",
-    "Temp2/# mar.md",
-    "conflict-files-obsidian-git.md",
     "Temp2",
     "Tags",
-    "Personal/Note/Para note taking.md",
-    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/Initial Rates Method.md",
-    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/004 Catalysts in Industry - A Level Chemistry Revision Notes.md",
-    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/003 Maxwell-Boltzmann Distributions  Edexcel A Level Chemistry Revision Notes 2015.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/001 Atomic structure",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry",
