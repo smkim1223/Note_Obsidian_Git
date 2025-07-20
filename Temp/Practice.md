@@ -18,4 +18,9 @@
 >[!tip]
 >Use callouts for better readability!
 
-- [ ] 
+- [ ] trst
+- [x] dsf
+- 
+
+This is a footnote[^1]
+[]
