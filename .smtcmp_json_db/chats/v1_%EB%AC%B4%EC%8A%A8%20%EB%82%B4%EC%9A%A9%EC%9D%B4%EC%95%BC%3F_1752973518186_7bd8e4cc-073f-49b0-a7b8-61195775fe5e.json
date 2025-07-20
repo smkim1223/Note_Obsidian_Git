@@ -166,9 +166,65 @@
           "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
         }
       ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@William_s note",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "William_s note",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 폴더에서 에러 있는 파일들 찾아줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "29aa121a-dfdd-4d80-9888-e92b9fd21198",
+      "mentionables": [
+        {
+          "type": "folder",
+          "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+        }
+      ]
     }
   ],
   "createdAt": 1752973279227,
-  "updatedAt": 1752973304168,
+  "updatedAt": 1752973518186,
   "schemaVersion": 1
 }
