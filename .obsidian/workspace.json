@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b340a7d54dc4f741",
+        "id": "1bd099911941435c",
         "type": "tabs",
         "children": [
           {
-            "id": "b24be9f8650bb17d",
+            "id": "983c6f8ebaff58e8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "af2eb8d7a3264c42",
+            "id": "46cc1505d80d2bb5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,10 +202,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "d80d6330aec8956c",
   "lastOpenFiles": [
-    "Tags",
     "conflict-files-obsidian-git.md",
+    "Tags",
     "Personal/Note/Para note taking.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/Initial Rates Method.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/004 Catalysts in Industry - A Level Chemistry Revision Notes.md",
@@ -235,7 +239,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note",
     "_PARA note taking/001 Project/Research/On-going or future Proposal concept",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation",
-    "_PARA note taking/001 Project/Personal/Note taking",
     "Pasted image 20250715002834.png"
   ]
 }
