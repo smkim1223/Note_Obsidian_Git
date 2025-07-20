@@ -60,12 +60,10 @@ $$
 	{trigger: "Im", replacement: "\\mathrm{Im}", options: "mA"},
     {trigger: "bf", replacement: "\\mathbf{$0}", options: "mA"},
 	{trigger: "rm", replacement: "\\mathrm{$0}$1", options: "mA"},
-
-    // Linear algebra
+### Linear algebra
     {trigger: /([^\\])(det)/, replacement: "[[0]]\\[[1]]", options: "rmA"},
     {trigger: "trace", replacement: "\\mathrm{Tr}", options: "mA"},
-
-    // More operations
+### More operations
 	{trigger: "([a-zA-Z])hat", replacement: "\\hat{[[0]]}", options: "rmA"},
     {trigger: "([a-zA-Z])bar", replacement: "\\bar{[[0]]}", options: "rmA"},
 	{trigger: "([a-zA-Z])dot", replacement: "\\dot{[[0]]}", options: "rmA", priority: -1},
@@ -86,8 +84,7 @@ $$
 	{trigger: "tilde", replacement: "\\tilde{$0}$1", options: "mA"},
 	{trigger: "und", replacement: "\\underline{$0}$1", options: "mA"},
 	{trigger: "vec", replacement: "\\vec{$0}$1", options: "mA"},
-
-    // More auto letter subscript
+### More auto letter subscript
     {trigger: /([A-Za-z])_(\d\d)/, replacement: "[[0]]_{[[1]]}", options: "rmA"},
 	{trigger: /\\hat{([A-Za-z])}(\d)/, replacement: "\\hat{[[0]]}_{[[1]]}", options: "rmA"},
 	{trigger: /\\vec{([A-Za-z])}(\d)/, replacement: "\\vec{[[0]]}_{[[1]]}", options: "rmA"},
@@ -100,8 +97,7 @@ $$
 	{trigger: "ynn", replacement: "y_{n}", options: "mA"},
 	{trigger: "yii", replacement: "y_{i}", options: "mA"},
 	{trigger: "yjj", replacement: "y_{j}", options: "mA"},
-
-    // Symbols
+### Symbols
     {trigger: "ooo", replacement: "\\infty", options: "mA"},
 	{trigger: "sum", replacement: "\\sum", options: "mA"},
 	{trigger: "prod", replacement: "\\prod", options: "mA"},
