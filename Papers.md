@@ -2,7 +2,7 @@
 Research: " "
 ---
 
-# Google scholar 
+# Google scholar [1]
 1. OR capital letter, while not should be **-**
 2. Double quotation mark ("") 정확히 일치하는 문헌만 검색
 3. allintitle: 제목에 존재하는 문헌만 검색
