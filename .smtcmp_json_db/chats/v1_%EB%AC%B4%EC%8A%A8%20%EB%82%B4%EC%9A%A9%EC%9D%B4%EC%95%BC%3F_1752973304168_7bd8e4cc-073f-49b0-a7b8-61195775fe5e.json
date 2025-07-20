@@ -1,0 +1,174 @@
+{
+  "id": "7bd8e4cc-073f-49b0-a7b8-61195775fe5e",
+  "title": "무슨 내용이야?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "무슨 내용이야?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n무슨 내용이야?\n\n"
+        }
+      ],
+      "id": "2d84f4b2-774d-4aa4-aeeb-82097a911317",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250719 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 6 디지털화폐 특집.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n이 파일은 2025년 7월 19일에 작성된 \"망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 6 디지털화폐 특집\"이라는 제목의 노트입니다. \n\n주요 내용은 디지털화폐와 관련된 다양한 경제·금융 용어를 쉽게 설명하는 특집글로, 다음 주제들을 다룹니다:\n\n- **CBDC (중앙은행 디지털화폐)**와 그 하위 개념들(리테일 CBDC, 도매 CBDC, 합성 CBDC, 프라이버시 보호 CBDC 등)\n- **스테이블코인** 종류와 개념 (자산담보형, 암호자산담보형, 알고리즘형 등)\n- **자산토큰화**(실물자산을 블록체인 토큰으로 분할하는 기술)와 관련 법안 및 규제\n- 글로벌 디지털 기축통화, 탈달러화, 금융 디커플링 등의 국제 금융 트렌드\n- 각국의 법률과 규제 프레임워크 (미국, EU, 한국 등) 및 국제기구(예: BIS, IMF) 프로젝트 소개\n- 암호자산 관련 용어와 제도적 이해를 돕기 위한 다양한 설명이 포함되어 있습니다.\n\n전체적으로, 디지털 화폐와 암호화폐가 경제와 금융 시스템에서 어떻게 자리잡고 변화시키는지, 그리고 이에 따른 법적·기술적 이슈를 망고(독자)들에게 쉽고 친근하게 전달하는 내용입니다[1][2][3][4].\n\n주요 핵심은 CBDC가 중앙은행이 발행하는 디지털 형태의 법정화폐이며, 스테이블코인과 자산토큰화가 디지털 자산 시장에서 중요한 역할을 하고 있음을 강조합니다. 또한, 글로벌 금융 질서 변화와 각국 규제 동향도 함께 설명합니다.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.moef.go.kr/sisa/dictionary/detail?idx=3205",
+            "title": "시사경제용어사전"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://informationbooth.tistory.com/109",
+            "title": "CBDC란 무엇인가? 중앙은행 디지털 화폐의 개념과 필요성 완벽 정리"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.kcmi.re.kr/publications/pub_detail_view?syear=2021&zcd=002001016&zno=1578&cno=5634",
+            "title": "중앙은행 디지털화폐(CBDC)의 의의, 영향 및 시사점 | 자본시장포커스 | 발간물 | 자본시장연구원"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://thisiscoke.tistory.com/entry/CBDC-%EC%A4%91%EC%95%99%EC%9D%80%ED%96%89-%EB%94%94%EC%A7%80%ED%84%B8%ED%99%94%ED%8F%90-%EC%84%A4%EB%AA%85%ED%95%98%EB%A9%B0-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-13-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%9B%90%EB%A6%AC",
+            "title": "[CBDC] 디지털화폐 설명하며 공부 시리즈 (1/3) - 개념과 원리 — 이곳은 콜라입니다"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://ssl.pstatic.net/imgstock/upload/research/economy/1692746390023.pdf"
+          }
+        }
+      ],
+      "id": "6a94378e-2eb6-46cb-822f-8146693ba530",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 6554,
+          "completion_tokens": 474,
+          "total_tokens": 7028,
+          "search_context_size": "low"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@William_s note",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "William_s note",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 금 투자 방법에 대해 찾아서 요약해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "8b9b656a-2b89-43a8-8bea-32cdb63b022e",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250719 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 6 디지털화폐 특집.md"
+        },
+        {
+          "type": "folder",
+          "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1752973279227,
+  "updatedAt": 1752973304168,
+  "schemaVersion": 1
+}
