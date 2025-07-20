@@ -1,1 +1,2 @@
-This is test for chech
+This is test for checking whether the sync works or not.
+
