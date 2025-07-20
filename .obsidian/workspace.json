@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/003 Resources/Latex/Latex suite.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Latex suite"
+              "title": "Welcome"
             }
           }
         ]
@@ -152,27 +152,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_PARA note taking/003 Resources/Latex/Latex suite.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Latex suite"
-            }
-          },
-          {
-            "id": "cf5bf00c0d114652",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Welcome"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,13 +181,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "e31070ef2ce98d44",
+  "active": "b651f787cf9f2f7b",
   "lastOpenFiles": [
+    "_PARA note taking/003 Resources/Latex/Latex suite.md",
     "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
     "Temp/Temperature.md",
     "Welcome.md",
     "_PARA note taking/003 Resources/Obsidian",
-    "_PARA note taking/003 Resources/Latex/Latex suite.md",
     "_PARA note taking/003 Resources/Latex",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
