@@ -1,18 +1,18 @@
 Test
-
+$$
+\alpha
+$$
 
 
 ###  Math mode
 	{trigger: "mk", replacement: "$$0$", options: "tA"},
 	{trigger: "dm", replacement: "$$\n$0\n$$", options: "tAw"},
 	{trigger: "beg", replacement: "\\begin{$0}\n$1\n\\end{$0}", options: "mA"},
-
 ### Dashes
 	// {trigger: "--", replacement: "–", options: "tA"},
 	// {trigger: "–-", replacement: "—", options: "tA"},
 	// {trigger: "—-", replacement: "---", options: "tA"},
-
-    // Greek letters
+### Greek letters
 	{trigger: "@a", replacement: "\\alpha", options: "mA"},
 	{trigger: "@b", replacement: "\\beta", options: "mA"},
 	{trigger: "@g", replacement: "\\gamma", options: "mA"},
@@ -37,8 +37,7 @@ Test
 	{trigger: "@O", replacement: "\\Omega", options: "mA"},
 	{trigger: "ome", replacement: "\\omega", options: "mA"},
 	{trigger: "Ome", replacement: "\\Omega", options: "mA"},
-
-    // Text environment
+### Text environment
     {trigger: "text", replacement: "\\text{$0}$1", options: "mA"},
     {trigger: "\"", replacement: "\\text{$0}$1", options: "mA"},
 
