@@ -12,4 +12,10 @@
 >This is a blockquote
 >> nested blockquote
 
+>[!Note] This is a note
+>Notes help to emphasize information
 
+>[!tip]
+>Use callouts for better readability!
+
+- [ ] 
