@@ -1,0 +1,207 @@
+{
+  "id": "34be4000-eedd-45a8-93f0-ebd1d7326cbf",
+  "title": "금에 대해 설명해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "금에 대해 설명해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n금에 대해 설명해줘\n\n"
+        }
+      ],
+      "id": "c6adc2fc-257c-4588-b18b-1a5b437dc600",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n**금은 원소기호 Au를 가진 천연 귀금속으로, 자연상태에서도 순수한 형태로 발견되는 몇 안 되는 금속 중 하나입니다.** 반짝이는 노란빛과 부식되지 않는 특성, 전기 전도성과 연성이 뛰어나며, 고대부터 인류 문명과 함께 장신구, 화폐, 권위의 상징으로 사용되어 왔습니다[1].\n\n**금은 역사적으로 매우 안정적인 가치 저장 수단이자 투자자산으로 인식됩니다.** 금 가격은 오랜 기간 동안 꾸준히 상승해 왔고, 특히 경제 위기나 인플레이션 시기에 안전자산(헤지 수단)으로서의 역할이 두드러집니다. 예를 들어, 2022년 고인플레이션 상황에서도 금값은 상승하며 투자자들에게 신뢰를 주었습니다[2].\n\n**금 투자의 장점 주요 내용은 다음과 같습니다:**\n\n- 수천 년간 지속된 가치와 인류의 부 축적 수단\n- 경제 위기 및 인플레이션에 대한 신뢰할 수 있는 방어 수단\n- 실물 자산으로서 화폐 가치 하락과 대비되는 안정성\n\n최근 금시장에서는 기축통화국의 금 보유량과 발행 화폐량을 고려할 때 금 가격이 더 오를 여지가 있다는 분석도 나오고 있습니다[3].\n\n이처럼 금은 변하지 않는 물리적 특성과 역사적 가치 때문에 장기적 자산 보존 및 위기 대응을 위한 대표적 안전자산으로 평가받고 있습니다.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://sosandaily.tistory.com/entry/%EA%B8%88%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94",
+            "title": "[골드시리즈 #01] 금이란 무엇인가요? 초보자를 위한 금의 개념과 가치 정리"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.atfx.com/ko/analysis/trading-strategies/is-gold-good-investment"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.youtube.com/watch?v=dlermUnRTOk"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.youtube.com/watch?v=YojJKumtrVM",
+            "title": "금, 금의 특성,  금을 가지고 싶어하는 이유 | 화학세상 - YouTube"
+          }
+        }
+      ],
+      "id": "b8cfc034-c8c4-42dd-91ea-6e2e0798bdea",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 388,
+          "completion_tokens": 379,
+          "total_tokens": 767,
+          "search_context_size": "low"
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "본문 내용 작성 해줘, 내가 주로 이용하는 Obsidian의 기능들을 적어 놓고 싶어",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n본문 내용 작성 해줘, 내가 주로 이용하는 Obsidian의 기능들을 적어 놓고 싶어\n\n"
+        }
+      ],
+      "id": "205fd3dd-2c10-419f-ab03-18ecd3c47455",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Obsidian note.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n# 내가 주로 이용하는 Obsidian 기능들\n\n- **로컬 저장**: 모든 노트를 로컬 마크다운(.md) 파일로 저장하여, 데이터에 대한 완전한 통제와 보안성을 유지합니다. 다른 텍스트 편집기에서도 파일을 열 수 있어 호환성이 뛰어납니다[1][2].\n\n- **링크와 백링크**: 노트들 사이에 내부 링크를 걸어 정보를 유기적으로 연결합니다. 백링크 기능으로 특정 노트가 참조된 위치를 쉽게 확인할 수 있어 지식 네트워크를 체계적으로 확장할 수 있습니다[1][3].\n\n- **그래프 뷰**: 노트 간 관계를 시각적으로 보여주는 그래프 뷰를 통해, 전체 지식 구조와 연결 상태를 한눈에 파악할 수 있습니다[1][3].\n\n- **마크다운 기반 편집**: 간편한 마크다운 형식으로 노트를 작성하여 텍스트에 스타일과 구조를 쉽게 입힐 수 있습니다. 이는 효율적인 문서 관리와 가독성을 돕습니다[2][3].\n\n- **확장 가능한 플러그인 생태계**: 커뮤니티 제작 플러그인을 활용해 캘린더, 칸반 보드, 데이터뷰(DataView) 등 다양한 기능을 내 워크플로우에 맞게 추가하고 개인화할 수 있습니다[1][3].\n\n- **멀티 플랫폼 지원**: Windows, Mac, Linux뿐 아니라 iOS와 Android 모바일 앱도 제공하여 언제 어디서나 지식에 접근하고 편집할 수 있습니다[2].\n\n- **강력한 검색 기능**: 노트 내 텍스트뿐 아니라 이미지 내 텍스트까지 검색 가능하여 필요한 정보를 신속하게 찾을 수 있습니다[3].\n\n이처럼 Obsidian은 단순 메모를 넘어 나만의 '두 번째 뇌'를 만들어 주는 최적의 지식 관리 도구로 자리매김하고 있습니다[3].\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://publish.obsidian.md/andrea9292/obsidian",
+            "title": "Obsidian - Andrea의 지식 정원 - Obsidian Publish"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://kaminik.tistory.com/entry/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8%EC%9D%98-%EC%86%8C%EA%B0%9C%EC%99%80-%ED%8A%B9%EC%A7%95",
+            "title": "옵시디언 기초: 소개와 특징"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://project-holestore.com/entry/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EC%A7%80%EC%8B%9D-%EA%B4%80%EB%A6%AC-%EB%81%9D%ED%8C%90%EC%99%95-%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C",
+            "title": "옵시디언: 지식 관리 끝판왕, 초보자를 위한 완벽 가이드"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://kaminik.tistory.com/pages/%EC%98%B5%EC%8B%9C%EB%94%94%EC%96%B8-%EA%B8%B0%EB%B3%B8-%EA%B0%80%EC%9D%B4%EB%93%9C",
+            "title": "옵시디언 기초 가이드"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.youtube.com/watch?v=Ln5A9OHCBdc",
+            "title": "Notion 유저가 알려주는 Obsidian 꿀기능 6가지! - YouTube"
+          }
+        }
+      ],
+      "id": "ae01ec2a-6feb-42b2-a2dd-acd81f5faa7d",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 1269,
+          "completion_tokens": 473,
+          "total_tokens": 1742,
+          "search_context_size": "low"
+        }
+      }
+    }
+  ],
+  "createdAt": 1752974497003,
+  "updatedAt": 1752974672891,
+  "schemaVersion": 1
+}

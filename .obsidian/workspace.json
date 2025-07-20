@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "Obsidian note"
             }
+          },
+          {
+            "id": "f27a177a043484d3",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: Obsidian note.md"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,7 +212,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "30c27b0a3cd3b031",
+  "active": "d80d6330aec8956c",
   "lastOpenFiles": [
     "Welcome.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
