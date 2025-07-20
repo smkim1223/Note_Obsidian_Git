@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "46cc1505d80d2bb5",
+            "id": "2509ad4999647b57",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -188,9 +189,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Open: View Smart Connections": false
+      "smart-composer:Open smart composer": false
     }
   },
   "active": "fb7899534448cccb",
