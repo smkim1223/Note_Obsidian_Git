@@ -10,20 +10,6 @@
             {
               "children": [
                 {
-                  "detail": 1,
-                  "format": 0,
-                  "mode": "token",
-                  "style": "",
-                  "text": "@William_s note",
-                  "type": "mention",
-                  "version": 1,
-                  "mentionName": "William_s note",
-                  "mentionable": {
-                    "type": "folder",
-                    "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
-                  }
-                },
-                {
                   "detail": 0,
                   "format": 0,
                   "mode": "normal",
@@ -51,12 +37,7 @@
       },
       "promptContent": null,
       "id": "d34f62e5-60db-49d0-ac56-2413fd75acd6",
-      "mentionables": [
-        {
-          "type": "folder",
-          "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
-        }
-      ]
+      "mentionables": []
     },
     {
       "role": "user",
@@ -116,6 +97,6 @@
     }
   ],
   "createdAt": 1752974290900,
-  "updatedAt": 1752974358494,
+  "updatedAt": 1752974464821,
   "schemaVersion": 1
 }
