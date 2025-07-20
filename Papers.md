@@ -7,3 +7,4 @@ Research: " "
 # Google scholar
 1. OR capital letter, while not should be **-**
 2. Double quotation mark ("") must include it
+3. allintitle: 
