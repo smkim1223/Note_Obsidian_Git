@@ -1,0 +1,101 @@
+{
+  "id": "34be4000-eedd-45a8-93f0-ebd1d7326cbf",
+  "title": "금에 대해 설명해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "금에 대해 설명해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n금에 대해 설명해줘\n\n"
+        }
+      ],
+      "id": "c6adc2fc-257c-4588-b18b-1a5b437dc600",
+      "mentionables": []
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n**금은 원소기호 Au를 가진 천연 귀금속으로, 자연상태에서도 순수한 형태로 발견되는 몇 안 되는 금속 중 하나입니다.** 반짝이는 노란빛과 부식되지 않는 특성, 전기 전도성과 연성이 뛰어나며, 고대부터 인류 문명과 함께 장신구, 화폐, 권위의 상징으로 사용되어 왔습니다[1].\n\n**금은 역사적으로 매우 안정적인 가치 저장 수단이자 투자자산으로 인식됩니다.** 금 가격은 오랜 기간 동안 꾸준히 상승해 왔고, 특히 경제 위기나 인플레이션 시기에 안전자산(헤지 수단)으로서의 역할이 두드러집니다. 예를 들어, 2022년 고인플레이션 상황에서도 금값은 상승하며 투자자들에게 신뢰를 주었습니다[2].\n\n**금 투자의 장점 주요 내용은 다음과 같습니다:**\n\n- 수천 년간 지속된 가치와 인류의 부 축적 수단\n- 경제 위기 및 인플레이션에 대한 신뢰할 수 있는 방어 수단\n- 실물 자산으로서 화폐 가치 하락과 대비되는 안정성\n\n최근 금시장에서는 기축통화국의 금 보유량과 발행 화폐량을 고려할 때 금 가격이 더 오를 여지가 있다는 분석도 나오고 있습니다[3].\n\n이처럼 금은 변하지 않는 물리적 특성과 역사적 가치 때문에 장기적 자산 보존 및 위기 대응을 위한 대표적 안전자산으로 평가받고 있습니다.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://sosandaily.tistory.com/entry/%EA%B8%88%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94",
+            "title": "[골드시리즈 #01] 금이란 무엇인가요? 초보자를 위한 금의 개념과 가치 정리"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.atfx.com/ko/analysis/trading-strategies/is-gold-good-investment"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.youtube.com/watch?v=dlermUnRTOk"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.youtube.com/watch?v=YojJKumtrVM",
+            "title": "금, 금의 특성,  금을 가지고 싶어하는 이유 | 화학세상 - YouTube"
+          }
+        }
+      ],
+      "id": "b8cfc034-c8c4-42dd-91ea-6e2e0798bdea",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 388,
+          "completion_tokens": 379,
+          "total_tokens": 767,
+          "search_context_size": "low"
+        }
+      }
+    }
+  ],
+  "createdAt": 1752974497003,
+  "updatedAt": 1752974500772,
+  "schemaVersion": 1
+}

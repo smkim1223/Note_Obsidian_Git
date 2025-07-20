@@ -180,9 +180,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "ea2d3ffdded8ad7c",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-perplexity_skim",
+              "state": {},
+              "icon": "lucide-cat",
+              "title": "Perplexity_SKim"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -201,7 +211,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "ea2d3ffdded8ad7c",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250624 ETF (상장지수펀드) 개별 종목에 물려본 사람이 알아야 할 투자 필수템.md",
