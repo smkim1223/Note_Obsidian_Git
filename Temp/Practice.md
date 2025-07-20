@@ -22,5 +22,7 @@
 - [x] dsf
 - 
 
-This is a footnote[^1]
-[]
+This is a footnote [^1].
+[^1]: sdfsdf
+[^1]
+
