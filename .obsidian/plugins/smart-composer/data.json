@@ -280,8 +280,8 @@
     "servers": []
   },
   "chatOptions": {
-    "includeCurrentFileContent": true,
-    "enableTools": false,
+    "includeCurrentFileContent": false,
+    "enableTools": true,
     "maxAutoIterations": 1
   }
 }

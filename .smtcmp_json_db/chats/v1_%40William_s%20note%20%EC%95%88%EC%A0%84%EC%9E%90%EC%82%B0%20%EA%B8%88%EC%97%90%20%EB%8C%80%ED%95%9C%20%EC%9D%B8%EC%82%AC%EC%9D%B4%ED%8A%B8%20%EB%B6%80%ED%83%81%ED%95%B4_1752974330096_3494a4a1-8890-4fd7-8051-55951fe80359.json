@@ -1,0 +1,121 @@
+{
+  "id": "3494a4a1-8890-4fd7-8051-55951fe80359",
+  "title": "@William_s note 안전자산 금에 대한 인사이트 부탁해",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@William_s note",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "William_s note",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 안전자산 금에 대한 인사이트 부탁해",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "d34f62e5-60db-49d0-ac56-2413fd75acd6",
+      "mentionables": [
+        {
+          "type": "folder",
+          "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@20250711 미래에도 유일하게 남을 안전자산 금 - 어떻게 보유해야 하는가_.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "20250711 미래에도 유일하게 남을 안전자산 금 - 어떻게 보유해야 하는가_.md",
+                  "mentionable": {
+                    "type": "file",
+                    "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250711 미래에도 유일하게 남을 안전자산 금 - 어떻게 보유해야 하는가_.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 금 투자 방법에 대해 요약해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "89614883-d226-418a-9b96-aa87c91de3af",
+      "mentionables": [
+        {
+          "type": "file",
+          "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250711 미래에도 유일하게 남을 안전자산 금 - 어떻게 보유해야 하는가_.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1752974290900,
+  "updatedAt": 1752974330096,
+  "schemaVersion": 1
+}
