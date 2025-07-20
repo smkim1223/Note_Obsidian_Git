@@ -48,7 +48,7 @@ Created at
 ### This is Heading 5
 
 ### This is Heading 6
-
+---
 ## Basic Formatting
 
 ### Bold
