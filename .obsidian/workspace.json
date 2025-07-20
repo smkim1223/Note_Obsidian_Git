@@ -162,27 +162,17 @@
             }
           },
           {
-            "id": "62f2788d4d0590d3",
+            "id": "d2d566ebddc680b7",
             "type": "leaf",
             "state": {
-              "type": "smtcmp-chat-view",
+              "type": "git-view",
               "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
-            }
-          },
-          {
-            "id": "0f8ca4eea7e9fc13",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Smart Connections"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -203,7 +193,7 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "fb7899534448cccb",
+  "active": "e31070ef2ce98d44",
   "lastOpenFiles": [
     "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
     "Clippings/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings.md",
