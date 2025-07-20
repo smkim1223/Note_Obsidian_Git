@@ -5,7 +5,8 @@ author:
 published: 
 created: 2025-07-20
 description: 와썹 윌리엄!🥭
-tags: []
+tags:
+  - 금융문맹_탈출하기
 ---
 [본문 바로가기](https://contents.premium.naver.com/willam/william/contents/#ct)
 
