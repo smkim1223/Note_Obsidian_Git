@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://www.perplexity.ai/",
+      "displayName": "Perplexity_SKim",
+      "icon": "cat",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

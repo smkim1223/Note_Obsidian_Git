@@ -1,0 +1,113 @@
+{
+  "id": "5d51dbfc-e183-48a3-81b9-f8f864412453",
+  "title": "Obsidian practice에 대한 서문을 작성해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Obsidian practice에 대한 서문을 작성해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nObsidian practice에 대한 서문을 작성해줘\n\n"
+        }
+      ],
+      "id": "5dd2440c-311e-42ff-839c-4c0090ab8f29",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Obsidian note.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n# 서문 - Obsidian 연습을 시작하며\n\nObsidian은 마크다운 파일을 기반으로 하는 개인 지식 관리 및 노트 작성 애플리케이션입니다. 사용자가 자신의 생각과 정보를 유기적으로 연결하고 시각화할 수 있도록 설계되어, 비선형적이고 유연한 사고의 구조를 돕는 강력한 도구입니다[1][2].\n\n이 연습에서는 Obsidian의 기본적인 사용법부터 그래프 뷰, 커스텀 플러그인까지 다양한 기능을 탐험하며, 자신의 지식과 아이디어를 효과적으로 조직하는 방법을 익힐 것입니다. Obsidian은 로컬에 모든 데이터를 저장하므로 데이터의 소유권을 보호하면서 자유롭게 관리할 수 있으며, 여러 디바이스 간 동기화 기능도 지원합니다[2][3].\n\n이를 통해 단순한 메모 앱 이상의, 개인의 두뇌를 확장하는 디지털 공간으로 Obsidian을 활용하는 노하우를 쌓아 보겠습니다.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://en.wikipedia.org/wiki/Obsidian_(software)",
+            "title": "Obsidian (software) - Wikipedia"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://toolfinder.co/tools/obsidian",
+            "title": "Obsidian: Top Features &amp; Alternatives"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.youtube.com/watch?v=ROdw1_C1ZjQ"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.youtube.com/watch?v=i821vS2I3Q0"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.rootsimple.com/2025/01/obsidian-a-free-note-taking-app/",
+            "title": "Obsidian: A Free Note Taking App | Root Simple"
+          }
+        }
+      ],
+      "id": "1b724853-0bd1-4c3f-a88c-63b7458d67c4",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 466,
+          "completion_tokens": 247,
+          "total_tokens": 713,
+          "search_context_size": "low"
+        }
+      }
+    }
+  ],
+  "createdAt": 1752957954418,
+  "updatedAt": 1752957957403,
+  "schemaVersion": 1
+}
