@@ -11,12 +11,14 @@
             "id": "16127acc0d633f63",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Temp2"
+                "file": "Temp2/Confirmation for sync.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Temp2"
+              "title": "Confirmation for sync"
             }
           }
         ]
@@ -199,7 +201,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "16127acc0d633f63",
   "lastOpenFiles": [
     "Temp2/# mar.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Derivation of C-C coupling rate equation.md",
