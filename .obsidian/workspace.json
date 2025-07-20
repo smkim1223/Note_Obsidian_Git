@@ -69,8 +69,19 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "af2eb8d7a3264c42",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -183,13 +195,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-importer:Open Importer": false
+      "smart-composer:Open smart composer": false
     }
   },
   "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
+    "Tags",
     "conflict-files-obsidian-git.md",
     "Personal/Note/Para note taking.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/Initial Rates Method.md",
@@ -220,7 +231,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250716 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 5.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250716 나스닥 시장에서 투자자 수급 파악하는 방법 - 아주 중요함.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250715 큰 부자 만들어 줄 미래 성장 섹터 - 해양 미세플라스틱 제거 로봇 산업.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250715 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 1화.md",
     "_PARA note taking/001 Project/Personal/Note taking/Obsidian",
     "_PARA note taking/002 Area/Brokerage/William_s note",
     "_PARA note taking/001 Project/Research/On-going or future Proposal concept",
