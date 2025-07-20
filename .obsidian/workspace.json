@@ -39,12 +39,14 @@
             "id": "5ff2b28b2c9ab46c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "_PARA note taking/003 Resources/Obsidian"
+                "file": "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2"
             }
           }
         ],
