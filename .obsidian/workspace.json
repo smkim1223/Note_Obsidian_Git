@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3c1d8e2d3b415776",
+        "id": "1b67f07a75024254",
         "type": "tabs",
         "children": [
           {
-            "id": "16127acc0d633f63",
+            "id": "d93153dbfd6ea11e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian note.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Obsidian note"
+              "title": "New tab"
             }
           }
         ]
@@ -201,11 +197,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "16127acc0d633f63",
+  "active": "d93153dbfd6ea11e",
   "lastOpenFiles": [
+    "Obsidian note.md",
     "Temp2/Confirmation for sync.md",
     "Temp/New test with 2nd computer.md",
-    "Obsidian note.md",
     "Welcome.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
