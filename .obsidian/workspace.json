@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
+                "file": "Obsidian note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유"
+              "title": "Obsidian note"
             }
           }
         ]
@@ -180,19 +180,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "ea2d3ffdded8ad7c",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-perplexity_skim",
-              "state": {},
-              "icon": "lucide-cat",
-              "title": "Perplexity_SKim"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -211,8 +201,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ea2d3ffdded8ad7c",
+  "active": "30c27b0a3cd3b031",
   "lastOpenFiles": [
+    "Welcome.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250624 ETF (상장지수펀드) 개별 종목에 물려본 사람이 알아야 할 투자 필수템.md",
     "Temp2/Confirmation for sync.md",
@@ -245,8 +237,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250717 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 3화.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250717 요트 판매량으로 보는 경제 호황 정점 파악방법.md",
     "_PARA note taking/001 Project/Personal/Note taking/Obsidian",
     "_PARA note taking/002 Area/Brokerage/William_s note",
     "Pasted image 20250715002834.png"
