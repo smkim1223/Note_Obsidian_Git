@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/003 Resources/Obsidian/Obsidian plugin recommendation.md",
+                "file": "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian plugin recommendation"
+              "title": "Obsidian note"
             }
           }
         ],
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_PARA note taking/003 Resources/Obsidian/Obsidian plugin recommendation.md",
+                "file": "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Obsidian plugin recommendation"
+              "title": "Outline of Obsidian note"
             }
           },
           {
@@ -242,10 +242,10 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "03524021b62d05f7",
   "lastOpenFiles": [
-    "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
     "_PARA note taking/003 Resources/Obsidian/Obsidian plugin recommendation.md",
+    "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
     "Papers.md",
     "_PARA note taking/003 Resources/Paper and scholar/Paper and scholar.md",
     "_PARA note taking/003 Resources/Paper and scholar",
