@@ -1,0 +1,107 @@
+{
+  "id": "ff8c223f-df29-41d5-a525-29d1df72e3de",
+  "title": "@William_s note 한국에서 금 투자하는 방법 요약해줘",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@William_s note",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "William_s note",
+                  "mentionable": {
+                    "type": "folder",
+                    "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " 한국에서 금 투자하는 방법 요약해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "62a6b8c3-2181-416a-862a-acc446709b44",
+      "mentionables": [
+        {
+          "type": "folder",
+          "folder": "_PARA note taking/002 Area/Brokerage/William_s note"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "요약해줘",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": null,
+      "id": "9bf22723-ec2f-40f5-b499-dbf91e5364ba",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250719 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 6 디지털화폐 특집.md"
+        }
+      ]
+    }
+  ],
+  "createdAt": 1752973182903,
+  "updatedAt": 1752973198840,
+  "schemaVersion": 1
+}

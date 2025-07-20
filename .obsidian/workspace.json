@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1bd099911941435c",
+        "id": "3c1d8e2d3b415776",
         "type": "tabs",
         "children": [
           {
-            "id": "983c6f8ebaff58e8",
+            "id": "16127acc0d633f63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "_PARA note taking/001 Project/Research/C-C coupling and condensation/Derivation of C-C coupling rate equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Derivation of C-C coupling rate equation"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,7 +203,9 @@
   },
   "active": "d80d6330aec8956c",
   "lastOpenFiles": [
+    "_PARA note taking/001 Project/Research/C-C coupling and condensation/Derivation of C-C coupling rate equation.md",
     "conflict-files-obsidian-git.md",
+    "Temp/New test with 2nd computer.md",
     "Tags",
     "Personal/Note/Para note taking.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/Initial Rates Method.md",
@@ -234,7 +235,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250716 미래의 1등 대장주 찾는 방법 (620) - 확장성이 뛰어난 사업모델.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250716 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 5.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250716 나스닥 시장에서 투자자 수급 파악하는 방법 - 아주 중요함.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250715 큰 부자 만들어 줄 미래 성장 섹터 - 해양 미세플라스틱 제거 로봇 산업.md",
     "_PARA note taking/001 Project/Personal/Note taking/Obsidian",
     "_PARA note taking/002 Area/Brokerage/William_s note",
     "_PARA note taking/001 Project/Research/On-going or future Proposal concept",
