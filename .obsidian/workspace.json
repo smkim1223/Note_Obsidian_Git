@@ -30,9 +30,23 @@
               "icon": "lucide-file",
               "title": "Applying: Obsidian note.md"
             }
+          },
+          {
+            "id": "253ac186260bcf3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp2/Confirmation for sync.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Confirmation for sync"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +226,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d80d6330aec8956c",
+  "active": "253ac186260bcf3b",
   "lastOpenFiles": [
+    "Obsidian note.md",
     "Welcome.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
@@ -247,7 +262,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250718 디폴트와 국가부도! 한 나라가 망한다는건 어떤 의미일까.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
     "_PARA note taking/001 Project/Personal/Note taking/Obsidian",
     "_PARA note taking/002 Area/Brokerage/William_s note",
     "Pasted image 20250715002834.png"
