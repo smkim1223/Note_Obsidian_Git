@@ -46,8 +46,6 @@
     "//Temp2",
     "//_PARA note taking/_PARA note taking/003 Resources",
     "//_PARA note taking/_PARA note taking/003 Resources/_PARA note taking/003 Resources/Obsidian",
-    "//_PARA note taking",
-    "//_PARA note taking/_PARA note taking/002 Area",
     "//_PARA note taking/_PARA note taking/002 Area/_PARA note taking/002 Area/Brokerage"
   ],
   "expandFolderOnClick": true,
@@ -60,6 +58,8 @@
     "_assets",
     "_blocks"
   ],
+  "newFileLocation": "root",
+  "newFileFolderPath": "",
   "inlineBacklinks": false,
   "inlineContext": true,
   "inlineBacklinksExpanded": false,
