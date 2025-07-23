@@ -277,7 +277,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -296,7 +296,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "17b2f26feb5448cb",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "Papers.md",
     "Untitled.md",
