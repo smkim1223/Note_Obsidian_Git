@@ -113,8 +113,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +220,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ba8c58628bf87971",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
