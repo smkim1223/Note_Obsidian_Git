@@ -18,8 +18,65 @@
               "icon": "lucide-file",
               "title": "William_s note"
             }
+          },
+          {
+            "id": "2a3fffd575c68b16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1"
+            }
+          },
+          {
+            "id": "69a1c6d09b46bf02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250722 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 2편.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250722 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 2편"
+            }
+          },
+          {
+            "id": "ed34d45bfce78199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1"
+            }
+          },
+          {
+            "id": "5cddbd74dd7a1a83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,14 +246,24 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "5cddbd74dd7a1a83",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250723 금부자들은 경제의 흐름을 읽고 금융문맹은 흐름에 휩쓸린다.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250722 윌리엄의 사고흐름 칼럼.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250722 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 2편.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250722 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 2(우주 자원 채굴과 소행성 광산 플랫폼).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 1(민간 우주여행 및 관광 플랫폼) 1.md",
+    "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 1편 1.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 1(민간 우주여행 및 관광 플랫폼).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 1편.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화.md",
     "Temp/Practice.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250720 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
     "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
     "Clippings/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
-    "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
     "_PARA note taking/003 Resources/Obsidian/Obsidian Markdown syntax guide for researchers.md",
     "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
     "Clippings/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings.md",
@@ -208,21 +275,11 @@
     "Papers.md",
     "_PARA note taking/003 Resources/Paper and scholar/Paper and scholar.md",
     "_PARA note taking/003 Resources/Paper and scholar",
-    "_PARA note taking/003 Resources/Latex/Latex suite.md",
-    "열전도도 (Thermal Conductivity).md",
-    "Welcome.md",
     "_PARA note taking/003 Resources/Obsidian",
     "_PARA note taking/003 Resources/Latex",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250630 대한민국이 CBDC와 스테이블코인을 동시에 추진하는 진짜 이유.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250625 미국의 달러 스테이블코인 전략은 세계 자본을 빨아들이는 블랙홀이야.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250624 ETF (상장지수펀드) 개별 종목에 물려본 사람이 알아야 할 투자 필수템.md",
     "_PARA note taking/004 Archive",
-    "Temp2/# mar.md",
     "Temp2",
     "Tags",
-    "Personal/Note/Para note taking.md",
-    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/Initial Rates Method.md",
-    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/004 Catalysts in Industry - A Level Chemistry Revision Notes.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/001 Atomic structure",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry",
