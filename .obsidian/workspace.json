@@ -90,9 +90,19 @@
               "icon": "lucide-file",
               "title": "Review_Chem Catalsis"
             }
+          },
+          {
+            "id": "a1dd0a5129455dc5",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-apply-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Applying: Review_Chem Catalsis.md"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -272,7 +282,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "dcd84de3aa2147cc",
+  "active": "a1dd0a5129455dc5",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화.md",
     "Review_Chem Catalsis.md",
