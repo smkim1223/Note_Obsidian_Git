@@ -1,0 +1,114 @@
+{
+  "id": "ea5fe05f-54f4-4a88-a6b9-f5ecc4c44670",
+  "title": "I received a review request for a paper and made s",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "I received a review request for a paper and made some annotation and notes for the manuscript. So, can you arrange them with markdown?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nI received a review request for a paper and made some annotation and notes for the manuscript. So, can you arrange them with markdown?\n\n"
+        }
+      ],
+      "id": "eddf88c1-2537-4121-b832-f20ddb19c926",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Review_Chem Catalsis.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n## Jung et al. Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis. Chem Catalysis\n\n#### Highlights and Key Findings\n- Physical mixing of Ru/TiO2 with BEA zeolite dramatically switches the reaction pathway from hydrogenolysis to selective hydrocracking for polyethylene (PE) upcycling.\n- This approach suppresses methane formation while achieving high naphtha yields under mild conditions.\n- Zeolite properties such as pore architecture and acidity are critical for enabling this pathway transformation.\n- Distinct roles of each component are elucidated by comprehensive mechanistic studies.\n- Ru characteristics (particle size, support effects) influence both monofunctional hydrogenolysis and bifunctional hydrocracking performance.\n- Physical mixtures are crucial for preventing excessive Ru-induced hydrogenolysis.\n- Ru serves as both a polyethylene deconstruction initiator and a (de)hydrogenation catalyst.\n- BEA zeolite executes selective C–C cleavage.\n- Ru oxide is reduced under 10% H2/N2 at 300 °C for 3 hours.\n\n#### Experimental Notes\n- 3.5 g of plastic feed was used in 25 mL Parr stainless steel reactors.\n- Reaction mixture was mechanically stirred at 600 rpm.\n- Questions raised about validation of mass transfer limitation at 600 rpm.\n- Inquiry about whether 300 °C under 10% H2 is sufficient to decompose RuCl3 or Ru(OH)3 into metallic Ru.\n\n#### Mechanistic Insights and Discussion Points\n- Effective pathway switching from hydrogenolysis to hydrocracking can be achieved even with substantially reduced Ru content, highlighting the intrinsic activity of Ru.\n- Monofunctional hydrogenolysis favors terminal C–C bond scission.\n- The role of (de)hydrogenation functions in bifunctional mixtures is critical.\n- Uncertainty about quantifying preference between terminal or central C–C cleavage in broad product distributions.\n- Different metals respond fundamentally differently when physically mixed with zeolites, influenced by metal–acid proximity.\n- Ru particles may be partially confined within zeolite micropores or on the external surface; evidence is inconclusive.\n- Diffusion dynamics from Ru surface to micropore are questioned.\n\n#### Catalytic Performance and Pathways\n- Hydrogenolysis pathway remains dominant with acidic small-pore zeolites (e.g., ZSM-5, FER, SSZ-13).\n- Naphtha yield decreases dramatically with certain conditions; isomer fraction and solid residue contents are affected.\n- Selectivity comparisons should be performed at comparable conversion levels.\n- C1–C4 fraction data poorly indicate methane formation; further clarification needed.\n- Insufficient hydrogenation of unsaturated intermediates suggests links to aromatization and olefin formation, potential precursors for catalyst coking.\n- Differences in diffusion and mass transfer limitations between C18 and PE explained partly by chain length and catalyst pore structure.\n- Hydrocracking is the dominant pathway from the onset with very low methane yields, despite expectations of random C–C cleavage creating methane.\n- Reaction parameters such as time, temperature, and H2 pressure impact hydrocracking with some threshold effects.\n- Skeletal rearrangements involving carbenium ions represent rate-limiting steps above 250 °C.\n- Maintaining adequate hydrogen availability is crucial to balance hydrogenation and cracking for selective naphtha production.\n- Extending reaction times or harsher conditions do not induce overcracking into light gases.\n- Hydrogen consumption after prolonged reaction may be linked to partial BEA catalyst deactivation.\n- Ru/TiO2 interactions intensify with increasing Ru particle size, affecting reducibility due to strong metal-support interaction (SMSI).\n- CO adsorption studies show characteristic bands associated with different Ru sites; intensity diminishes with particle size increase indicating TiOx encapsulation.\n- Contradictory interpretations exist about SMSI effects relative to particle size.\n\n#### Questions and Reviewer Notes\n- Evidence of the (de)hydrogenation functionality of the Ru catalyst in the physical mixture and how it changes at different reaction steps.\n- How Ru/TiO2 and BEA are involved in polyethylene conversion and descriptors for product distribution.\n- Validating the localization of Ru either inside micropores or on the external surface.\n- Impact of catalyst pore structure and acid site strength on product selectivity.\n- Observations of catalyst coke formation, especially on BEA.\n- Influence of polymer viscosity and possible mass transfer limitations at reaction temperature.\n- Clarity on whether observed hydrogen conversion rises conflict with proposed reaction pathways.\n- Suggestions to compare selectivity at comparable conversions and consider alternative explanations for kinetic data.\n- Clarifications on coke formation in Ru/TiO2 versus BEA catalysts.\n\n#### References to Figures, Tables, and Supplementary Data\n- Surface area and pore volume changes (Table S1).\n- Reaction time profiles and product distribution (Figure 4a, Figures S11, S15).\n- CO adsorption spectra characterization.\n\n#### Deadlines and Miscellaneous Notes\n- Deadline for review: August 2, 2025.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://google.github.io/styleguide/docguide/style.html",
+            "title": "Markdown style guide | styleguide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.markdownguide.org/hacks/",
+            "title": "Hacks | Markdown Guide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://docs.gruntwork.io/guides/style/markdown-style-guide/",
+            "title": "Markdown style guide | Gruntwork Docs"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://israelmitolu.hashnode.dev/markdown-for-technical-writers-tips-tricks-and-best-practices"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.markdownguide.org/basic-syntax/",
+            "title": "Basic Syntax | Markdown Guide"
+          }
+        }
+      ],
+      "id": "486072b5-e815-4361-8f29-694c93988af6",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 4581,
+          "completion_tokens": 1084,
+          "total_tokens": 5665,
+          "search_context_size": "low"
+        }
+      }
+    }
+  ],
+  "createdAt": 1753312400444,
+  "updatedAt": 1753312413930,
+  "schemaVersion": 1
+}
