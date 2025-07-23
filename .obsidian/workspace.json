@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화"
             }
+          },
+          {
+            "id": "4669804ba71da9fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -141,12 +155,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 811.5
+    "width": 568.5
   },
   "right": {
     "id": "ee26142e7387622f",
@@ -228,9 +241,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "dcd84de3aa2147cc",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -249,10 +272,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "fff2eded3d3f1f6d",
+  "active": "dcd84de3aa2147cc",
   "lastOpenFiles": [
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 1(민간 우주여행 및 관광 플랫폼) 1.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화.md",
+    "Untitled 1.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 1(민간 우주여행 및 관광 플랫폼) 1.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250721 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 1편 1.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250723 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 7화.md",
@@ -277,7 +301,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250719 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 5화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250719윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 4화.md",
     "Temp/Practice.md",
-    "_PARA note taking/003 Resources/Obsidian/Obsidian Markdown syntax guide for researchers.md",
     "_PARA note taking/003 Resources/Paper and scholar",
     "_PARA note taking/003 Resources/Obsidian",
     "_PARA note taking/003 Resources/Latex",
