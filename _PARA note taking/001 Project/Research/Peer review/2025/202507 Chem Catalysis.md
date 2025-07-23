@@ -1,5 +1,7 @@
 ---
-Author: ""
+Author:
+  - ""
+  - Doe Heui Kim et al.
 Journal: Chem Catalysis
 Year: "2025"
 Deadline: 2025/08/02
