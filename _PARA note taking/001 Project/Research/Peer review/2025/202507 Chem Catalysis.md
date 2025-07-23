@@ -1,3 +1,9 @@
+---
+Author: ""
+Journal: Chem Catalysis
+Year: "2025"
+Deadline: 2025/08/02
+---
 Jung et al. Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis. Chem Catalysis
 
 p.1: Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis -- Highlight, Jul 23, 2025, 11:13
