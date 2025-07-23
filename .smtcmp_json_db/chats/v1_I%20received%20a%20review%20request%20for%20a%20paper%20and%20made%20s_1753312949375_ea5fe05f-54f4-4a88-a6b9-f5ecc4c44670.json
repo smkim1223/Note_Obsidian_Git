@@ -106,9 +106,113 @@
           "search_context_size": "low"
         }
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "As a reviewer for the manuscript, I want to write down a review with major revision recommendation.",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nAs a reviewer for the manuscript, I want to write down a review with major revision recommendation.\n\n"
+        }
+      ],
+      "id": "d8cf3edb-98b0-487d-8b1a-7134ba2886cd",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Review_Chem Catalsis.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n## Review Report: Major Revision Recommended\n\n#### Summary\nThis manuscript addresses the pathway control for polyolefin upcycling using physical mixing of Ru catalyst and BEA zeolite, demonstrating selective hydrocracking over hydrogenolysis with promising results under mild conditions. The study involves systematic investigation of zeolite properties, Ru catalyst characteristics, and catalytic mechanisms. The findings have potential significance for sustainable polymer recycling strategies.\n\n#### Major Concerns and Required Revisions\n- **Experimental Validation and Methodology**  \n  - Clarify and justify the reduction conditions used for Ru oxide (300 °C under 10% H2) to confirm full metallic Ru formation.  \n  - Provide data or references validating the stirring speed at 600 rpm effectively eliminates mass transfer limitations.  \n  - Address potential mass transfer and diffusion limitations in polymer conversion experiments, especially relating to PE viscosity and catalyst pore access.\n\n- **Mechanistic Interpretation**  \n  - Expand evidence clarifying the (de)hydrogenation functionality of Ru catalyst within the physical mixture and how this influences pathway switching.  \n  - Resolve ambiguity regarding Ru particle location—whether inside zeolite micropores or on external surfaces—and discuss implications for catalytic performance.  \n  - Provide quantitative or qualitative justification for preference between terminal versus central C–C cleavage, given broad product distributions.  \n  - Explain conflicting indications regarding metal–support interactions (SMSI) and Ru particle size effects on activity and CO adsorption.\n\n- **Catalyst Performance and Selectivity**  \n  - Ensure product selectivity comparisons are made at comparable polyethylene conversion levels to avoid misleading conclusions.  \n  - Clarify the role of zeolite acid site strength and pore size on hydrogenolysis versus hydrocracking dominance, particularly for small-pore acidic zeolites where hydrogenolysis remained dominant.  \n  - Discuss catalyst deactivation mechanisms, including coke formation on BEA and Ru/TiO2 components, supported by experimental evidence.  \n  - Address the unexpected observation of low methane yields despite anticipated random C–C cleavage in hydrogenolysis pathways.\n\n- **Data Presentation and Interpretation**  \n  - Include time-resolved data showing conversion, selectivity, and catalyst stability, especially regarding hydrogen consumption trends and possible deactivation over reaction time.  \n  - Remove or better justify any references to \"data not shown\"; all relevant data should be included or referenced clearly.  \n  - Improve clarity on CO adsorption spectral interpretation and reconcile contradictory observations about particle size and TiOx overlayer coverage.\n\n#### Minor Recommendations\n- Ensure all technical terms, symbols, and abbreviations are defined upon first appearance.  \n- Improve writing clarity in the introduction to establish the research novelty, target audience, and the significance of the work.  \n- Confirm that literature review adequately covers prior studies on polyolefin hydrocracking and hydrogenolysis selectivity.  \n- Carefully check formatting of figures, tables, and references for adherence to journal guidelines.\n\nThis manuscript presents valuable findings but requires substantial clarification and supplemental experimental evidence to support its conclusions fully. Addressing the points above will significantly enhance the manuscript’s rigor and clarity for publication consideration.\n\n#### Overall Recommendation: Major Revision\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html",
+            "title": "Step by Step Guide to Reviewing a Manuscript | Wiley"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.science.org/content/page/instructions-preparing-revised-manuscript"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/reviewing-revised-manuscripts.html",
+            "title": "Reviewing Revised Manuscripts | Wiley"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://guides.lib.berkeley.edu/publish/editorial",
+            "title": "Editorial process - How to publish a scientific paper - Library Guides at UC Berkeley"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3970178/"
+          }
+        }
+      ],
+      "id": "81163768-6dbc-4bd6-adfd-26685d5fa972",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 5793,
+          "completion_tokens": 664,
+          "total_tokens": 6457,
+          "search_context_size": "low"
+        }
+      }
     }
   ],
   "createdAt": 1753312400444,
-  "updatedAt": 1753312413930,
+  "updatedAt": 1753312949375,
   "schemaVersion": 1
 }
