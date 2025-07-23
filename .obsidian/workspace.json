@@ -82,8 +82,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,7 +189,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "fb7899534448cccb",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Temp/Practice.md",
