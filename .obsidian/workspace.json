@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음"
+              "title": "20250724 윌리엄의 스레드 인사이트 릴레이"
             }
           }
         ],
@@ -234,8 +234,10 @@
   },
   "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이 - 트럼프는 누구인가.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이.md",
     "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
+    "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250723 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 7화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250723 미래의 1등 대장주 찾는 방법 (720) - 강력한 브랜드 파워와 팬덤.md",
     "_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md",
@@ -261,8 +263,6 @@
     "Clippings/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings.md",
     "Clippings/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 1.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Derivation of C-C coupling rate equation.md",
-    "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
-    "_PARA note taking/003 Resources/Obsidian/Obsidian plugin recommendation.md",
     "_PARA note taking/003 Resources/Paper and scholar",
     "_PARA note taking/003 Resources/Obsidian",
     "_PARA note taking/003 Resources/Latex",
