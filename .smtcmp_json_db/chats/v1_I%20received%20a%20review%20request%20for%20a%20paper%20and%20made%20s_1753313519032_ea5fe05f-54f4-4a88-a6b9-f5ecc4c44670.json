@@ -1,0 +1,114 @@
+{
+  "id": "ea5fe05f-54f4-4a88-a6b9-f5ecc4c44670",
+  "title": "I received a review request for a paper and made s",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "I received a review request for a paper and made some annotation and notes for the manuscript. So, can you arrange them with markdown?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nI received a review request for a paper and made some annotation and notes for the manuscript. So, can you arrange them with markdown?\n\n"
+        }
+      ],
+      "id": "eddf88c1-2537-4121-b832-f20ddb19c926",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md\" language=\"markdown\">\n## Jung et al. Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis. Chem Catalysis\n\n#### Highlights and Notes by Page\n\n- p.1: Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis -- Highlight, Jul 23, 2025, 11:13\n- p.1: Deadline: August 2, 2025 -- Sticky Note, Jul 23, 2025, 11:14\n\n- p.3: This study demonstrates that physical mixing of Ru/TiO₂ with BEA zeolite dramatically switches the reaction pathway from hydrogenolysis to selective hydrocracking for polyethylene (PE) upcycling. -- Highlight, Jul 23, 2025, 11:15\n\n- p.6: Dramatically suppressing methane formation while achieving high naphtha yields under mild conditions. -- Highlight, Jul 23, 2025, 11:15\n- p.6: Systematic investigation of zeolite properties (pore architecture and acidity) required for enabling pathway transformation and elucidation of distinct roles of each component through comprehensive mechanistic studies. Investigation of Ru characteristics (particle size, support effects) influence on monofunctional hydrogenolysis and bifunctional hydrocracking performance. -- Highlight, Jul 23, 2025, 11:16\n- p.6: Physical mixtures are crucial for preventing excessive Ru-induced hydrogenolysis -- Highlight, Jul 23, 2025, 13:41\n- p.6: Ru serves as both a PE deconstruction initiator -- Highlight, Jul 23, 2025, 13:41\n- p.6: A protective (de)hydrogenation agent -- Highlight, Jul 23, 2025, 13:41\n- p.6: BEA executes selective C-C cleavage -- Highlight, Jul 23, 2025, 13:41\n\n- p.7: The obtained powder was reduced under a flowing gas mixture of 10% H₂/N₂ (100 mL/min) at 300 °C for 3 h -- Highlight, Jul 23, 2025, 13:41\n- p.7: Is 300 °C under 10% H₂ enough for decomposition of RuCl₃ or Ru(OH)₃ into metallic Ru? -- Sticky Note, Jul 23, 2025, 13:42\n\n- p.10: 3.5 g of plastic feed -- Highlight, Jul 23, 2025, 13:43\n- p.10: 25 mL Parr stainless steel reactors -- Highlight, Jul 23, 2025, 13:43\n- p.10: The reaction mixture was mechanically stirred at 600 rpm -- Highlight, Jul 23, 2025, 13:43\n- p.10: Do the authors validate the absence of mass transfer limitation with 600 rpm? -- Sticky Note, Jul 23, 2025, 13:44\n\n- p.14: Monofunctional hydrogenolysis favoring terminal C–C bond scission -- Highlights, Jul 23, 2025, 13:45\n- p.14: By considering a broad product distribution, how can the author quantitatively or qualitatively determine the preference between terminal or central C-C cleavage? -- Sticky Note, Jul 23, 2025, 13:46\n\n- p.15: Demonstrates that effective pathway switching from hydrogenolysis to hydrocracking can be achieved even with substantially reduced Ru content, highlighting the high intrinsic activity of Ru for enabling this transformation.\n- p.15: (De)hydrogenation functions in the bifunctional mixture, from direct C-C cleavage in monofunctional systems -- Highlight, Jul 23, 2025, 13:47\n- p.15: What is the evidence of (de)hydrogenation functionality of Ru catalyst in physical mixture? How can it be changed and why? And which step? -- Sticky Note, Jul 23, 2025, 13:49\n- p.15: How Ru/TiO₂ and BEA are involved in PE conversion, resulting in this product distribution? What is the descriptor? -- Sticky Note, Jul 23, 2025, 13:49\n\n- p.16: Metals exhibit different degrees of pathway switching when physically mixed with zeolites, showing fundamental differences in metal-acid proximity, decreased surface area and pore volume for Ru/BEA (Table S1), partial incorporation or confinement of Ru within BEA micropores. Spatial confinement highlighted. -- Highlights, Jul 23, 2025, 13:51-13:56\n- p.16: Questions on Ru location: micropore vs external surface, evidence from volume and particle size, diffusion from Ru surface to micropore? -- Sticky Notes, Jul 23, 2025, 13:51-13:56\n\n- p.18: Medium-pore (ZSM-5) or small-pore zeolites (FER, SSZ-13) product distributions closely resembled that of Ru/TiO₂ alone; hydrogenolysis pathway remained dominant despite acidic zeolites presence.\n- p.18: Note on possible reasons: higher acid sites in small pores? Moderate acid sites in large pores? Diffusivity effects? -- Note on Highlight, Jul 23, 2025, 13:59\n\n- p.19: Authors need to ensure selectivity was compared at the same or comparable conversion -- Sticky Note, Jul 23, 2025, 14:00\n\n- p.20: Naphtha yield decreased dramatically from 78% to 15%, isomer fraction declined from 77% to 34%, solid residue increased from 0% to 29%. Comparison needed at same conversion level -- Highlight and Note, Jul 23, 2025, 14:00-14:01\n- p.20: C1-4 figures not a good indicator for methane contribution -- Sticky Note, Jul 23, 2025, 14:00\n\n- p.22: Unsaturated species suggest insufficient hydrogenation, possibly linked to aromatization and olefin formation; known precursors for catalyst coking -- Highlights and Notes on Highlight, Jul 23, 2025, 14:04-14:06\n- p.22: Does the author see coking in BEA only? -- Note on Highlight, Jul 23, 2025, 14:06\n\n- p.24: Higher conversion for C18 (86%) than PE (33%), attributed to easier diffusion of shorter chains; questions on PE viscosity, mass transfer limitation, diffusion into pores, sequential Ru/TiO₂ and then pore reaction -- Note on Highlight, Jul 23, 2025, 14:06-14:07\n- p.24: Did authors see deactivation by coke? Need conversion vs reaction time data -- Sticky Note, Jul 23, 2025, 14:08\n\n- p.26: Hydrocracking reaction parameters: time, temperature, H₂ pressure; expected primary and secondary reactions; Figure 4a looks like all secondary reaction -- Note on Highlight, Jul 23, 2025, 14:09-14:10\n\n- p.27: Sequential cracking of polymer chains until complete consumption without accumulating intermediate-sized products; hydrocracking dominant pathway from onset with low methane yields (<0.5%) even at short reaction times -- Highlights and Notes on Highlight, Jul 23, 2025, 14:10-14:11\n- p.27: Queries on conflict with reaction pathway about random C-C cleavage and low methane yield -- Note on Highlight, Jul 23, 2025, 14:11\n- p.27: Sharp increase of H₂ conversion after 2h with negligible PE -- Sticky Note, Jul 23, 2025, 14:12\n- p.27: Reaction temperature threshold effect, activity increase above 250°C, rate-determining steps involving carbenium ion intermediates, constraint of hydrocracking rate despite acid sites -- Highlights and Notes on Highlight, Jul 23, 2025, 14:12-14:14\n- p.27: Question if authors may consider alternative explanations -- Note on Highlight, Jul 23, 2025, 14:14\n\n- p.28: Higher H₂ pressure maintains hydrogen availability crucial for hydrogenation-cracking balance enabling selective naphtha production; no limitation of PE conversion at high H₂ pressure possibly linked to competitive PE and H₂ in Ru catalyst -- Highlight and Note on Highlight, Jul 23, 2025, 14:16-14:17\n- p.28: Extending reaction times beyond 3 h or harsher conditions do not induce overcracking into light gases; hydrogen consumption after 3 h attributed to partial BEA deactivation -- Highlight and Note on Highlight, Jul 23, 2025, 14:17-14:18\n- p.28: Preventing reversion to undesirable hydrogenolysis pathways; possible cessation of secondary or sequential reactions in Ru/TiO₂ -- Highlight and Note on Highlight, Jul 23, 2025, 14:18-14:19\n\n- p.30: Growing disparity between chemisorption and microscopy-derived Ru particle sizes with increasing Ru particles suggests enhanced strong metal-support interaction (SMSI) effects for larger Ru crystallites, blocking CO-accessible Ru surface sites; Ru oxide reduction peak shifts indicate strengthened Ru-TiO₂ interactions impeding Ru reduction, signature of intensified SMSI effects -- Highlights and Note, Jul 23, 2025, 14:23-14:24\n- p.31: CO adsorption spectra reveal characteristic bands for multi-carbonyl and mono-carbonyl complexes on partially oxidized Ru sites and metallic Ru sites; overall intensity of CO adsorption diminishes with increasing Ru size, consistent with progressive TiOₓ overlayer encapsulation reducing accessible Ru adsorption sites -- Highlight and Note, Jul 23, 2025, 14:24-14:25\n\n- p.36: EA results mentioned -- Highlight and question if BEA related -- Note on Highlight, Jul 23, 2025, 14:25\n\n- p.37: Based on findings, question about Ru/TiO₂ coke presence -- Note on Highlight, Jul 23, 2025, 14:26\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://google.github.io/styleguide/docguide/style.html",
+            "title": "Markdown style guide | styleguide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.markdownguide.org/hacks/",
+            "title": "Hacks | Markdown Guide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://docs.gruntwork.io/guides/style/markdown-style-guide/",
+            "title": "Markdown style guide | Gruntwork Docs"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://israelmitolu.hashnode.dev/markdown-for-technical-writers-tips-tricks-and-best-practices"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.markdownguide.org/basic-syntax/",
+            "title": "Basic Syntax | Markdown Guide"
+          }
+        }
+      ],
+      "id": "175fdbc7-29ef-42bc-8f32-b38ecb12757d",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 4635,
+          "completion_tokens": 2291,
+          "total_tokens": 6926,
+          "search_context_size": "low"
+        }
+      }
+    }
+  ],
+  "createdAt": 1753312400444,
+  "updatedAt": 1753313519032,
+  "schemaVersion": 1
+}
