@@ -114,23 +114,9 @@
               "icon": "lucide-file",
               "title": "202507 Chem Catalysis"
             }
-          },
-          {
-            "id": "fd0e3109f7799750",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -310,7 +296,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "fd0e3109f7799750",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md",
     "conflict-files-obsidian-git.md",
