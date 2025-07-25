@@ -114,9 +114,23 @@
               "icon": "lucide-file",
               "title": "202507 Chem Catalysis"
             }
+          },
+          {
+            "id": "fd0e3109f7799750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -296,11 +310,18 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "fd0e3109f7799750",
   "lastOpenFiles": [
+    "_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md",
+    "conflict-files-obsidian-git.md",
+    "_PARA note taking/003 Resources/Obsidian/프롬프트 프레임워크.md",
+    "_PARA note taking/003 Resources/Obsidian/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이 - 트럼프는 누구인가.md",
+    "Bookend_SKim_20250722.bdb",
     "Papers.md",
     "Untitled.md",
-    "_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md",
     "_PARA note taking/001 Project/Research/Peer review/2025",
     "_PARA note taking/001 Project/Research/Peer review",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화.md",
@@ -311,22 +332,15 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250723 미래의 1등 대장주 찾는 방법 (720) - 강력한 브랜드 파워와 팬덤.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250723 금부자들은 경제의 흐름을 읽고 금융문맹은 흐름에 휩쓸린다.md",
     "Clippings/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
-    "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250722 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 2(우주 자원 채굴과 소행성 광산 플랫폼).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250722 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 2편.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250722 윌리엄의 사고흐름 칼럼.md",
-    "Bookend_SKim_20250722.bdb",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250721 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 1(민간 우주여행 및 관광 플랫폼).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250721 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 1편.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250720 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
     "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250718 _CBDC 시대에 글로벌 자산은 결국 나스닥 기업으로 흘러간다.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250718 디폴트와 국가부도! 한 나라가 망한다는건 어떤 의미일까.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250719 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 6 디지털화폐 특집.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250719 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 5화.md",
     "_PARA note taking/003 Resources/Paper and scholar",
     "_PARA note taking/003 Resources/Obsidian",
     "_PARA note taking/003 Resources/Latex",
