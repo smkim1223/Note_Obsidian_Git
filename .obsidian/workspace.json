@@ -4,119 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "08669567e34ff3e5",
+        "id": "83b6caa716b9ae9f",
         "type": "tabs",
         "children": [
           {
-            "id": "fb7899534448cccb",
+            "id": "cabf2c783e34b4e7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250720 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250720 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!"
-            }
-          },
-          {
-            "id": "8829aef2302d376e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀"
-            }
-          },
-          {
-            "id": "5ff2b28b2c9ab46c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250723 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 7화.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250723 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 7화"
-            }
-          },
-          {
-            "id": "82c811cf57fb7507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250723 미래의 1등 대장주 찾는 방법 (720) - 강력한 브랜드 파워와 팬덤.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250723 미래의 1등 대장주 찾는 방법 (720) - 강력한 브랜드 파워와 팬덤"
-            }
-          },
-          {
-            "id": "fff2eded3d3f1f6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화"
-            }
-          },
-          {
-            "id": "4669804ba71da9fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202507 Chem Catalysis"
-            }
-          },
-          {
-            "id": "a1dd0a5129455dc5",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Applying: 202507 Chem Catalysis.md"
-            }
-          },
-          {
-            "id": "17b2f26feb5448cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/004 Catalysts in Industry - A Level Chemistry Revision Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "004 Catalysts in Industry - A Level Chemistry Revision Notes"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,8 +197,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "17b2f26feb5448cb",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
+    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/004 Catalysts in Industry - A Level Chemistry Revision Notes.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/003 Maxwell-Boltzmann Distributions  Edexcel A Level Chemistry Revision Notes 2015.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/001 Collision Theory & Rates.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/002 Calculating Rates of Reaction  Edexcel A Level Chemistry Revision Notes 2015 1.md",
@@ -323,7 +225,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250720 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250719윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 4화.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250719 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 5화.md",
     "Tags/와썹윌리엄/거시경제 소설",
     "Tags/와썹윌리엄",
     "Clippings",
