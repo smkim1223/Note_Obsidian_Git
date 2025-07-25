@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Brokerage/William_s note/20250708 블랙록과 JP모건의 숨겨진 전략 모든 자산의 토큰화가 금융 역사를 다시쓰게 될거야.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250708 블랙록과 JP모건의 숨겨진 전략 모든 자산의 토큰화가 금융 역사를 다시쓰게 될거야"
+              "title": "20250725 금융 부자들이 활용하는 멘탈 관리법"
             }
           }
         ]
@@ -84,6 +84,16 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "997dddc36756fc92",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
     "currentTab": 0
@@ -145,6 +155,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "smart-composer:Open smart composer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -157,6 +168,7 @@
   },
   "active": "7fbc5c97c071f6ca",
   "lastOpenFiles": [
+    "Tags",
     "Personal/Brokerage/William_s note/20250710 월가 내부자들이 쓰는 플랫폼 기업 평가 방법.md",
     "Personal/Brokerage/William_s note/20250710 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 3(플랫폼 용어 특집).md",
     "Personal/Brokerage/William_s note/20250709 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 2.md",
@@ -182,7 +194,6 @@
     "Personal/Brokerage/William_s note/20250702 미래의 1등 대장주 찾는 방법.md",
     "Personal/Brokerage/William_s note/20250701 알아두면 저절로 부자되는 내 자식 금융교육 법 1탄.md",
     "Personal/Brokerage/William_s note/20250701 부자들은 왜 잠자는 동안에도 돈을 벌 수 있을까_.md",
-    "Personal/Brokerage/William_s note/20250701 내 자식 행복한 부자만들기 금융 교육🥭.md",
     "Note_000"
   ]
 }
