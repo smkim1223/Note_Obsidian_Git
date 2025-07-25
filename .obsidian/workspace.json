@@ -211,6 +211,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "66772627dac1a40b",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
         ],
         "currentTab": 4
@@ -232,7 +242,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ed34d45bfce78199",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
     "Clippings/프롬프트 프레임워크.md",
