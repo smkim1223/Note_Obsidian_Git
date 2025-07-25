@@ -1,5 +1,6 @@
 ---
 Obsidian: " "
+tags: obsidian
 ---
 # 옵시디언(Obsidian) 필수 플러그인 36개 리스트 정리
 

@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/003 Resources/Obsidian/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음"
+              "title": "Untitled"
             }
           }
         ],
@@ -193,13 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -223,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -242,8 +242,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ed34d45bfce78199",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
+    "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
+    "_PARA note taking/003 Resources/Obsidian/Obsidian plugin recommendation.md",
     "_PARA note taking/003 Resources/Obsidian/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
     "_PARA note taking/003 Resources/Obsidian/프롬프트 프레임워크.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
@@ -271,8 +273,6 @@
     "Clippings/20250725 나스닥(NASDAQ)과 뉴욕증권거래소(NYSE)의 실제 차이를 알려줄게!.md",
     "Clippings/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
     "_PARA note taking/003 Resources/Obsidian/Obsidian Markdown syntax guide for researchers.md",
-    "_PARA note taking/003 Resources/Obsidian/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings 2.md",
-    "Clippings/Markdown Syntax Guide for Researchers - CMDS Obsidian Settings.md",
     "_PARA note taking/003 Resources/Paper and scholar",
     "_PARA note taking/003 Resources/Obsidian",
     "_PARA note taking/003 Resources/Latex",
