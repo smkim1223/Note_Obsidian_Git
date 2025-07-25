@@ -1,13 +1,13 @@
 ---
-title: "옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음"
-source: "https://slashpage.com/cmds-class/ywk9j72936x1v2gpqvnd?full=1"
+title: 옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음
+source: https://slashpage.com/cmds-class/ywk9j72936x1v2gpqvnd?full=1
 author:
   - "[[커맨드스페이스]]"
-published:
+published: 
 created: 2025-07-19
 description: "아래 내용을 노트로 만드시고 테마 설정하세요. Obsidian Markdown Syntax Examples Headings Heading 1 내용 1 내용 2 ​Heading 2 내용 1 내용 2 #tag #nested/tag Heading 3 내용 1 내용 2 Heading 4 내용 1 내용 2 Knowledge Management 지식관리 Heading 5 Heading 6 Bold, Italic, and Strikethrough Internal"
 tags:
-  - "clippings"
+  - Obsidian
 ---
 ## 옵시디언 테마 설정을 위한 다양한 마크다운 문법
 
