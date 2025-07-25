@@ -3,6 +3,7 @@ title: Collision Theory & Rates | Edexcel A Level Chemistry Revision Notes 2015
 source: https://www.savemyexams.com/a-level/chemistry/edexcel/17/revision-notes/1-physical-chemistry/1-9-kinetics-i/1-9-1-collision-theory-and-rates/
 author:
   - "[[Richard Boole]]"
+  - "[[윌리엄]]"
 published: 2025-01-05
 created: 2025-07-11
 description: Revision notes on Collision Theory & Rates for the Edexcel A Level Chemistry syllabus, written by the Chemistry experts at Save My Exams.
