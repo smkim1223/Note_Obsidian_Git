@@ -107,12 +107,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
+                "file": "Tags/와썹윌리엄/거시경제 소설/거시경제 소설.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터"
+              "title": "거시경제 소설"
             }
           }
         ],
@@ -296,10 +296,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "17b2f26feb5448cb",
   "lastOpenFiles": [
-    "Tags/윌리엄의 노트",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 9화.md",
+    "Tags/와썹윌리엄/거시경제 소설/거시경제 소설.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
+    "Tags/와썹윌리엄/거시경제 소설",
+    "Tags/와썹윌리엄",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이 - 트럼프는 누구인가.md",
@@ -323,7 +326,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회 - 추가설명 후속편.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 전통 부동산과 국채의 위기! 새로운 자산 시스템의 탄생 속 큰 부자될 엄청난 기회.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250717 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 3화.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250717 요트 판매량으로 보는 경제 호황 정점 파악방법.md",
     "Clippings",
     "Bookend_SKim_20250722.bdb",
     "_PARA note taking/001 Project/Research/Peer review/2025",
@@ -332,8 +334,6 @@
     "_PARA note taking/003 Resources/Obsidian",
     "_PARA note taking/003 Resources/Latex",
     "_PARA note taking/004 Archive",
-    "Temp2",
-    "Tags",
     "Pasted image 20250715002834.png"
   ]
 }
