@@ -179,7 +179,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -296,7 +297,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "d62deaf26f77c141",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 9화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 8화.md",
