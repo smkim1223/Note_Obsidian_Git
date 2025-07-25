@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "83b6caa716b9ae9f",
+        "id": "b1cd326c689a2786",
         "type": "tabs",
         "children": [
           {
-            "id": "cabf2c783e34b4e7",
+            "id": "b8cfee7a3c0da74d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -204,7 +197,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "cabf2c783e34b4e7",
+  "active": "b8cfee7a3c0da74d",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled 3.canvas",
