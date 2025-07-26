@@ -41,25 +41,22 @@ Demand is driven by beverage carbonation, enhanced-oil-recovery (EOR), food refr
 
 ### Methanol
 
-| Metric | 2024-25 Value | Notes |
-|------|------------|-------|
-| U.S. market size | US $9.0 billion (2024) [6] | CAGR 4.2% to 2033. |
-| Domestic capacity | ≈12 million t year⁻¹; key plants: Methanex Geismar (4 Mt), Natgasoline (1.7 Mt), OCI Beaumont (1 Mt) [8][9] | Gulf Coast cluster benefits from low-cost shale gas. |
-| Apparent demand | 11.5 million t (2023) [10] | Formaldehyde, MTBE, acetic acid dominate. |
-| Contract reference price | US $795 t⁻¹ (July 2025, Methanex) [11] |
-| Import spot price | US $393 t⁻¹ (Apr 2025 CIF avg.) [12] |
+| Metric                   | 2024-25 Value                                                                                               | Notes                                                |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| U.S. market size         | US $9.0 billion (2024) [6]                                                                                  | CAGR 4.2% to 2033.                                   |
+| Domestic capacity        | ≈12 million t year⁻¹; key plants: Methanex Geismar (4 Mt), Natgasoline (1.7 Mt), OCI Beaumont (1 Mt) [8][9] | Gulf Coast cluster benefits from low-cost shale gas. |
+| Apparent demand          | 11.5 million t (2023) [10]                                                                                  | Formaldehyde, MTBE, acetic acid dominate.            |
+| Contract reference price | US $795 t⁻¹ (July 2025, Methanex) [11]                                                                      |                                                      |
+| Import spot price        | US $393 t⁻¹ (Apr 2025 CIF avg.) [12]                                                                        |                                                      |
 
 Natural-gas feedstock keeps U.S. cost curves in the first quartile globally; however, gas rising to ~US $4 mmbtu trimmed margins in Q2-2025 [8].
 
 ### Ethanol
 
-| Metric | 2024-25 Value | Notes |
-|------|------------|-------|
-| Market value | US $32.76 billion (2025) [14] | 9.2% CAGR to 2032. |
-| Plant capacity | 18.01 billion gal year⁻¹ across 187 plants (Jan 2024) [15] |
-| 2024 production | 16.1 billion gal (record-matching) [16] |
-| 2024 exports | 1.9 billion gal (new high) [17] |
-| Wholesale price range | US $1.77 gal⁻¹ futures (July 25 2025) [19]; rack US $1.79 gal⁻¹ (June 2025) [20]; retail parity ≈US $0.67 L⁻¹ [18] |
+| Metric                | 2024-25 Value                                                                                                                           | Notes              |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Market value                                                                                                                                                    | 9.2% CAGR to 2032. |
+| Plant capacity        | 1                                                                                                                                       |                                                                                                                                                                                                                                                                                                                US $1.77 gal⁻¹ futures (July 25 2025) [19]; rack US $1.79 gal⁻¹ (June 2025) [20]; retail parity ≈US $0.67 L⁻¹ [18] ~  [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]  |                    |
 
 Corn feedstock is ~50% of variable cost; current corn at US $4.5–4.7 bu⁻¹ presses crush margins to ≈3–5 ¢ gal⁻¹ [31].
 
