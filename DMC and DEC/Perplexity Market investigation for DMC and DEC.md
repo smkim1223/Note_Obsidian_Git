@@ -63,6 +63,8 @@ Natural-gas feedstock keeps U.S. cost curves in the first quartile globally; how
 
 Corn feedstock is ~50% of variable cost; current corn at US $4.5–4.7 bu⁻¹ presses crush margins to ≈3–5 ¢ gal⁻¹ [31].
 
+
+
 ## Production Potential for DMC & DEC from CO₂
 
 #### Technology Status
@@ -80,13 +82,13 @@ Given current capacities, diverting 5% of U.S. methanol (≈0.6 Mt y⁻¹) to DM
 
 ## Industrial Applications & Beneficiaries
 
-| Sector | Role of DMC / DEC | Market Implication |
-|-------|------------------|--------------------|
-| Lithium-ion batteries | High-voltage electrolyte co-solvents; DEC lowers viscosity, DMC boosts SEI stability [28][24] | North-American cell plants (>800 GWh pipeline) could require >160 kt y⁻¹ carbonate solvents by 2030. |
-| Polycarbonate & engineering plastics | DMC is a phosgene-free methylating agent in BPA routes [21] | OEM sustainability mandates favor “green” carbonate sourcing. |
-| Paints & coatings | Low-VOC solvent replacement for toluene/xylene [34] | Tight VOC regulations drive formulators toward DMC blends. |
-| Pharmaceuticals & agrochemicals | Carbonylation and alkylation intermediate; DEC used in quinolone APIs [24] | cGMP demand for safer reagents underpins premium pricing. |
-| Fuel additives | Oxygenate boosting octane (>15 RON) and lowering PM; drop-in with gasoline ≤10 vol % [22] | Provides incremental outlet for oversupplied methanol pools. |
+| Sector                                      | Role of DMC / DEC                                                                                    | Market Implication                                                                                   |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| <font color="#ff0000">Lithium-ion batteries | High-voltag</font>e electrolyte co-solvents; DEC lowers viscosity, DMC boosts SEI stability [28][24] | North-American cell plants (>800 GWh pipeline) could require >160 kt y⁻¹ carbonate solvents by 2030. |
+| Polycarbonate & engineering plastics        | DMC is a phosgene-free methylating agent in BPA routes [21]                                          | OEM sustainability mandates favor “green” carbonate sourcing.                                        |
+| Paints & coatings                           | Low-VOC solvent replacement for toluene/xylene [34]                                                  | Tight VOC regulations drive formulators toward DMC blends.                                           |
+| Pharmaceuticals & agrochemicals             | Carbonylation and alkylation intermediate; DEC used in quinolone APIs [24]                           | cGMP demand for safer reagents underpins premium pricing.                                            |
+| <font color="#ff0000">Fuel additives</font> | Oxygenate boosting octane (>15 RON) and lowering PM; drop-in with gasoline ≤10 vol % [22]            | Provides incremental outlet for oversupplied methanol pools.                                         |
 
 The battery sector is the fastest-growing pull: policies targeting 2 million EVs year⁻¹ by 2030 imply carbonate-solvent consumption doubling every ~30 months [35][29].
 
