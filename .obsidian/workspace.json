@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "d62deaf26f77c141",
+            "id": "791e3f75553b9871",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,7 +80,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -197,7 +198,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b8cfee7a3c0da74d",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled 3.canvas",
