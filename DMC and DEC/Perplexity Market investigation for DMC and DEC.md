@@ -30,12 +30,12 @@ The United States commands world-scale production and consumption of CO₂‐der
 
 ### CO₂ (Merchant & Captured)
 
-| Metric | 2024-25 Value | Notes |
-|------|------------|-------|
-| Industrial market value | US $451 million (2025 estimate) [1] to US $3.2 billion (2021) [2] | Range reflects packaged-gas vs. full downstream value scope. |
-| Merchant supply capacity | ≈60 billion kg year⁻¹ installed (major gas companies) [4] | By-product recovery from ammonia, ethanol & NG processing. |
-| Industry revenue (production sector) | US $1.6 billion (2025) [3] | IBISWorld production census. |
-| Spot liquid CO₂ price | US $766 t⁻¹ (June 2025) [5] | Tight supply after ammonia outages. |
+| Metric                               | 2024-25 Value                                                         | Notes                                                        |
+| ------------------------------------ | --------------------------------------------------------------------- | ------------------------------------------------------------ |
+| Industrial market value              | US $451 million (2025 estimate) [1] to US $3.2 billion (2021) [2]     | Range reflects packaged-gas vs. full downstream value scope. |
+| Merchant supply capacity             | ≈60 billion kg year⁻¹ installed (major gas companies) [4]             | By-product recovery from ammonia, ethanol & NG processing.   |
+| Industry revenue (production sector) | US $1.6 billion (2025) [3]                                            | IBISWorld production census.                                 |
+| Spot liquid CO₂ price                | <font color="#ff0000">US $766 t⁻¹ (June 2025) [5]             </font> | Tight supply after ammonia outages.                          |
 
 Demand is driven by beverage carbonation, enhanced-oil-recovery (EOR), food refrigeration, welding, and emerging CCUS utilization. Policy incentives (45Q tax credit) are accelerating new capture hubs [30].
 
@@ -47,7 +47,7 @@ Demand is driven by beverage carbonation, enhanced-oil-recovery (EOR), food refr
 | Domestic capacity        | ≈12 million t year⁻¹; key plants: Methanex Geismar (4 Mt), Natgasoline (1.7 Mt), OCI Beaumont (1 Mt) [8][9] | Gulf Coast cluster benefits from low-cost shale gas. |
 | Apparent demand          | 11.5 million t (2023) [10]                                                                                  | Formaldehyde, MTBE, acetic acid dominate.            |
 | Contract reference price | US $795 t⁻¹ (July 2025, Methanex) [11]                                                                      |                                                      |
-| Import spot price        | US $393 t⁻¹ (Apr 2025 CIF avg.) [12]                                                                        |                                                      |
+| Import spot price        | <font color="#ff0000">US $393 t⁻¹ (Apr 2025 CIF avg.)</font> [12]                                           |                                                      |
 
 Natural-gas feedstock keeps U.S. cost curves in the first quartile globally; however, gas rising to ~US $4 mmbtu trimmed margins in Q2-2025 [8].
 
