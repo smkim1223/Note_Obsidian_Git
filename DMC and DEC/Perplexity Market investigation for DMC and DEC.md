@@ -53,10 +53,13 @@ Natural-gas feedstock keeps U.S. cost curves in the first quartile globally; how
 
 ### Ethanol
 
-| Metric                | 2024-25 Value                                                                                                                                 | Notes              |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Market value                                                                                                                                                          | 9.2% CAGR to 2032. |
-| Plant capacity                                                                                                                                                        |                                                                                                                                                                                                                                                                                                                      US $1.77 gal⁻¹ futures (July 25 2025) [19]; rack US $1.79 gal⁻¹ (June 2025) [20]; retail parity ≈US $0.67 L⁻¹ [18] ( 594)  [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]  |                    |
+| Metric                | 2024-25 Value                                                                                                                                                    | Notes              |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Market value          | US $32.76 billion (2025) [14]                                                                                                                                    | 9.2% CAGR to 2032. |
+| Plant capacity        | 18.01 billion gal year⁻¹ across 187 plants (Jan 2024) [15]                                                                                                       |                    |
+| 2024 production       | 16.1 billion gal (record-matching) [16]                                                                                                                          |                    |
+| 2024 exports          | 1.9 billion gal (new high) [17]                                                                                                                                  |                    |
+| Wholesale price range | US $1.77 gal⁻¹ futures (July 25 2025) [19]; rack US $1.79 gal⁻¹ (June 2025) [20]; retail parity ≈US $0.67 L⁻¹ [18]<br><br><font color="#ff0000">594 USD/t</font> |                    |
 
 Corn feedstock is ~50% of variable cost; current corn at US $4.5–4.7 bu⁻¹ presses crush margins to ≈3–5 ¢ gal⁻¹ [31].
 
