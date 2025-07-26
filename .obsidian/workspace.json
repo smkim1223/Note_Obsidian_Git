@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5
+    "width": 453.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +191,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "b8cfee7a3c0da74d",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "DMC and DEC",
     "DMC and DEC/Perplexity Market investigation for DMC and DEC.md",
