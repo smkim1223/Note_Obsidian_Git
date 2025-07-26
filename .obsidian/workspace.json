@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Untitled/Market investigation for DMC and DEC by Perplexity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Market investigation for DMC and DEC by Perplexity"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,9 +191,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Untitled",
+    "Untitled/Market investigation for DMC and DEC by Perplexity.md",
     "Untitled.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
@@ -223,7 +223,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 9화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이 - 트럼프는 누구인가.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이.md",
     "Tags/와썹윌리엄/거시경제 소설",
     "Tags/와썹윌리엄",
     "Clippings",
