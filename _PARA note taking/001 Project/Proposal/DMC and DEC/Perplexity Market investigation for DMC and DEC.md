@@ -2,7 +2,7 @@
 Type: Proposal
 aliases:
   - "Perplexity: Market investigation for DMC and DEC"
-Keywords: DMC
+Keywords: DMC, DEC
 ---
 <thinking_process>
 1. Defined scope: Needed U.S. data on market size / volume / production / pricing for CO₂, methanol, and ethanol; plus, scalability, and end-use demand for dimethyl carbonate (DMC) and diethyl carbonate (DEC).
