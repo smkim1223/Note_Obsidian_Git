@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Market analysis for DMC and DEC.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Market analysis for DMC and DEC"
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "326bb4b758f6cd7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,11 +234,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "326bb4b758f6cd7c",
   "lastOpenFiles": [
+    "Welcome.md",
+    "Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Market analysis for DMC and DEC.md",
     "_PARA note taking/001 Project/Proposal/DMC and DEC/Perflexity DMC and DEC production.md",
     "_PARA note taking/001 Project/Proposal/DMC and DEC/Perplexity Market investigation for DMC and DEC.md",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Market analysis for DMC and DEC.md",
     "Untitled 1.md",
     "_PARA note taking/001 Project/Proposal",
     "_PARA note taking/001 Project/Proposal/DMC and DEC",
@@ -252,8 +268,6 @@
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/003 Maxwell-Boltzmann Distributions  Edexcel A Level Chemistry Revision Notes 2015.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/001 Collision Theory & Rates.md",
     "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/002 Calculating Rates of Reaction  Edexcel A Level Chemistry Revision Notes 2015 1.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 9화.md",
     "Tags/와썹윌리엄/거시경제 소설",
     "Tags/와썹윌리엄",
     "Clippings",
