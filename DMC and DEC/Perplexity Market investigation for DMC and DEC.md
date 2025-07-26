@@ -53,10 +53,10 @@ Natural-gas feedstock keeps U.S. cost curves in the first quartile globally; how
 
 ### Ethanol
 
-| Metric                | 2024-25 Value                                                                                                                           | Notes              |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ |
-| Market value                                                                                                                                                    | 9.2% CAGR to 2032. |
-| Plant capacity        | 1                                                                                                                                       |                                                                                                                                                                                                                                                                                                                US $1.77 gal⁻¹ futures (July 25 2025) [19]; rack US $1.79 gal⁻¹ (June 2025) [20]; retail parity ≈US $0.67 L⁻¹ [18] ~  [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]  |                    |
+| Metric                | 2024-25 Value                                                                                                                          | Notes              |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------ |
+| Market value                                                                                                                                                   | 9.2% CAGR to 2032. |
+| Plant capacity        | 1                                                                                                                                      |                                                                                                                                                                                                                                                                                                              US $1.77 gal⁻¹ futures (July 25 2025) [19]; rack US $1.79 gal⁻¹ (June 2025) [20]; retail parity ≈US $0.67 L⁻¹ [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]   [18]  |                    |
 
 Corn feedstock is ~50% of variable cost; current corn at US $4.5–4.7 bu⁻¹ presses crush margins to ≈3–5 ¢ gal⁻¹ [31].
 
