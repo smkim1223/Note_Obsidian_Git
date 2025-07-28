@@ -35,13 +35,9 @@ This MOF design integrates several advantageous features for enhanced CO2 captur
 ## Precursor Chemicals
 
 1. **Zirconium Source**: ZrCl4 (commercially available)
-
 2. **Linker Synthesis**:
-
    - 2,2'-bipyridine-5,5'-dicarboxylic acid (BPYDC) is not widely commercially available and needs to be synthesized
-
    - Synthesis route: Oxidation of 5,5'-dimethyl-2,2'-bipyridine with KMnO4
-
    - Amino functionalization: Nitration followed by reduction to obtain BPYDC-NH2
 
 3. **Copper Source**: Cu(NO3)2·3H2O (commercially available)
@@ -50,58 +46,33 @@ This MOF design integrates several advantageous features for enhanced CO2 captur
 
 5. **Solvents**: DMF, acetone, methanol (all commercially available)
 
-  
-
 ## CO2 Capture and Conversion Expectations
 
-  
-
 ### CO2 Capture
-
 - Expected capacity: ~20-25 wt% at 1 bar and 298K
-
 - Selectivity: High CO2/N2 selectivity (~30-40) due to the presence of both open metal sites and amino groups
-
 - Heat of adsorption: Moderate (30-40 kJ/mol) to balance adsorption strength with regeneration energy
 
-  
-
 ### CO2 Conversion
-
 - Expected catalytic activity for CO2 reduction to CO or formate
-
 - Proposed mechanism: Cu(II) sites activate CO2 while nearby -NH2 groups stabilize intermediates
-
 - Potential for photocatalytic activity under visible light due to the LMCT (ligand-to-metal charge transfer) between the amino-functionalized bipyridine and Cu(II)
-
 - Expected turnover frequency: 2-5 h^-1 for CO2 to CO conversion under mild conditions
 
   
 
 ## Expected XRD Profile
 
-  
-
 The expected XRD pattern would show:
-
 - Face-centered cubic structure similar to UiO-66
-
 - Space group: Fm-3m
-
 - Major peaks at approximately:
-
   - 2θ = 7.3° (111)
-
   - 2θ = 8.5° (200)
-
   - 2θ = 12.0° (220)
-
   - 2θ = 14.1° (311)
-
   - 2θ = 14.7° (222)
-
   - 2θ = 17.0° (400)
-
   - 2θ = 19.0° (331)
 
   - 2θ = 22.2° (440)
