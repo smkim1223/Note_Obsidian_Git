@@ -8,62 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8cfee7a3c0da74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Perplexity Market investigation for DMC and DEC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perplexity Market investigation for DMC and DEC"
-            }
-          },
-          {
-            "id": "53a8ce8e958ef297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Perflexity DMC and DEC production.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Perflexity DMC and DEC production"
-            }
-          },
-          {
-            "id": "664e312e3c7669a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "326bb4b758f6cd7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols"
-            }
-          },
-          {
             "id": "97498c06616b9c26",
             "type": "leaf",
             "state": {
@@ -76,19 +20,8 @@
               "icon": "lucide-file",
               "title": "20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD"
             }
-          },
-          {
-            "id": "2167fc058917be05",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,7 +191,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "2167fc058917be05",
+  "active": "7b4e35d8daa30e98",
   "lastOpenFiles": [
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250707 Hypothesis for a Novel MOF for CO2 Capture and Conversion.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD.md",
