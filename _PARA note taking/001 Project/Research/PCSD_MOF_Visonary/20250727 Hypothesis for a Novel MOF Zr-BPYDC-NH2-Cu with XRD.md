@@ -4,40 +4,21 @@ aliases:
 ---
 # Hypothesis for a Novel MOF: Zr-BPYDC-NH2-Cu
 
-  
-
 ## Proposed MOF Specifications
 
-  
-
 ### Structural Components
-
 - **Nodes**: Zr6O4(OH)4 clusters with coordinated Cu(II) ions
-
 - **Linkers**: 2,2'-bipyridine-5,5'-dicarboxylic acid functionalized with amino groups (BPYDC-NH2)
-
 - **Molecular Structure**: UiO-66-type framework with bipyridine groups capable of coordinating Cu(II) ions, creating dual-functional metal sites
-
-  
-
 ### Synthesis Parameters
-
 - **Temperature**: 120°C for 48 hours
-
 - **Pressure**: Autogenous in Teflon-lined autoclave
-
 - **Solvent**: DMF/H2O mixture (9:1 v/v)
-
 - **Modulators**: Benzoic acid (30 equivalents relative to Zr)
-
 - **Pre-treatment**: Sonication of precursors for 30 minutes before heating
-
 - **Post-treatment**:
-
   1. Solvent exchange with acetone (3 times over 3 days)
-
   2. Activation at 150°C under vacuum for 12 hours
-
   3. Post-synthetic metalation with Cu(NO3)2 in methanol at 60°C for 24 hours
 
   
