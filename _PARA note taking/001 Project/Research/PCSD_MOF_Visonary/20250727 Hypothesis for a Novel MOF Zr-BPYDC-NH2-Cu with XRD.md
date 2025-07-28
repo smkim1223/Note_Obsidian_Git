@@ -59,8 +59,6 @@ This MOF design integrates several advantageous features for enhanced CO2 captur
 - Potential for photocatalytic activity under visible light due to the LMCT (ligand-to-metal charge transfer) between the amino-functionalized bipyridine and Cu(II)
 - Expected turnover frequency: 2-5 h^-1 for CO2 to CO conversion under mild conditions
 
-  
-
 ## Expected XRD Profile
 
 The expected XRD pattern would show:
@@ -74,54 +72,34 @@ The expected XRD pattern would show:
   - 2θ = 14.7° (222)
   - 2θ = 17.0° (400)
   - 2θ = 19.0° (331)
-
   - 2θ = 22.2° (440)
-
-  
 
 The peaks would be slightly shifted to lower 2θ values compared to UiO-66 due to the longer BPYDC linker. Post-metalation with Cu(II) would cause minor intensity changes but maintain the same basic pattern, confirming preservation of the framework structure.
 
-  
-
 ## References Used for Hypothesis Generation
-
-  
-
 1. UiO-66 structure and stability information:
 
    - Cavka, J.H. et al. "A New Zirconium Inorganic Building Brick Forming Metal Organic Frameworks with Exceptional Stability." Journal of the American Chemical Society, 2008, 130(42), 13850-13851. [Synthesis conditions and structural details of Zr-MOFs]
-
-  
 
 2. Amino-functionalization effects on CO2 adsorption:
 
    - Couck, S. et al. "An Amine-Functionalized MIL-53 Metal–Organic Framework with Large Separation Power for CO2 and CH4." Journal of the American Chemical Society, 2009, 131(18), 6326-6327. [Enhanced CO2 affinity through amino groups]
 
-  
-
 3. Bipyridine linkers for metal coordination:
 
    - Wang, C. et al. "A Robust Large-Pore Zirconium Carboxylate Metal–Organic Framework for Energy-Efficient Water-Sorption-Driven Refrigeration." Nature Energy, 2018, 3(11), 985-993. [Bipyridine incorporation into Zr-MOFs]
-
-  
 
 4. Cu sites for CO2 activation:
 
    - Weston, M.H. et al. "Exceptional Ammonia Uptake by a Covalent Organic Framework." Journal of the American Chemical Society, 2013, 135(5), 1708-1718. [Metal site incorporation for gas activation]
 
-  
-
 5. Dual-metal site catalysis:
 
    - Yang, D. et al. "Tuning Zr6 Metal-Organic Framework (MOF) Nodes as Catalyst Supports: Site Densities and Electron-Donor Properties Influence Molecular Iridium Complexes as Ethylene Conversion Catalysts." ACS Catalysis, 2016, 6(1), 235-247. [Heterometallic MOFs for catalysis]
 
-  
-
 6. Continuous flow synthesis methods:
 
    - Rubio-Martinez, M. et al. "New Directions in Metal-Organic Framework Synthesis: Continuous Flow and Alternative Heating Methods." Chemical Society Reviews, 2017, 46(11), 3453-3480. [Modern synthesis approaches for MOFs]
-
-  
 
 7. Post-synthetic metalation:
 
