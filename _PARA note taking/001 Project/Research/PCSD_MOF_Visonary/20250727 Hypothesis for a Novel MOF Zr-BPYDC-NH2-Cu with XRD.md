@@ -5,7 +5,6 @@ aliases:
 # Hypothesis for a Novel MOF: Zr-BPYDC-NH2-Cu
 
 ## Proposed MOF Specifications
-
 ### Structural Components
 - **Nodes**: Zr6O4(OH)4 clusters with coordinated Cu(II) ions
 - **Linkers**: 2,2'-bipyridine-5,5'-dicarboxylic acid functionalized with amino groups (BPYDC-NH2)
@@ -20,46 +19,20 @@ aliases:
   1. Solvent exchange with acetone (3 times over 3 days)
   2. Activation at 150°C under vacuum for 12 hours
   3. Post-synthetic metalation with Cu(NO3)2 in methanol at 60°C for 24 hours
-
-  
-
 ## Rationale
-
-  
-
 This MOF design integrates several advantageous features for enhanced CO2 capture and conversion:
-
-  
-
 1. **Structural Stability**: The Zr6O4(OH)4 nodes from the UiO-66 family provide exceptional thermal and chemical stability, addressing a common limitation in MOFs for practical applications.
-
-  
-
 2. **Dual Metal Sites**: The primary Zr-nodes offer structural integrity while the secondary Cu(II) sites coordinated to bipyridine linkers create accessible metal centers for CO2 activation. This mimics the successful strategy seen in HKUST-1's paddlewheel units but within a more stable framework.
-
-  
-
 3. **Amino Functionalization**: The -NH2 groups on the linkers can:
-
    - Enhance CO2 adsorption through hydrogen bonding interactions
-
    - Increase the electron density on the Cu centers, potentially improving catalytic activity
-
    - Create a more hydrophilic environment to facilitate CO2 conversion reactions
-
   
-
-4. **Extended Linker**: The bipyridine-based linker creates larger pores than standard UiO-66, providing better diffusion pathways for CO2 while maintaining framework stability.
-
-  
+4. **Extended Linker**: The bipyridine-based linker creates larger pores than standard UiO-66, providing better diffusion pathways for CO2 while maintaining framework stability. 
 
 5. **Synergistic Effects**: The combination of Lewis acidic Cu sites and basic -NH2 groups could work cooperatively to activate CO2 molecules, similar to enzyme-like mechanisms.
 
-  
-
 ## Precursor Chemicals
-
-  
 
 1. **Zirconium Source**: ZrCl4 (commercially available)
 
