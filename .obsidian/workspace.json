@@ -37,15 +37,14 @@
             "id": "69a1c6d09b46bf02",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250612 실패 없이 부자되는 원리와 방법.md",
-                "bFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250612 실패 없이 부자되는 원리와 방법.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250707 Hypothesis for a Novel MOF for CO2 Capture and Conversion.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 20250612 실패 없이 부자되는 원리와 방법"
+              "icon": "lucide-file",
+              "title": "20250707 Hypothesis for a Novel MOF for CO2 Capture and Conversion"
             }
           }
         ],
@@ -180,12 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250707 Hypothesis for a Novel MOF for CO2 Capture and Conversion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 20250707 Hypothesis for a Novel MOF for CO2 Capture and Conversion"
             }
           },
           {
