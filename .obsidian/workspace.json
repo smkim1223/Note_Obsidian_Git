@@ -4,24 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "b1cd326c689a2786",
+        "id": "08669567e34ff3e5",
         "type": "tabs",
         "children": [
           {
-            "id": "97498c06616b9c26",
+            "id": "fb7899534448cccb",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "_PARA note taking/002 Area/Brokerage/William_s note"
+              },
+              "icon": "lucide-file",
+              "title": "William_s note"
+            }
+          },
+          {
+            "id": "2a3fffd575c68b16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD"
+              "title": "20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1"
+            }
+          },
+          {
+            "id": "69a1c6d09b46bf02",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250612 실패 없이 부자되는 원리와 방법.md",
+                "bFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250612 실패 없이 부자되는 원리와 방법.md",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: 20250612 실패 없이 부자되는 원리와 방법"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,7 +103,7 @@
             }
           },
           {
-            "id": "77b28dc107d43687",
+            "id": "e8925e54b1879133",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -88,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 640.5
+    "width": 577.5
   },
   "right": {
     "id": "ee26142e7387622f",
@@ -152,17 +180,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols"
+              "title": "Outline"
             }
           },
           {
-            "id": "7b4e35d8daa30e98",
+            "id": "d2d566ebddc680b7",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -170,13 +197,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "66772627dac1a40b",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 560.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,48 +228,44 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7b4e35d8daa30e98",
+  "active": "69a1c6d09b46bf02",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250707 Hypothesis for a Novel MOF for CO2 Capture and Conversion.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD.md",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
-    "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Perflexity DMC and DEC production.md",
+    "Temp/Practice.md",
     "Welcome.md",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Market analysis for DMC and DEC.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250722 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 2편.md",
+    "Untitled.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 9화.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 8화.md",
+    "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
     "_PARA note taking/001 Project/Proposal/DMC and DEC/Perplexity Market investigation for DMC and DEC.md",
-    "Untitled 1.md",
-    "_PARA note taking/001 Project/Proposal",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Perflexity DMC and DEC production.md",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Market analysis for DMC and DEC.md",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
     "_PARA note taking/001 Project/Proposal/DMC and DEC",
-    "Untitled.canvas",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250616 투자 경제 관점 브리핑.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250617 1,000만원이 50억이 되는 돈의 흐름 매뉴얼.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250616 레버리지 욕심 부리다 인생까지 날리는 법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250616 가장 빠르게 부자되는 매수 타이밍.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250616 3년 안에 자산 10배 만드는 매수, 매도 신호 확인법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 휴머노이드 로봇(국내 보급화).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 우주항공(방위산업).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250613 전쟁 위기 상황에 알맞는 3가지 선택지와 대응전략.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250613 은행이 절대 말하지 않는 비밀.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250613 가장 크게 성장할 산업과 기업의 엄청난 미래.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250612 실패 없이 부자되는 원리와 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250612 딱 이거만 지켜도 남들보다 10년 빠르게 부자 된다.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250612 너 아직도 한국 주식만 해_ 정신차려.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250612 나를 부자로 만들어 줄 기업 고르는 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250611 망고들아 안녕_ 와썹 윌리엄이야!.md",
-    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/004 Catalysts in Industry - A Level Chemistry Revision Notes.md",
-    "_PARA note taking/003 Resources/Chemical Engineering/Physical chemistry/Kinetics/003 Maxwell-Boltzmann Distributions  Edexcel A Level Chemistry Revision Notes 2015.md",
-    "Tags/와썹윌리엄/거시경제 소설",
-    "Tags/와썹윌리엄",
-    "Clippings",
-    "Bookend_SKim_20250722.bdb",
+    "_PARA note taking/001 Project/Proposal",
+    "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis.md",
     "_PARA note taking/001 Project/Peer review/2025",
     "_PARA note taking/001 Project/Peer review",
-    "_PARA note taking/003 Resources/Paper and scholar",
+    "Tags/와썹윌리엄/거시경제 소설",
+    "Tags/와썹윌리엄",
+    "_PARA note taking/003 Resources/Obsidian/Obsidian note.md",
+    "_PARA note taking/003 Resources/Obsidian/Obsidian plugin recommendation.md",
+    "_PARA note taking/003 Resources/Obsidian/옵시디언 테마 설정을 위한 다양한 마크다운 문법 - CMDS 노트, 템플릿 모음.md",
+    "_PARA note taking/003 Resources/Obsidian/프롬프트 프레임워크.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 스레드 인사이트 릴레이 - 트럼프는 누구인가.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250723 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 7화.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250723 미래의 1등 대장주 찾는 방법 (720) - 강력한 브랜드 파워와 팬덤.md",
+    "_PARA note taking/001 Project/Research/Peer review/2025/202507 Chem Catalysis.md",
+    "_PARA note taking/001 Project/Research/Peer review/2025",
+    "_PARA note taking/001 Project/Research/Peer review",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250721 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 6화 1.md",
+    "Bookend_SKim_20250722.bdb",
     "Pasted image 20250715002834.png"
   ]
 }
