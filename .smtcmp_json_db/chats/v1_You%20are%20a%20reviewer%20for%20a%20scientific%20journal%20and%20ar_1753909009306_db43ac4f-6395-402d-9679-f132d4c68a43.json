@@ -62,7 +62,7 @@
       "mentionables": [
         {
           "type": "current-file",
-          "file": "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis.md"
+          "file": "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis_note and summary.md"
         }
       ]
     },
@@ -123,9 +123,114 @@
           "search_context_size": "low"
         }
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "As you are a journal peer reviewer, you refine to provide review comments to the editor. Please refine and repharse them",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nAs you are a journal peer reviewer, you refine to provide review comments to the editor. Please refine and repharse them\n\n"
+        }
+      ],
+      "id": "9d0e74a0-4b2b-4ec0-9adf-081ce9dcd71b",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "202507 Chem Catalysis_Review draft.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n## Refined Review Comments to the Editor\n\n#### Overall Evaluation\nThis manuscript presents a novel catalytic approach for selective hydrocracking of polyolefins into naphtha by physically mixing Ru/TiO2 with BEA zeolite. The study is scientifically significant and has potential impact on sustainable plastic waste management. However, several key issues related to experimental validation, mechanistic interpretation, and catalyst characterization need to be addressed before publication.\n\n#### Key Points for Revision\n\n- **Reaction Mechanism and Catalyst Role:**\n  - The dual functionality of Ru in the bifunctional catalyst—transitioning from C-C cleavage to (de)hydrogenation roles—is not sufficiently clarified. The authors should provide a more detailed mechanistic explanation, including the relative contribution of Ru and BEA to polyethylene conversion.\n  - The exact location of Ru nanoparticles (within micropores vs. external surface) remains ambiguous. Additional characterization data are necessary to resolve this and link it to catalytic performance.\n  - The suppression of methane and dominance of hydrocracking require clearer evidence and discussion, especially given potential competing pathways.\n\n- **Experimental Design and Validation:**\n  - While reaction conditions (e.g., 600 rpm stirring) are reported, there is no validation ruling out mass transfer limitations, particularly considering polymer viscosity. Authors should support that observed kinetics are intrinsic.\n  - Comparisons of selectivity, especially naphtha yield and isomer fractions, should be made at comparable conversion levels to avoid misleading conclusions.\n  - The stability and deactivation behavior of the catalyst system, including contribution of Ru/TiO2 to coke formation, needs further clarification.\n\n- **Catalyst Characterization:**\n  - The evidence supporting strong metal-support interactions (SMSI) and its influence on Ru particle size and coverage is somewhat contradictory and requires clearer interpretation and literature support.\n  - Surface area and pore volume reductions upon Ru impregnation need more detailed explanation with respect to micropore volume changes.\n  - The proximity between metal and acid sites and its effect on the reaction pathway should be explicitly discussed.\n\n- **Kinetics and Reaction Conditions:**\n  - The observed threshold effect in PE conversion near 250 °C and related activation energy changes merit deeper kinetic analysis.\n  - The relationship between hydrogen pressure, catalyst hydrogenation balance, and product distribution should be explored further.\n\n#### Recommendations\nWith these clarifications and additional data, the manuscript would significantly strengthen its contribution to the understanding of pathway control in polyolefin upcycling. I encourage the authors to address these points comprehensively in a revised submission to enhance the rigor and impact of their work.\n\nThis review is provided to assist in evaluating the manuscript’s suitability for publication and to guide improvements to the study’s transparency, reproducibility, and mechanistic insights.\n\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10751095/"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.frontiersin.org/guidelines/peer-review-guidelines",
+            "title": "Frontiers | Peer review guidelines"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://plos.org/resource/how-to-read-a-manuscript-as-a-peer-reviewer/",
+            "title": "How to Read a Manuscript as a Peer Reviewer - PLOS"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://academy.pubs.asha.org/prep-the-asha-journals-peer-review-excellence-program/peer-review-procedures/",
+            "title": "Peer Review Procedures - ASHA Journals Academy"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html",
+            "title": "Step by Step Guide to Reviewing a Manuscript | Wiley"
+          }
+        }
+      ],
+      "id": "863f443c-442f-41ea-821c-62a2f9eb78d7",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 3466,
+          "completion_tokens": 581,
+          "total_tokens": 4047,
+          "search_context_size": "low"
+        }
+      }
     }
   ],
   "createdAt": 1753895377924,
-  "updatedAt": 1753895390025,
+  "updatedAt": 1753909009306,
   "schemaVersion": 1
 }
