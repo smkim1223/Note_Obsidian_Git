@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD.md",
+                "file": "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD"
+              "title": "202507 Chem Catalysis"
             }
           }
         ]
@@ -152,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
+                "file": "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols"
+              "title": "Outline of 202507 Chem Catalysis"
             }
           },
           {
@@ -170,9 +170,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "1c9f67a79376e1df",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Smart composer chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -191,10 +201,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7b4e35d8daa30e98",
+  "active": "1c9f67a79376e1df",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD.md",
+    "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250729 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 7.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250728 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 3편.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250728 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 10화 The End.md",
