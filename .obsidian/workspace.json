@@ -8,40 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "97498c06616b9c26",
+            "id": "efcb5bb55291d16f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis_note and summary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202507 Chem Catalysis_note and summary"
-            }
-          },
-          {
-            "id": "a148862ed2519397",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis_Review draft.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "202507 Chem Catalysis_Review draft"
-            }
-          },
-          {
-            "id": "a773ec3b855065de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bifunctional catalyst-sorbent for DEC and DMC.md",
+                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Bifunctional catalyst-sorbent for DEC and DMC.md",
                 "mode": "source",
                 "source": false
               },
@@ -50,21 +22,31 @@
             }
           },
           {
-            "id": "71a3ebd30e2c4d65",
+            "id": "db427590b05c36ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Development of heterogeneous catalysis for DMC and DEC.md",
+                "file": "_PARA note taking/001 Project/Proposal/DMC and DEC/Development of heterogeneous catalysis for DMC and DEC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Development of heterogeneous catalysis for DMC and DEC"
             }
+          },
+          {
+            "id": "20eaf797ceaea6f2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Development of heterogeneous catalysis for DMC and DEC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Development of heterogeneous catalysis for DMC and DEC"
+              "title": "Outline"
             }
           },
           {
@@ -244,10 +225,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "71a3ebd30e2c4d65",
+  "active": "20eaf797ceaea6f2",
   "lastOpenFiles": [
-    "Bifunctional catalyst-sorbent for DEC and DMC.md",
-    "Development of heterogeneous catalysis for DMC and DEC.md",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Bifunctional catalyst-sorbent for DEC and DMC.md",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Development of heterogeneous catalysis for DMC and DEC.md",
     "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis_Review draft.md",
     "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis_note and summary.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD.md",
