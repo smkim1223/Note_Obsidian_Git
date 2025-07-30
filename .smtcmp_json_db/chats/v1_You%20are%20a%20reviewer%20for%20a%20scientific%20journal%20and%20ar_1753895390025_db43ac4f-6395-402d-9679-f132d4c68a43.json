@@ -1,0 +1,131 @@
+{
+  "id": "db43ac4f-6395-402d-9679-f132d4c68a43",
+  "title": "You are a reviewer for a scientific journal and ar",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "You are a reviewer for a scientific journal and are required to do a peer reviewer. So, I need you to prepare a review comment point-by-poin in  paragraphs from the notes. ",
+                  "type": "text",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "type": "linebreak",
+                  "version": 1
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Please make in a markdown format",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nYou are a reviewer for a scientific journal and are required to do a peer reviewer. So, I need you to prepare a review comment point-by-poin in  paragraphs from the notes. \n\nPlease make in a markdown format\n\n"
+        }
+      ],
+      "id": "498665bb-d5d9-4c28-999b-e3a0e4b9b681",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n## Review Comments on Manuscript \"Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis\"\n\n#### Reaction Pathway and Catalyst Roles\n- The manuscript demonstrates that physical mixing of Ru/TiO2 with BEA zeolite dramatically shifts the reaction pathway from hydrogenolysis to selective hydrocracking for polyethylene upcycling, notably suppressing methane formation and enhancing naphtha yields under mild conditions. However, clarification is needed on the evidence supporting the (de)hydrogenation functionality of Ru in the physical mixture, the nature of this function, and the specific reaction steps involved. How do Ru/TiO2 and BEA individually contribute to polyethylene conversion and the resulting product distribution? The descriptor for this behavior is not clear.\n- The role of Ru as a PE deconstruction initiator and as a protective (de)hydrogenation agent is noted, but the mechanisms behind these roles require further elaboration.\n- It is not fully resolved where Ru species reside—in micropores or on external surfaces of BEA—nor is there agreement on interpretation of reduced micropore volume data and particle size distribution. Additional characterization is urged to clarify Ru location and its influence on activity.\n\n#### Experimental Conditions and Validation\n- Reduction of Ru precursors at 300 °C under 10% H2/N2 is assumed to convert RuCl3 or Ru(OH)3 to metallic Ru, but this requires validation.\n- The authors report stirring the reaction mixture at 600 rpm; however, there is no discussion or validation on whether this rpm is sufficient to avoid mass transfer limitations.\n- The naphtha selectivity and other product selectivities should be compared at similar or comparable polyethylene conversion levels for a fair comparison.\n- The manuscript notes hydrogen consumption trends and catalyst deactivation by coke but does not provide clear correlation between BEA deactivation and hydrogen consumption, which largely depends on Ru/TiO2 activity. More insight into catalyst deactivation mechanisms is necessary.\n\n#### Product Distribution and Reaction Pathway Analysis\n- The claim that hydrocracking is the dominant pathway from the onset with low methane yields (<0.5%) seemingly conflicts with the possibility of stochastic or random C-C cleavage. Further explanation is needed.\n- The distinctions between terminal versus central C-C bond cleavage preferences in hydrogenolysis are mentioned, but quantification or qualitative justification of this selectivity based on product distribution is lacking.\n- Product distributions with other zeolites (ZSM-5, FER, SSZ-13) indicate dominance of hydrogenolysis despite the presence of acid sites. The reason behind this — whether it involves acidity, pore size, or diffusional effects — should be discussed thoroughly.\n- The relationship between unsaturated olefin/aromatic species, possible aromatization, and catalyst coking, especially on BEA, requires further examination.\n\n#### Catalyst Characterization and Metal-Acid Interactions\n- Evidence of Strong Metal-Support Interaction (SMSI) effects is presented, including shifts in reduction peaks and CO adsorption bands with Ru particle size. The interpretation appears contradictory regarding particle size dependence on SMSI strength and overlayer coverage; clarification and supporting references are needed.\n- The decrease in surface area and pore volume upon Ru deposition suggests partial Ru incorporation or confinement within micropores, but this needs more definitive evidence and interpretation.\n- The spatial proximity of metal and acid sites and its effect on reaction pathways is a key aspect deserving more discussion.\n\n#### Reaction Parameters and Kinetics\n- Hydrocracking parameters including time, temperature, and hydrogen pressure influence activity. The existence of primary and secondary reaction products should be clarified, potentially by examining low polyethylene conversion data.\n- Activation energy (EA) results are reported, but attribution to specific catalyst components (BEA vs. Ru/TiO2) and relation to coke formation remains unclear.\n- The observed threshold effect on hydrocracking activity above 250 °C and effect of H2 pressure on maintaining hydrogenation balance require more mechanistic insight.\n\n#### Additional Suggestions and Questions\n- The authors should address and validate their experimental assumptions more robustly, including catalyst reduction, mass transfer limitations, and selectivity comparisons.\n- More detailed kinetic and mechanistic studies with varied reaction conditions could strengthen the claims of pathway control.\n- Expanded discussion on diffusion limitations, especially related to polyethylene viscosity, pore diffusion, and reactant/product transport, would enhance understanding.\n- Further information about catalyst stability over time and potential deactivation mechanisms would be valuable for practical applications.\n\nThese points aim to assist in improving the clarity, rigor, and depth of the manuscript to facilitate its contribution to the field of catalytic polymer upcycling.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://google.github.io/styleguide/docguide/style.html",
+            "title": "Markdown style guide | styleguide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown?view=powershell-7.5",
+            "title": "Markdown best practices - PowerShell | Microsoft Learn"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.markdownguide.org/hacks/",
+            "title": "Hacks | Markdown Guide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://docs.gruntwork.io/guides/style/markdown-style-guide/",
+            "title": "Markdown style guide | Gruntwork Docs"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://israelmitolu.hashnode.dev/markdown-for-technical-writers-tips-tricks-and-best-practices"
+          }
+        }
+      ],
+      "id": "867c38f3-bb68-4170-b887-b19655f69b82",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 4646,
+          "completion_tokens": 976,
+          "total_tokens": 5622,
+          "search_context_size": "low"
+        }
+      }
+    }
+  ],
+  "createdAt": 1753895377924,
+  "updatedAt": 1753895390025,
+  "schemaVersion": 1
+}
