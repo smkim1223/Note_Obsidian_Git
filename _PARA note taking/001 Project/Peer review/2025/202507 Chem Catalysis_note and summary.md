@@ -5,6 +5,49 @@ Journal: Chem Catalysis
 Year: "2025"
 Deadline: 2025/08/02
 ---
+
+<smtcmp_block language="markdown">
+## Review Comments on Manuscript "Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis"
+
+#### Reaction Pathway and Catalyst Roles
+- The manuscript demonstrates that physical mixing of Ru/TiO2 with BEA zeolite dramatically shifts the reaction pathway from hydrogenolysis to selective hydrocracking for polyethylene upcycling, notably suppressing methane formation and enhancing naphtha yields under mild conditions. However, clarification is needed on the evidence supporting the (de)hydrogenation functionality of Ru in the physical mixture, the nature of this function, and the specific reaction steps involved. How do Ru/TiO2 and BEA individually contribute to polyethylene conversion and the resulting product distribution? The descriptor for this behavior is not clear.
+- The role of Ru as a PE deconstruction initiator and as a protective (de)hydrogenation agent is noted, but the mechanisms behind these roles require further elaboration.
+- It is not fully resolved where Ru species reside—in micropores or on external surfaces of BEA—nor is there agreement on interpretation of reduced micropore volume data and particle size distribution. Additional characterization is urged to clarify Ru location and its influence on activity.
+
+#### Experimental Conditions and Validation
+- Reduction of Ru precursors at 300 °C under 10% H2/N2 is assumed to convert RuCl3 or Ru(OH)3 to metallic Ru, but this requires validation.
+- The authors report stirring the reaction mixture at 600 rpm; however, there is no discussion or validation on whether this rpm is sufficient to avoid mass transfer limitations.
+- The naphtha selectivity and other product selectivities should be compared at similar or comparable polyethylene conversion levels for a fair comparison.
+- The manuscript notes hydrogen consumption trends and catalyst deactivation by coke but does not provide clear correlation between BEA deactivation and hydrogen consumption, which largely depends on Ru/TiO2 activity. More insight into catalyst deactivation mechanisms is necessary.
+
+#### Product Distribution and Reaction Pathway Analysis
+- The claim that hydrocracking is the dominant pathway from the onset with low methane yields (<0.5%) seemingly conflicts with the possibility of stochastic or random C-C cleavage. Further explanation is needed.
+- The distinctions between terminal versus central C-C bond cleavage preferences in hydrogenolysis are mentioned, but quantification or qualitative justification of this selectivity based on product distribution is lacking.
+- Product distributions with other zeolites (ZSM-5, FER, SSZ-13) indicate dominance of hydrogenolysis despite the presence of acid sites. The reason behind this — whether it involves acidity, pore size, or diffusional effects — should be discussed thoroughly.
+- The relationship between unsaturated olefin/aromatic species, possible aromatization, and catalyst coking, especially on BEA, requires further examination.
+
+#### Catalyst Characterization and Metal-Acid Interactions
+- Evidence of Strong Metal-Support Interaction (SMSI) effects is presented, including shifts in reduction peaks and CO adsorption bands with Ru particle size. The interpretation appears contradictory regarding particle size dependence on SMSI strength and overlayer coverage; clarification and supporting references are needed.
+- The decrease in surface area and pore volume upon Ru deposition suggests partial Ru incorporation or confinement within micropores, but this needs more definitive evidence and interpretation.
+- The spatial proximity of metal and acid sites and its effect on reaction pathways is a key aspect deserving more discussion.
+
+#### Reaction Parameters and Kinetics
+- Hydrocracking parameters including time, temperature, and hydrogen pressure influence activity. The existence of primary and secondary reaction products should be clarified, potentially by examining low polyethylene conversion data.
+- Activation energy (EA) results are reported, but attribution to specific catalyst components (BEA vs. Ru/TiO2) and relation to coke formation remains unclear.
+- The observed threshold effect on hydrocracking activity above 250 °C and effect of H2 pressure on maintaining hydrogenation balance require more mechanistic insight.
+
+#### Additional Suggestions and Questions
+- The authors should address and validate their experimental assumptions more robustly, including catalyst reduction, mass transfer limitations, and selectivity comparisons.
+- More detailed kinetic and mechanistic studies with varied reaction conditions could strengthen the claims of pathway control.
+- Expanded discussion on diffusion limitations, especially related to polyethylene viscosity, pore diffusion, and reactant/product transport, would enhance understanding.
+- Further information about catalyst stability over time and potential deactivation mechanisms would be valuable for practical applications.
+
+These points aim to assist in improving the clarity, rigor, and depth of the manuscript to facilitate its contribution to the field of catalytic polymer upcycling.
+
+
+---
+# Note from SKim
+
 Jung et al. Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis. Chem Catalysis
 
 p.1: Pathway control for polyolefin to naphtha: Physical mixing of Ru catalyst and zeolite enables selective hydrocracking over hydrogenolysis -- Highlight, Jul 23, 2025, 11:13

@@ -46,9 +46,23 @@
               "icon": "lucide-file",
               "title": "20250726 금융 패권자들이 준비중인 미래의 거대한 변화"
             }
+          },
+          {
+            "id": "54040939eda53778",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -228,10 +242,22 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "54040939eda53778",
   "lastOpenFiles": [
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250727 단 한 번의 폭락장으로 평생 부자되는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250726 금융 패권자들이 준비중인 미래의 거대한 변화.md",
+    "conflict-files-obsidian-git.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250730 윌리엄의 큰 부자되는 투자 원칙 리스트.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250730 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 진짜이야기 1화.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250730 금융부자들이 경제 위기를 미리 알고 대응하는 방법 - 금리와 주식의 관계.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250730 금리 인상과 긴축 - 자산증식 매뉴얼.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250729 윌리엄의 스레드 인사이트 릴레이 2 - 트럼프는 왜 CBDC를 거부하고 스테이블코인을 선택했는가.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250729 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 진짜이야기.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250729 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 6.md",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Development of heterogeneous catalysis for DMC and DEC.md",
+    "_PARA note taking/001 Project/Proposal/DMC and DEC/Bifunctional catalyst-sorbent for DEC and DMC.md",
+    "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis_note and summary.md",
+    "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis_Review draft.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250727 단 한 번의 폭락장으로 평생 부자되는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250729 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 7.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250728 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 10화 The End.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250728 미국은 어떻게 스테이블코인과 비트코인으로 달러 패권을 더욱 확대할 수 있을까.md",
@@ -244,21 +270,9 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250725 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 9화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250726 미래의 1등 대장주 찾는 방법 (820) - 데이터 우위 확보.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250707 Hypothesis for a Novel MOF for CO2 Capture and Conversion.md",
-    "conflict-files-obsidian-git.md",
-    "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary/20250727 Hypothesis for a Novel MOF Zr-BPYDC-NH2-Cu with XRD.md",
-    "Temp/Practice.md",
-    "Welcome.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250722 자본주의 경제 금융 주식 -  세상의 모든 정보를 찾는 방법 모음 2편.md",
-    "Untitled.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250724 윌리엄의 거시경제 소설 - 미국 vs 중국의 거시경제 패권 전쟁 8화.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Perplexity Market investigation for DMC and DEC.md",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Perflexity DMC and DEC production.md",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Market analysis for DMC and DEC.md",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC/Economic Viability of Making Dimethyl & Diethyl Carbonate from CO₂ + Alcohols.md",
     "_PARA note taking/001 Project/Proposal/DMC and DEC",
     "_PARA note taking/001 Project/Proposal",
-    "_PARA note taking/001 Project/Peer review/2025/202507 Chem Catalysis.md",
     "_PARA note taking/001 Project/Peer review/2025",
     "_PARA note taking/001 Project/Peer review",
     "Tags/와썹윌리엄/거시경제 소설",
