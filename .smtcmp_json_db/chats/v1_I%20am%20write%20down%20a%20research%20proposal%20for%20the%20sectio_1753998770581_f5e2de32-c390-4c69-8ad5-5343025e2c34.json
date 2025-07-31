@@ -106,9 +106,112 @@
           "search_context_size": "low"
         }
       }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Please rephrase them",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nPlease rephrase them\n\n"
+        }
+      ],
+      "id": "2f439495-e718-415b-a424-bfb6914a6fac",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "202507 Projective objective for DEC.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n## Project Objective\n\n- Develop a scalable heterogeneous catalyst system that efficiently produces diethyl carbonate (DEC).\n- Validate the technological viability of the developed catalytic process.\n\n#### Specific Objectives\n\n- Engineer advanced heterogeneous catalysts to effectively activate CO₂ and selectively produce DEC with high efficiency.\n- Innovate catalytic and engineering solutions to surpass thermodynamic barriers and improve DEC yield under practical conditions.\n- Establish a production process that delivers DEC with high purity suitable for battery electrolyte applications.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.atlassian.com/work-management/project-management/project-objectives"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.indeed.com/career-advice/career-development/project-objectives-examples"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://asana.com/resources/how-project-objectives"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://plan.io/blog/better-project-objectives/",
+            "title": "A 3-Step Framework for Writing Better Project Objectives | Planio"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.runn.io/blog/project-objectives",
+            "title": "A Guide to Project Objectives: Definition, Examples &amp; Tips | Runn"
+          }
+        }
+      ],
+      "id": "482ce90c-ced4-4f51-ba48-d0044266aaf7",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 1988,
+          "completion_tokens": 109,
+          "total_tokens": 2097,
+          "search_context_size": "low"
+        }
+      }
     }
   ],
   "createdAt": 1753998743055,
-  "updatedAt": 1753998747217,
+  "updatedAt": 1753998770581,
   "schemaVersion": 1
 }
