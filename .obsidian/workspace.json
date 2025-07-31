@@ -68,7 +68,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -111,7 +111,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -228,10 +229,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "7104f4abd3d8cf39",
   "lastOpenFiles": [
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250726 금융 패권자들이 준비중인 미래의 거대한 변화.md",
     "conflict-files-obsidian-git.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250726 금융 패권자들이 준비중인 미래의 거대한 변화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250730 윌리엄의 큰 부자되는 투자 원칙 리스트.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250730 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 진짜이야기 1화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250730 금융부자들이 경제 위기를 미리 알고 대응하는 방법 - 금리와 주식의 관계.md",
