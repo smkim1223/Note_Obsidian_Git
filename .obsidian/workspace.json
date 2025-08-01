@@ -232,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 694.5
+    "width": 666.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,7 +247,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "9912c591c47d489d",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "_PARA note taking/001 Project/Proposal/DMC and DEC/20250731 DEC tasks.md",
     "_PARA note taking/001 Project/Proposal/DMC and DEC/202507 Projective objective for DEC.md",
