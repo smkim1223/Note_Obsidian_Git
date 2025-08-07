@@ -78,3 +78,6 @@ While previous studies have examined acetone condensation over acid catalysts, t
 ## Concluding Statement Guidance:
 
 The introduction should conclude by clearly stating how this research fills the identified knowledge gap and contributes to both fundamental understanding and practical applications in liquid-phase catalytic processes.
+
+
+### Perplexity writ
