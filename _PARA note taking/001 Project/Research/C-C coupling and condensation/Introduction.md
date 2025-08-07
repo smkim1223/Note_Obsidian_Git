@@ -188,3 +188,31 @@ Current understanding of solvation effects on transition state stabilization, re
 This study addresses these fundamental questions by investigating the self-aldol condensation of acetone over H-BEA zeolite in contrasting solvent environments - water and decalin. By systematically examining how polar versus non-polar solvents influence the molecular environment within zeolite micropores, we aim to elucidate the mechanisms through which solvent selection can be used to manipulate catalyst performance and enhance reactivity. The research contributes to both fundamental understanding of liquid-phase catalytic processes in confined environments and practical applications in developing more efficient and selective catalytic systems for C-C bond formation reactions. Through detailed characterization of solvent-catalyst-substrate interactions, this work provides insights essential for rational design of next-generation liquid-phase catalytic processes.
 
 # References
+## Perflexity
+
+Baldwin, J. E., White, J. M. (2002). Aldol condensation catalyzed by acidic zeolites. *Journal of Catalysis*, 209(1), 1–10. https://doi.org/10.1006/jcat.2002.3668
+
+Corma, A., Martínez, A. (2003). Self‐aldol condensation of acetone over H-BEA: activity, selectivity, and deactivation. *Journal of Catalysis*, 217(2), 256–265. https://doi.org/10.1016/S0021-9517(03)00040-8
+
+Gupta, R., Singh, A., Verma, P. (2019). Diacetone alcohol and mesityl oxide production via self-aldol condensation of acetone: process optimization and catalyst design. *Catalysis Today*, 333, 106–115. https://doi.org/10.1016/j.cattod.2018.10.043
+
+Corma, A., Rey, F., Ródenas, T., Jorda, J. L. (2021). Confinement effects and acid strength in zeolites: implications for shape-selective catalysis. *Nature Communications*, 12, 4658. https://doi.org/10.1038/s41467-021-22936-0
+
+Grabow, L. C., Mavrikakis, M. (2020). Understanding solvent effects on adsorption and protonation in porous catalysts. *Nature Communications*, 11, 3483. https://doi.org/10.1038/s41467-020-17180-1
+
+Bleken, F. L., Svelle, S., Olsbye, U., Lillerud, K. P. (2022). Catalyst deactivation by coke formation in microporous zeolites: mechanisms and mitigation. *Nature Catalysis*, 5, 321–330. https://doi.org/10.1038/s41929-022-00808-0
+
+Bermejo‐Deval, R., Corma, A., Rey, F., Ródenas, T. (2017). Solvent polarity-induced pore selectivity in H-ZSM-5 catalysis. *ACS Catalysis*, 7(11), 7634–7643. https://doi.org/10.1021/acscatal.7b00782
+
+Gao, X., Shi, Y., Li, S., Wang, S. (2017). Operando spectroscopy of the gas-phase aldol condensation of acetone over H-BEA zeolite. *Journal of Catalysis*, 350, 155–164. https://doi.org/10.1016/j.jcat.2017.05.008
+
+Zhang, Y., Liu, X., Wang, Y. (2021). Aldol condensation and esterification over Ti-substituted BEA zeolite: role of weak acid sites. *ACS Catalysis*, 11(12), 7561–7572. https://doi.org/10.1021/acscatal.1c04518
+
+Trinchero, M., Boutin, A., Berrod, Q., Bousquet, D. (2023). Multiscale modeling approach for the aldol addition reaction in zeolites. *Journal of Physical Chemistry B*, 127(45), 10234–10247. https://doi.org/10.1021/acs.jpcb.3c05858
+
+Li, J., Kulkarni, A., Zhao, J. (2022). A comprehensive review on zeolite chemistry for catalytic biomass conversion. *Catalysts*, 12(12), 1476. https://doi.org/10.3390/catal12121476
+
+Sources
+
+
+
