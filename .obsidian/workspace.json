@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Introduction"
             }
+          },
+          {
+            "id": "9384cefb8f1bef5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CDP feedback.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CDP feedback"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -220,10 +234,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "9384cefb8f1bef5a",
   "lastOpenFiles": [
-    "_PARA note taking/004 Archive/Paper and scholar/Experimental description/004 Measurement or Catalytic test.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
+    "CDP feedback.md",
+    "_PARA note taking/004 Archive/Paper and scholar/Experimental description/004 Measurement or Catalytic test.md",
     "_PARA note taking/004 Archive/Paper and scholar/Experimental description/003 Characterization.md",
     "_PARA note taking/004 Archive/Paper and scholar/Experimental description/002 Synthesis and preparation.md",
     "_PARA note taking/004 Archive/Paper and scholar/Experimental description/001 Chemicals.md",
@@ -248,7 +263,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250802 트럼프 관세 협상의 엄청난 진실 - 에너지와 미래.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250801 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 진짜이야기 3화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250801 국가 주권의 약화와 글로벌 기업들이 갖게될 엄청난 힘.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250801 윌리엄이 가진 2만3천개의 메모장 이야기.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
     "_PARA note taking/001 Project/Proposal/DMC and DEC",
     "_PARA note taking/001 Project/Proposal",
