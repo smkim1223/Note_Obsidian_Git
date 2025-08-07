@@ -205,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,7 +220,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "ac30b9d0fb53f871",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "_PARA note taking/003 Resources/Paper and scholar/Experimental description/004 Measurement or Catalytic test.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
