@@ -29,3 +29,13 @@ Besides, I also had an opportunity to host visiting researchers of Mirek, Willia
 - Janos' reply: You are positioned very well to complete all the tasks/goals set for you. Great job with hosting and helping visitors!
 
 ## Q4 **What could be amazing in the new FY?** (List new opportunities on the horizon or areas of continued focus related to goals and career development. This can include barriers that management can remove, assistance the manager can provide, areas of development that would be of benefit, etc.)
+I have accepted a couple of invited talk in 9th International Conference on  
+Catalysis and Chemical Engineering (CCE-2025) and ACS Spring 2025. So, in the upcoming FY25, I will try to contribute into catalysis division and enhance my visibility.  
+  
+The polymer conversion team is working on several manuscripts in upcoming FY25 including PVC depolymerization, disproportionation and hydrogenolysis. We will find out the funding opportunities with those achievement and look forward to a positive response from DOE for the polymer projects. Besides, we are also looking forward to initiate Total energy project for the polymer conversion.  
+  
+The team is discussing with a sponsor, BASF to extend or replace the scope beyond polymer conversion including biomass conversion.  
+  
+All the upcoming projects are important to continue our research work on polymer conversion and keep our workforce in heterogeneous catalysis research.
+
+- Janos' reply: Invitations to conferences are essential to your career in light of increased external recognition and visibility.  In order to have a chance for renewing the polymer proposal from DOE it is critical that papers are published. Need to really focus on pushing these out.
