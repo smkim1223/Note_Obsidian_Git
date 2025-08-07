@@ -1,17 +1,24 @@
 ## N2 physisorption
 The specific surface area and pore size distribution of prepared HBEA were measured by N2-physisorption at -196 °C using Micrometrics ASAP 2020. Prior to N2 adsorption, each sample was degassed at 300 °C for 5 h under vacuum (10−3 mbar). The BET, BJH and t-plot methods were employed to determine the specific surface area, mesopore volume and micropore volume, respectively.
 
-## Infrared (IR) spectroscopy
+## Infrared (IR) spectroscopy (JACS H-BEA kinetic)
 A self-supporting disc of HBEA with a density of approximately 10 mg/cm2 was loaded in the _in situ_ IR cell. The sample disc was evacuated (10-6 mbar) and heated to 450 °C with a heating rate of 10 °C/min and kept for 1 h. Then the sample was cooled to 150 °C for collection of IR spectra. All IR spectra were recorded on a ThermoScientific Nicolete FTIR spectrometer using a MCT detector with a resolution of 4 cm–1 and accumulated for 512 scans. The acid site concentration was determined by IR spectra of pyridine adsorbed on the HBEA sample. After equilibration with pyridine vapors at 0.1 mbar (0.5–1.0 h) at 150 °C, all physisorbed pyridine was outgassed under vacuum (<10-6 mbar). The integral area of the Brønsted (1565–1515 cm-1) and Lewis peaks (1470–1430 cm-1) with the molar extinction coefficients (0.73 cm/μmol and 0.96 cm/μmol for BAS and LAS, respectively) and disc weight were employed for quantification of acid site concentration.
+
+## Infrared (IR) spectroscopy (JPCC sorption)
+A self-supporting disc of H-BEA with a density of approximately 10 mg/cm2 was loaded in the _in situ_ IR cell. The sample disc was evacuated (10-7 mbar) and treated to 450 °C with a heating rate of 10 °C/min and kept for 1 h. Then the sample was cooled to 150 °C for collection of IR spectra. The measurements were recorded on a Thermo Scientific Nicolet IR spectrometer using a MCT detector with a resolution of 4 cm–1 and accumulated for 512 scans. The acid site concentrations were determined by IR spectra of pyridine adsorbed on the H-BEA samples. After equilibration with pyridine at 0.1 mbar (0.5­–1.0 h) at 150 °C, the cell was outgassed under vacuum (< 1 × 10-4 mbar). The integral area of the bands assigned to Brønsted (1565–1515 cm-1) and Lewis sites (1470–1430 cm-1) were employed for quantification of acid site concentration with the molar extinction coefficients of 0.73 cm/μmol and 0.96 cm/μmol for BAS and Lewis acid sites (LAS), respectively.17-19
+17. Emeis, C. A., Determination of Integrated Molar Extinction Coefficients for Infrared Absorption Bands of Pyridine Adsorbed on Solid Acid Catalysts. J. Catal. 1993, 141 (2), 347-354.
+18. Vimont, A.; Thibault-Starzyk, F.; Daturi, M., Analysing and understanding the active site by IR spectroscopy. Chem. Soc. Rev. 2010, 39 (12), 4928-4950.
+19. Lercher, J. A.; Gründling, C.; Eder-Mirth, G., Infrared studies of the surface acidity of oxides and zeolites using adsorbed probe molecules. Catal. Today 1996, 27 (3), 353-376.
+
 
 
 ## Inductively coupled plasma optical emission spectroscopy (ICP-OES)
 The elemental compositions of the materials were determined using a Perkin Elmer 7300DV ICP-OES instrument. Prior to analysis, the H-BEA samples (50­­–60 mg) were digested with HNO3 (3 ml)/HCl (2 ml)/HF (0.5 ml)/H2O (0.5 ml) in a sealed vessel at 210 °C for 30 min. After cooling to room temperature, 1.5 ml of saturated boric acid solution was added and then heated at 180 °C for 20 min. 
 
-**X–ray diffraction (XRD).** 
+## X–ray diffraction (XRD)
 The diffractograms were collected using a Rigaku Mini Flex II bench top X–ray diffractometer operated at 40 kV and 15 mA using Cu–Kα radiation (0.154056 nm). Measurements were conducted on a rotating powder sample holder in the 2θ range of 5–90 ° with 0.02 °/s of step size.
 
-**N2-physisorption.** 
+## N2-physisorption
 The porosity of H-BEA was assessed by N2-physisorption at -196 °C using a Micrometrics ASAP 2020. Prior to N2 adsorption, each sample was degassed at 300 °C for 5 h under vacuum (10−3 mbar). The Brunauer-Emmett-Teller, Barrett-Joyner-Halenda and t-plot methods were employed to determine the specific surface area, mesopore volume and micropore volume, respectively.
 
 ## 27Al MAS NMR
@@ -20,8 +27,3 @@ Ultra-high-magnetic field 27Al MAS NMR experiments were performed on a Varian-Ag
 ## 29Si MAS NMR
 The Bloch-decay 29Si MAS NMR experiments were performed using a Varian Inova 89 mm wide–bore 300 MHz NMR spectrometer and a 5 mm HXY MAS Chemagnetics style probe. The following parameters were used: a pulse width of 0.4 μs, corresponding to a 9° tip angle and 60 s of recycle delay ensured the acquisition of fully relaxed spin. The number of scans accumulated around 6000. The spinning speed was set to 5 kHz.
 
-## Infrared (IR) spectroscopy 
-A self-supporting disc of H-BEA with a density of approximately 10 mg/cm2 was loaded in the _in situ_ IR cell. The sample disc was evacuated (10-7 mbar) and treated to 450 °C with a heating rate of 10 °C/min and kept for 1 h. Then the sample was cooled to 150 °C for collection of IR spectra. The measurements were recorded on a Thermo Scientific Nicolet IR spectrometer using a MCT detector with a resolution of 4 cm–1 and accumulated for 512 scans. The acid site concentrations were determined by IR spectra of pyridine adsorbed on the H-BEA samples. After equilibration with pyridine at 0.1 mbar (0.5­–1.0 h) at 150 °C, the cell was outgassed under vacuum (< 1 × 10-4 mbar). The integral area of the bands assigned to Brønsted (1565–1515 cm-1) and Lewis sites (1470–1430 cm-1) were employed for quantification of acid site concentration with the molar extinction coefficients of 0.73 cm/μmol and 0.96 cm/μmol for BAS and Lewis acid sites (LAS), respectively.17-19
-17. Emeis, C. A., Determination of Integrated Molar Extinction Coefficients for Infrared Absorption Bands of Pyridine Adsorbed on Solid Acid Catalysts. J. Catal. 1993, 141 (2), 347-354.
-18. Vimont, A.; Thibault-Starzyk, F.; Daturi, M., Analysing and understanding the active site by IR spectroscopy. Chem. Soc. Rev. 2010, 39 (12), 4928-4950.
-19. Lercher, J. A.; Gründling, C.; Eder-Mirth, G., Infrared studies of the surface acidity of oxides and zeolites using adsorbed probe molecules. Catal. Today 1996, 27 (3), 353-376.
