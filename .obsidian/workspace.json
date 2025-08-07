@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -220,10 +220,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "5ba6f1e010af378e",
+  "active": "ac30b9d0fb53f871",
   "lastOpenFiles": [
-    "Measurement or performance test.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Derivation of C-C coupling rate equation.md",
+    "Measurement or performance test.md",
     "_PARA note taking/003 Resources/Paper and scholar/Experimental description/Characterization.md",
     "_PARA note taking/003 Resources/Paper and scholar/Paper and scholar.md",
     "_PARA note taking/003 Resources/Paper and scholar/Experimental description/Synthesis and preparation.md",
