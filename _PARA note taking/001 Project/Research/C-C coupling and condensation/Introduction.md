@@ -1,5 +1,5 @@
 # Prompt
-## Manuscript Introduction Prompt: Acetone Self-Aldol Condensation in Liquid Phase
+## (Claude) Manuscript Introduction Prompt: Acetone Self-Aldol Condensation in Liquid Phase
 
 ## Background Context
 
