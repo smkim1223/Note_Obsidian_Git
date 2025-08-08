@@ -39,15 +39,18 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal/_PARA note taking/001 Project/Personal/Brokerage",
     "//Temp2",
     "//_PARA note taking/_PARA note taking/003 Resources/_PARA note taking/003 Resources/Obsidian",
-    "//_PARA note taking/_PARA note taking/002 Area/_PARA note taking/002 Area/Brokerage",
+    "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal/_PARA note taking/001 Project/Personal/Note taking",
+    "//_PARA note taking/_PARA note taking/002 Area",
+    "//_PARA note taking/_PARA note taking/002 Area/_PARA note taking/002 Area/Brokerage/_PARA note taking/002 Area/Brokerage/William_s note",
     "//_PARA note taking",
-    "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Proposal",
+    "//_PARA note taking/_PARA note taking/001 Project",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Research",
-    "//_PARA note taking/_PARA note taking/002 Area"
+    "//_PARA note taking/_PARA note taking/004 Archive",
+    "//_PARA note taking/_PARA note taking/004 Archive/_PARA note taking/004 Archive/2025 PNNL works",
+    "//_PARA note taking/_PARA note taking/004 Archive/_PARA note taking/004 Archive/2025 PNNL works/_PARA note taking/004 Archive/2025 PNNL works/CDP"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

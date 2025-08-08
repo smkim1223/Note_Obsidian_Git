@@ -1,0 +1,5 @@
+# Low-defect H-BEA
+The low-defect HBEA zeolite with different Si/Al ratios (from 15 to 400) was synthesized in the presence of fluoride. The detail procedure have been reported elsewhere.1, 2 6, 13 In brief, BEA zeolite was prepared by hydrothermal synthesis at 140 °C, with a gel composition of SiO2 : xAl2O3 : (0.54 + 2x) TEAOH : (0.54 + 2x) HF : (7 + 2x) H2O. Subsequently, the collected material was washed and filtrated with deionized water until pH neutral. To decompose the residues, e.g., organic cation (TEA+) and remove fluoride anions, the dried material was calcined at 500 °C for 2 h in synthetic air.
+
+1. Prodinger, S.; Shi, H.; Eckstein, S.; Hu, J. Z.; Olarte, M. V.; Camaioni, D. M.; Derewinski, M. A.; Lercher, J. A., Stability of Zeolites in Aqueous Phase Reactions. Chem. Mater. 2017, 29 (17), 7255-7262.
+2. Prodinger, S.; Shi, H.; Wang, H.; Derewinski, M. A.; Lercher, J. A., Impact of structural defects and hydronium ion concentration on the stability of zeolite BEA in aqueous phase. Appl. Catal., B 2018, 237, 996-1002.
