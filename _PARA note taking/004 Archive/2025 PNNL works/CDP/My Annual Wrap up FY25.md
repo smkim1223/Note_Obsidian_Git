@@ -3,10 +3,11 @@
 ## Q1 what worked well
 - BES renewal and response 
 - BES polymer progress
-- Tranistion with Johannes' resign and taking care of the 
+- Transition with Johannes' resign and taking care of the team
+- Work with Data science (Ocean LDRD and Stuanay)
 
 ## Q2 Didn't work well
-- Johannes
+- Projects of SPP have faced the challenges
 
 ## Q3
 
