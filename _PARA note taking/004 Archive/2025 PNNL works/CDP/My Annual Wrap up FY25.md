@@ -1,9 +1,12 @@
 # FY25
 ## Question
 ## Q1 what worked well
--BES renewal 
+- BES renewal and response 
+- BES polymer progress
+- Tranistion with Johannes' resign and taking care of the 
 
-## Q2 
+## Q2 Didn't work well
+- Johannes
 
 ## Q3
 
