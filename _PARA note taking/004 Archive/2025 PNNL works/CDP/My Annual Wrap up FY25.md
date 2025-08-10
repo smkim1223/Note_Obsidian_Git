@@ -1,6 +1,18 @@
 # FY25
 ## Question
+## Q1 what worked well
+- BES renewal and response 
+- BES polymer progress
+- Transition with Johannes' resign and taking care of the team
+- Work with Data science (Ocean LDRD and Stuanay)
 
+## Q2 Didn't work well
+- Projects of SPP have faced challenges.
+- CD4DC
+
+## Q3 Describe the progress and status goal of FY 25
+
+## Q4 what could be amazing in upcoming FY26
 
 # FY24
 ## Q1 What worked well this year? (This can include accomplishments, milestones, and achievements.)
