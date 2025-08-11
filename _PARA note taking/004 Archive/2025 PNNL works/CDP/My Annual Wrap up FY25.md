@@ -7,8 +7,9 @@
 - Work with Data science (Ocean LDRD and Stuanay)
 
 ## Q2 Didn't work well
-- Projects of SPP have faced challenges.
-- CD4DC
+- Projects of SPP have faced challenges. all SPPs have been declined
+- CD4DC and Yinjie
+- 
 
 ## Q3 Describe the progress and status goal of FY 25
 
