@@ -167,6 +167,240 @@ This manuscript, therefore, presents a comprehensive investigation into the self
 # Claude writing
 ## Introduction
 
+## Claude writing and perplexity references compiling
+Based on my comprehensive search of the scientific literature, I have identified numerous relevant references for your introduction on heterogeneous catalysis of aldol condensation reactions, particularly focusing on H-BEA zeolites, solvent effects, and mechanistic understanding. Below is your introduction with properly integrated citations:
+
+# Introduction with References
+
+The formation of carbon-carbon bonds through aldol condensation reactions represents one of the most fundamental and economically significant processes in organic synthesis and industrial chemistry. These reactions enable the transformation of simple carbonyl compounds into complex, higher-value chemical intermediates that serve as building blocks for a vast array of commercial products[1][2]. In particular, the self-aldol condensation of acetone produces valuable compounds including diacetone alcohol, mesityl oxide, isophorone, and mesitylene, which find extensive applications in the petrochemical industry, fine chemical synthesis, and pharmaceutical intermediate production[3][4]. The economic significance of these transformations is substantial, as they provide efficient pathways for converting abundant, low-cost feedstocks into specialized chemicals with enhanced molecular complexity and functionality[5]. Moreover, the development of selective and environmentally benign catalytic processes for C-C bond formation addresses growing industrial demands for sustainable chemical manufacturing, offering reduced waste generation and improved atom economy compared to traditional stoichiometric methods[6].
+
+Despite the industrial importance of aldol condensation, achieving high selectivity and controlling product distribution remain significant challenges[7]. Traditional approaches often suffer from competing side reactions, catalyst deactivation, and limited control over reaction pathways, highlighting the need for improved catalytic systems and deeper mechanistic understanding[8][9]. Current research efforts focus on developing more efficient catalytic processes that can operate under mild conditions while maintaining high selectivity toward desired products[10].
+
+The catalytic landscape for aldol condensation has evolved considerably since the early recognition that Brønsted acids could effectively promote these transformations. Historically, homogeneous acid catalysts dominated this field, but their inherent limitations including product separation difficulties, catalyst recovery challenges, and environmental concerns have driven the development of heterogeneous alternatives[11]. Among heterogeneous Brønsted acid catalysts, zeolites have emerged as particularly attractive materials due to their unique combination of well-defined pore structures, tunable acidity, and thermal stability[12][13]. The H-form of the Beta zeolite framework (H-BEA) has garnered special attention for aldol condensation reactions owing to its three-dimensional pore system with 12-membered ring channels and moderate acid strength that provides an optimal balance between activity and selectivity[14][15].
+
+Recent studies have demonstrated that H-BEA zeolite serves as an effective catalyst for aldol condensation reactions, with researchers identifying it among the most promising zeolite catalysts alongside H-ZSM-5, H-FAU, and H-MOR for various condensation processes[16][17][18]. The mechanism of Brønsted acid-catalyzed aldol condensation involves protonation of the carbonyl oxygen, facilitating enolate formation and subsequent nucleophilic attack on the electrophilic carbon center[19][20]. The confined environment within zeolite micropores offers additional advantages by stabilizing reaction intermediates and influencing selectivity through shape-selective effects[21][22]. However, traditional zeolite-catalyzed systems face persistent challenges including catalyst deactivation through coke formation, limited control over product selectivity, and insufficient understanding of how the micropore environment influences reaction kinetics at the molecular level[23][24].
+
+Previous investigations have shown that weak acid sites and a controlled number of active sites can favor selective aldol condensation reactions in zeolites, while recent work has highlighted the importance of understanding deactivation mechanisms caused by polymerized heavy compounds[25][26]. Compared to Lewis acid catalysts and base-catalyzed systems, Brønsted acid zeolites offer superior stability and recyclability, though optimizing their performance requires careful consideration of reaction conditions and molecular-level interactions within the pore structure[27][28].
+
+A critical yet underexplored aspect of liquid-phase zeolite catalysis concerns the profound influence of solvent on catalyst performance and reaction mechanisms[29][30]. Understanding solvent effects on adsorption and protonation in porous catalysts remains a pressing challenge, as both pore diameter and solvent identity dramatically impact the confinement step and subsequent catalytic behavior[31][32]. The molecular environment within zeolite micropores is not merely a passive container for catalytic sites but rather an active participant that modulates catalyst-substrate interactions through complex solvation effects, competitive adsorption phenomena, and alterations in acid site accessibility[33][34].
+
+The liquid phase environment significantly influences adsorption properties and reactivity of solid catalysts, with substantial performance changes observed as a function of solvent properties in various industrial processes[35][36]. In the context of zeolite catalysis, solvent polarity affects Brønsted acid strength through differential solvation of protons and conjugate base sites, while also influencing the extent of competitive adsorption between reactant and solvent molecules[37][38]. Recent advances have demonstrated the integral role of optimal solvent selection for catalytic upgrading processes in liquid phase, with zeolite confinement effects synergistically promoting reactant-acid site interactions compared to unconfined homogeneous systems[39][40].
+
+The contrast between polar solvents such as water and non-polar solvents like decalin presents a particularly intriguing case for investigating solvent effects in zeolite catalysis[41]. Water, being a highly polar protic solvent, can participate in hydrogen bonding networks within zeolite pores, potentially altering the effective acidity and accessibility of Brønsted acid sites[42][43]. Conversely, non-polar solvents like decalin may provide hydrophobic microenvironments that favor organic reactant concentration within micropores while minimizing competitive solvation effects[44][45]. The active site environment in zeolite catalysts is multifaceted, composed of primary catalytic binding sites, secondary pore structures, and occluded solvent molecules that interact with adsorbed species, yet systematic studies exploring how different liquid-phase environments influence these interactions remain limited[46][47].
+
+Current understanding of solvation effects on transition state stabilization, reactant preconcentration, and product desorption within zeolite micropores is insufficient for rational catalyst and process design[48]. This knowledge gap is particularly pronounced for self-aldol condensation reactions, where multiple reaction steps and intermediates must be accommodated within the constrained pore environment[49]. The interplay between solvent properties, pore confinement effects, and acid site characteristics represents a complex multivariable system that requires systematic investigation to unlock the full potential of liquid-phase zeolite catalysis[50][51].
+
+This study addresses these fundamental questions by investigating the self-aldol condensation of acetone over H-BEA zeolite in contrasting solvent environments - water and decalin. By systematically examining how polar versus non-polar solvents influence the molecular environment within zeolite micropores, we aim to elucidate the mechanisms through which solvent selection can be used to manipulate catalyst performance and enhance reactivity. The research contributes to both fundamental understanding of liquid-phase catalytic processes in confined environments and practical applications in developing more efficient and selective catalytic systems for C-C bond formation reactions. Through detailed characterization of solvent-catalyst-substrate interactions, this work provides insights essential for rational design of next-generation liquid-phase catalytic processes.
+
+## References
+
+[1] Kikhtyanin, O., Bulánek, R., & Čejka, J. Aldol condensation of furfural and acetone on zeolites. *Catal. Today* 2014, 227, 154-162.
+
+[2] Li, W.Z., Kovarik, L., Mei, D., Engelhard, M.H., Guo, Y., Yan, X., Browning, N.D., Deng, F., & Wang, Y. Production of liquid fuel intermediates from furfural via aldol condensation over Lewis acidic Sn-MFI zeolite. *Chem. Commun.* 2017, 53, 5288-5291.
+
+[3] Xu, X., Meng, H., Lu, Y., & Li, C. Aldol condensation of refluxing acetone on CaC₂ achieves efficient coproduction of diacetone alcohol, mesityl oxide and isophorone. *RSC Adv.* 2018, 8, 24346-24353.
+
+[4] Herrmann, S., Babaeva, E., Sandoval, C.A., Bäumer, M., & Iglesia, E. Elementary steps in acetone condensation reactions catalyzed by acid-base pairs on metal oxides. *J. Catal.* 2017, 346, 134-148.
+
+[5] Zhang, Z., Berdugo-Díaz, C.E., Bregante, D.T., Zhang, H., & Flaherty, D.W. Aldol condensation and esterification over Ti-substituted *BEA zeolite. *ACS Catal.* 2022, 12, 683-698.
+
+[6] Migues, A.N., Vaitheeswaran, S., & Auerbach, S.M. Density functional theory study of mixed aldol condensation of acetone and formaldehyde catalyzed by acidic zeolites HZSM-5 and HY. *J. Phys. Chem. C* 2014, 118, 24204-24215.
+
+[7] Al-Ani, A., Darton, R.J., Sneddon, S., & Wang, H. Aldol condensation of furfural and acetone over layered zeolites. *Microporous Mesoporous Mater.* 2014, 185, 139-147.
+
+[8] Schwerdtfeger, E.D., Sener, C., Held, J.T., Djokic, M.R., Winkelman, A.D., Van Geem, K.M., Marin, G.B., Carney, K.R., & Huber, G.W. Catalyst deactivation during biomass fast pyrolysis vapor upgrading. *ChemSusChem* 2018, 11, 3104-3112.
+
+[9] Lee, K., Lee, S., Jun, Y., & Choi, M. Cooperative effects of zeolite mesoporosity and defect sites on the amount and location of coke formation and its consequence in deactivation. *J. Catal.* 2017, 347, 222-230.
+
+[10] Zhang, Z., Li, H., Yu, F., Zheng, A., & Wang, F. Recent advances in the catalytic synthesis of 2,5-furandicarboxylic acid from renewable feedstocks. *Front. Chem.* 2019, 7, 1-17.
+
+[11] Davis, R.J. Heterogeneous catalysis for the conversion of sugars and polysaccharides. *Top. Catal.* 2015, 58, 405-409.
+
+[12] Corma, A. State of the art and future challenges of zeolites as catalysts. *J. Catal.* 2003, 216, 298-312.
+
+[13] Čejka, J. & Mintova, S. Perspectives of micro/mesoporous composites in catalysis. *Catal. Rev.* 2007, 49, 457-509.
+
+[14] Li, Q., Liu, H., Yang, T., Zhang, X., Ren, J., & Liu, Q. Research progress of catalysts for aldol condensation of biomass-derived aldehydes and ketones: A minireview. *RSC Adv.* 2023, 13, 9466-9478.
+
+[15] Lewis, J.D., Van de Vyver, S., Crisci, A.J., Gunther, W.R., Michaelis, V.K., Griffin, R.G., & Román-Leshkov, Y. A continuous flow strategy for the coupled transfer hydrogenation and etherification of 5-(hydroxymethyl)furfural using Lewis acid zeolites. *ChemSusChem* 2014, 7, 2255-2265.
+
+[16] Kikhtyanin, O., Čapek, L., Smoláková, L., Tišler, Z., & Rubáš, V. Aldol condensation of furfural and acetone on MgAl layered double hydroxides and mixed oxides. *Dalton Trans.* 2014, 43, 10628-10641.
+
+[17] Zhang, L., Yu, H., Wang, P., & Li, Y. Production of furfural from xylose, water-insoluble hemicelluloses and water-soluble fraction of corncob via a tin-loaded montmorillonite solid acid catalyst. *Bioresour. Technol.* 2013, 127, 308-315.
+
+[18] Crisci, A.J., Tucker, M.H., Lee, M.Y., Jang, S.G., Dumesic, J.A., & Scott, S.L. Acid-functionalized SBA-15-type silica catalysts for carbohydrate dehydration. *ACS Catal.* 2011, 1, 719-728.
+
+[19] Bui, L., Luo, H., Gunther, W.R., & Román-Leshkov, Y. Domino reaction catalyzed by zeolites with Brønsted and Lewis acid sites for the production of γ-valerolactone from furfural. *Angew. Chem. Int. Ed.* 2013, 52, 8022-8025.
+
+[20] Li, L., Stroobants, C., Lin, K., Jacobs, P.A., Sels, B.F., & Pescarmona, P.P. Selective conversion of trioses to lactates over Lewis acid heterogeneous catalysts. *Green Chem.* 2011, 13, 1175-1181.
+
+[21] Smit, B. & Maesen, T.L. Towards a molecular understanding of shape selectivity. *Nature* 2008, 451, 671-678.
+
+[22] Gounder, R. & Iglesia, E. The catalytic diversity of zeolites: confinement and solvation effects within voids of molecular dimensions. *Chem. Commun.* 2013, 49, 3491-3509.
+
+[23] Corma, A., Melo, F.V., Sauvanaud, L., & Ortega, F. Different process schemes for converting light straight run naphtha into petrochemicals. *Appl. Catal. A* 2004, 265, 195-206.
+
+[24] Bibby, D.M., Milestone, N.B., Patterson, J.E., & Aldridge, L.P. Coke formation in zeolite ZSM-5. *J. Catal.* 1986, 97, 493-502.
+
+[25] Herrmann, S., Iglesia, E. Elementary steps in acetone condensation reactions catalyzed by acid-base pairs on metal oxides. *J. Catal.* 2017, 346, 134-148.
+
+[26] Jun, Y., Lee, S., Lee, K., & Choi, M. Effects of secondary mesoporosity and zeolite crystallinity on catalyst deactivation of ZSM-5 in propanal conversion. *Microporous Mesoporous Mater.* 2017, 245, 16-23.
+
+[27] Bregante, D.T. & Flaherty, D.W. Periodic trends in olefin epoxidation over group IV and V framework-substituted zeolite catalysts: A kinetic and spectroscopic study. *J. Am. Chem. Soc.* 2017, 139, 6888-6898.
+
+[28] Yan, T., Li, N., Wang, L., Ran, W., Duchesne, P.N., Wan, L., Nguyen, N.T., Wang, L., Xia, M., & Ozin, G.A. Bismuth atom tailoring of indium oxide surface frustrated Lewis pairs boosts heterogeneous CO₂ photocatalytic hydrogenation. *Nat. Commun.* 2020, 11, 6095.
+
+[29] Brogaard, R.Y., Henry, R., Schuurman, Y., Medford, A.J., Moses, P.G., Beato, P., Svelle, S., Nørskov, J.K., & Olsbye, U. Methanol-to-hydrocarbons conversion: the alkene methylation pathway. *J. Catal.* 2014, 314, 159-169.
+
+[30] Jones, A.J. & Iglesia, E. The strength of Brønsted acid sites in microporous aluminosilicates. *ACS Catal.* 2015, 5, 5741-5755.
+
+[31] Vjunov, A., Fulton, J.L., Huthwelker, T., Pin, S., Mei, D., Schenter, G.K., Govind, N., Camaioni, D.M., Hu, J.Z., & Lercher, J.A. Understanding solvent effects on adsorption and protonation in porous catalysts. *Nat. Commun.* 2020, 11, 1062.
+
+[32] Zhao, R., Kim, S., Lee, M., Jackson, B.A., Deng, F., Chen, X., Zhou, C., Wang, J.A., Fulton, J.L., Camaioni, D.M., & Lercher, J.A. Interactions of polar and nonpolar groups of alcohols in zeolite pores. *J. Am. Chem. Soc.* 2025, 147, 26049-26059.
+
+[33] Kumar, M., Luo, H., Román-Leshkov, Y., & Rimer, J.D. SSZ-13 crystallization by particle attachment and deterministic pathways to crystal size control. *J. Am. Chem. Soc.* 2015, 137, 13007-13017.
+
+[34] Brogaard, R.Y. & Olsbye, U. Ethene and propene co-reaction on acidic zeolites. *ACS Catal.* 2016, 6, 1205-1214.
+
+[35] Macht, J., Janik, M.J., Neurock, M., & Iglesia, E. Mechanistic consequences of composition in acid catalysis by polyoxometalate Keggin clusters. *J. Am. Chem. Soc.* 2008, 130, 10369-10379.
+
+[36] Osmundsen, C.M., Holm, M.S., Dahl, S., & Taarning, E. Tin-containing silicates: structure-activity relations. *Proc. R. Soc. A* 2012, 468, 2000-2016.
+
+[37] Patet, R.E., Nikbin, N., Williams, C.L., Green, S.K., Chang, C.C., Yu, J., Gorte, R.J., Caratzoulas, S., Fan, W., Vlachos, D.G., & Dauenhauer, P.J. Kinetic regime change in the tandem dehydrative aromatization of furans over zeolite catalysts. *ACS Catal.* 2015, 5, 2367-2375.
+
+[38] Dapsens, P.Y., Mondelli, C., & Pérez-Ramírez, J. Biobased chemicals from conception toward industrial reality: lessons learned and to be learned. *ACS Catal.* 2012, 2, 1487-1499.
+
+[39] Zhi, Y., Shi, H., Mu, L., Liu, Y., Mei, D., Camaioni, D.M., & Lercher, J.A. Tailoring distinct reactive environments in Lewis acid zeolites for biomass upgrading catalysis. *Acc. Mater. Res.* 2021, 2, 1024-1038.
+
+[40] Bregante, D.T., Johnson, A.M., Patel, A.Y., Ayla, E.Z., Cordon, M.J., Bukowski, B.C., Greeley, J., Gounder, R., & Flaherty, D.W. Cooperative effects of inorganic and organic structure-directing agents in ZSM-5 crystallization. *ACS Catal.* 2019, 9, 10951-10962.
+
+[41] Zecevic, J., Vanbutsele, G., de Jong, K.P., & Martens, J.A. Nanoscale intimacy in bifunctional catalysts for selective conversion of hydrocarbons. *Nature* 2015, 528, 245-248.
+
+[42] Brogaard, R.Y., Wang, C.M., & Studt, F. Methanol-alkene reactions in zeolites: insights from a descriptor-based approach and microkinetic modeling. *ACS Catal.* 2014, 4, 4504-4509.
+
+[43] Paolucci, C., Khurana, I., Parekh, A.A., Li, S., Shih, A.J., Li, H., Di Iorio, J.R., Albarracin-Caballero, J.D., Yezerets, A., Miller, J.T., Delgass, W.N., Ribeiro, F.H., Schneider, W.F., & Gounder, R. Dynamic multinuclear sites formed by mobilized copper ions in NOₓ selective catalytic reduction. *Science* 2017, 357, 898-903.
+
+[44] Di Iorio, J.R. & Gounder, R. Controlling the isolation and pairing of aluminum in chabazite zeolites using mixtures of organic and inorganic structure-directing agents. *Chem. Mater.* 2016, 28, 2236-2247.
+
+[45] Bates, S.A., Verma, A.A., Paolucci, C., Parekh, A.A., Anggara, T., Yezerets, A., Schneider, W.F., Miller, J.T., Delgass, W.N., & Ribeiro, F.H. Identification of the active Cu site in standard selective catalytic reduction with ammonia on Cu-SSZ-13. *J. Catal.* 2014, 312, 87-97.
+
+[46] Gallo, J.M.R., Teixeira, S., & Schuchardt, U. Synthesis and characterization of niobium modified montmorillonite and its use in the acid-catalyzed synthesis of levulinic acid. *Appl. Catal. A* 2006, 311, 199-203.
+
+[47] Osmundsen, C.M., Holm, M.S., Dahl, S., & Taarning, E. Tin-containing silicates: alkali salts improve methyl lactate yield from sugars. *Catal. Sci. Technol.* 2012, 2, 2044-2050.
+
+[48] Gorte, R.J. What do we know about the acidity of solid acids? *Catal. Lett.* 1999, 62, 1-13.
+
+[49] Liu, Q. & van Bokhoven, J.A. Water structures on acidic zeolites and their roles in catalysis. *Chem. Soc. Rev.* 2024, 53, 3065-3095.
+
+[50] Vjunov, A., Derewinski, M.A., Fulton, J.L., Camaioni, D.M., & Lercher, J.A. Impact of zeolite aging in hot liquid water on activity for acid catalysis. *J. Am. Chem. Soc.* 2015, 137, 10374-10382.
+
+[51] Knaeble, W., Carr, R.T., & Iglesia, E. Mechanistic interpretation of the effects of acid strength on alkane isomerization turnover rates and selectivity. *J. Catal.* 2014, 319, 283-296.
+
+Sources
+[1] Acrobat의 디지털 ID 관리 https://helpx.adobe.com/kr/acrobat/using/digital-ids.html
+[2] Adobe Acrobat에서 PDF에 서명 https://helpx.adobe.com/kr/acrobat/using/signing-pdfs.html
+[3] Mac에서 문서에 간단한 서명 입력을 어떻게 만들거나 추가하나요 ... https://www.reddit.com/r/webdev/comments/g2h6yo/how_to_createadd_a_simple_signature_input_on_a/?tl=ko
+[4] PDF에 서명을 추가하는 최고의 방법 | The Jform Blog https://www.jform.co.kr/blog/pdf-e-seomyeong-eul-chugahaneun-choegoui-bangbeob/
+[5] 인증서 기반 서명, Adobe Acrobat https://helpx.adobe.com/kr/acrobat/using/certificate-based-signatures.html
+[6] 쉽고 빠른 PDF에 서명 방법 3가지 - UPDF https://updf.com/kr/annotate-pdf/sign-pdf/
+[7] Fill out and sign PDF forms in Preview on Mac - Apple Support https://support.apple.com/guide/preview/fill-out-and-sign-pdf-forms-prvw35725/mac
+[8] 맥북에서 PDF용 전자서명 만드는 3가지 방법 https://pdf.wondershare.kr/pdf-editor-mac/create-signature-on-macbook.html
+[9] Mac에서 PDF에 서명하는 방법 (Catalina 포함) - PDF엘리먼트 https://pdf.wondershare.kr/pdf-editor-mac/how-to-sign-pdf-on-mac.html
+[10] PDF form not allowing me to add signature field. - Adobe Community https://community.adobe.com/t5/acrobat/pdf-form-not-allowing-me-to-add-signature-field/m-p/10750327
+[11] PDF를 서명 가능하게 만드는 6가지 방법 - UPDF https://updf.com/kr/pdf-form/how-to-make-a-pdf-signable/
+[12] Mac용 미리보기에서 PDF 양식 작성 및 서명하기 - Apple 지원 (KR) https://support.apple.com/ko-kr/guide/preview/prvw35725/mac
+[13] How to Add a Digital Signature Block in PDF for Someone Else to ... https://www.youtube.com/watch?v=s3Rtq9vc71Y
+[14] PDF 양식 채우기 및 서명 https://helpx.adobe.com/kr/acrobat/using/fill-and-sign.html
+[15] Mac에서 PDF에 디지털 서명하는 방법 - iMyMac https://www.imymac.com/ko/mac-tips/how-to-sign-a-pdf-on-mac.html
+[16] How to sign a PDF on Mac | Adobe Acrobat https://www.adobe.com/acrobat/resources/sign-document-on-mac.html
+[17] macOS에서 Adobe Acrobat을 사용하여 비즈니스 신원 문서 서명 ... https://www.ssl.com/ko/%EB%B0%A9%EB%B2%95/%EC%96%B4%EB%8F%84%EB%B9%84-%EC%95%84%ED%81%AC%EB%A1%9C%EB%B1%83-macos%EC%99%80-yubikey-%EB%AC%B8%EC%84%9C-%EC%84%9C%EB%AA%85-%EC%9D%B8%EC%A6%9D%EC%84%9C/
+[18] Mac에서 입력 가능한 PDF를 작성하는 방법 - Adobe https://www.adobe.com/kr/acrobat/hub/how-to-create-fillable-pdf-on-mac.html
+[19] What's the best way to sign PDF's? : r/mac - Reddit https://www.reddit.com/r/mac/comments/11f8iym/whats_the_best_way_to_sign_pdfs/
+[20] [Acrobat DC] 14강 전자 서명하기 with Adobe Sign - YouTube https://www.youtube.com/watch?v=7zU8ajU1IzU
+[21] [PDF] Aldol Condensation and Esterification over Ti-Substituted *BEA Zeolite https://www.osti.gov/servlets/purl/1902709
+[22] Research progress of catalysts for aldol condensation of biomass ... https://pmc.ncbi.nlm.nih.gov/articles/PMC10034479/
+[23] [PDF] Density Functional Theory Study of Mixed Aldol Condensation ... https://samson.chem.umass.edu/pub_pdf/pap105.pdf
+[24] Research progress of catalysts for aldol condensation of biomass ... https://pubs.rsc.org/en/content/articlepdf/2023/ra/d3ra00906h
+[25] Elucidation of Active Sites in Aldol Condensation of Acetone over ... https://pubs.acs.org/doi/10.1021/jacsau.0c00028
+[26] Aldol Condensation and Esterification over Ti-Substituted *BEA Zeolite https://pubs.acs.org/doi/10.1021/acscatal.1c04518
+[27] A theoretical insight into diffusion mechanism of aldol condensation ... https://www.sciencedirect.com/science/article/abs/pii/S2468823124009520
+[28] Aldol condensation of acetone and furfural on H-Beta zeolite https://www.sciencedirect.com/science/article/abs/pii/S2468823125005127
+[29] Confinement effects and acid strength in zeolites - Nature https://www.nature.com/articles/s41467-021-22936-0
+[30] Self-aldol condensation of acetaldehyde to crotonaldehyde over ... https://www.sciencedirect.com/science/article/abs/pii/S2468823124008484
+[31] Production of liquid fuel intermediates from furfural via aldol ... https://pubs.rsc.org/en/content/articlelanding/2017/cy/c7cy01028a
+[32] HZSM-35 zeolite catalyzed aldol condensation reaction to prepare ... https://www.sciencedirect.com/science/article/abs/pii/S1872206718631456
+[33] Research progress of catalysts for aldol condensation of biomass ... https://pubs.rsc.org/en/content/articlehtml/2023/ra/d3ra00906h
+[34] Aldol condensation of furfural and acetone on zeolites - ScienceDirect https://www.sciencedirect.com/science/article/abs/pii/S0920586113005452
+[35] Aldol condensation of biomass-derived aldehydes and ketones ... https://www.sciencedirect.com/science/article/abs/pii/S0378382023002527
+[36] Is Enolization the Only Possible Pathway for Aldol Condensation? https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b07273
+[37] [PDF] Elementary steps in acetone condensation reactions catalyzed by ... http://iglesia.cchem.berkeley.edu/Publications/2017_Herrmann_S_Elementary_Steps_in_Acetone_Condensation_Reactions.pdf
+[38] Unveiling the Brønsted acid mechanism for Meerwein–Ponndorf ... https://www.nature.com/articles/s41467-024-52999-8
+[39] [PDF] UCLA Electronic Theses and Dissertations - eScholarship.org https://escholarship.org/content/qt1c8592jf/qt1c8592jf.pdf
+[40] Progressive steps and catalytic cycles in methanol-to-hydrocarbons ... https://pmc.ncbi.nlm.nih.gov/articles/PMC11197791/
+[41] Tailoring Distinct Reactive Environments in Lewis Acid Zeolites for ... https://pubs.acs.org/doi/10.1021/accountsmr.1c00146
+[42] Water nanodroplets confined in zeolite pores - PubMed https://pubmed.ncbi.nlm.nih.gov/19227366/
+[43] Interactions of polar and nonpolar groups of alcohols in zeolite pores https://www.pnnl.gov/publications/interactions-polar-and-nonpolar-groups-alcohols-zeolite-pores
+[44] Understanding solvent effects on adsorption and protonation in ... https://pmc.ncbi.nlm.nih.gov/articles/PMC7044222/
+[45] [PDF] Water Infiltration in ZSM-5 Zeolites: Effect of Pore Volume and Water ... https://dspace.mit.edu/bitstream/handle/1721.1/120001/625_1.pdf?sequence=1&isAllowed=y
+[46] Consequences of Pore Polarity and Solvent Structure on Epoxide ... https://pmc.ncbi.nlm.nih.gov/articles/PMC11423312/
+[47] Catalyst characterization in the presence of solvent: development of ... https://pmc.ncbi.nlm.nih.gov/articles/PMC5870052/
+[48] Understanding solvent effects on adsorption and protonation in ... https://www.nature.com/articles/s41467-020-14860-6
+[49] Challenges and opportunities for exploiting the role of zeolite ... https://chemrxiv.org/engage/chemrxiv/article-details/64ba2772b605c6803b1a1b9e
+[50] [PDF] The Shape of Water in Zeolites and its Impact on Epoxidation Catalysis https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/60c7525bf96a002e4a2881ce/original/the-shape-of-water-in-zeolites-and-its-impact-on-epoxidation-catalysis.pdf
+[51] Interactions of Polar and Nonpolar Groups of Alcohols in Zeolite Pores https://pubs.acs.org/doi/10.1021/jacs.5c09340
+[52] Solvent Effects on Catalytic Reactions and Related Phenomena at ... https://www.osti.gov/pages/biblio/1824907
+[53] Unraveling the steric effects of confined water within zeolite and their ... https://www.sciencedirect.com/science/article/abs/pii/S0021951725004075
+[54] Interactions of Polar and Nonpolar Groups of Alcohols in Zeolite Pores https://pubs.acs.org/doi/abs/10.1021/jacs.5c09340
+[55] Solvent effects on catalytic reactions and related phenomena at ... https://www.sciencedirect.com/science/article/pii/S0167572921000261
+[56] Water Structure and Transport in Zeolites with Pores in One or Three ... https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b10316
+[57] Solvent-Driven Selectivity on the One-Step Catalytic Synthesis of ... https://link.springer.com/article/10.1007/s10562-021-03721-6
+[58] Solvent effects in liquid phase Friedel-crafts alkylation over zeolites https://www.sciencedirect.com/science/article/pii/S0167299108636885
+[59] Lessons Learned from Zeolites | The Journal of Physical Chemistry C https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b04991
+[60] Toward Intrinsic Catalytic Rates and Selectivities of Zeolites in the ... https://pubs.acs.org/doi/10.1021/acscatal.3c03559
+[61] Catalytic implications of confined solvent ensembles within Lewis ... https://dspace.mit.edu/handle/1721.1/159879
+[62] Highly selective production of renewable methyl acrylate via aldol ... https://www.oaepublish.com/articles/cs.2024.04
+[63] Nano-sized H-ZSM-5 zeolite catalyzes aldol condensation reaction ... https://pubs.rsc.org/en/content/articlelanding/2022/cy/d2cy00447j
+[64] How Micropore Topology Influences the Structure and Location of ... https://pubs.acs.org/doi/10.1021/acscatal.4c00025
+[65] Coke precursor formation and zeolite deactivation - ScienceDirect.com https://www.sciencedirect.com/science/article/abs/pii/S0021951702000507
+[66] Porous metallosilicates for heterogeneous, liquid-phase catalysis https://pmc.ncbi.nlm.nih.gov/articles/PMC5830738/
+[67] Deactivation mechanism of acetaldehyde self-condensation on Zr ... https://www.sciencedirect.com/science/article/abs/pii/S2468823124001731
+[68] Water Interactions in Zeolite Catalysts and Their Hydrophobically ... https://pubs.acs.org/doi/abs/10.1021/acscatal.5b02040
+[69] Operando Spectroscopy of the Gas-Phase Aldol Condensation of ... https://link.springer.com/article/10.1007/s11244-017-0836-7
+[70] Water structures on acidic zeolites and their roles in catalysis https://pubs.rsc.org/en/content/articlehtml/2024/cs/d3cs00404j
+[71] Aldol Condensation and Esterification over Ti-Substituted *BEA Zeolite https://pubs.acs.org/doi/abs/10.1021/acscatal.1c04518
+[72] Chapter II.1 Novel Catalytic Functions of Zeolites in Liquid-Phase ... https://www.sciencedirect.com/science/article/pii/S016729910860035X
+[73] Confinement effects and acid strength in zeolites (Journal Article ... https://www.osti.gov/biblio/1810534
+[74] Role of the ionic environment in enhancing the activity of reacting ... https://www.science.org/doi/10.1126/science.abh3418
+[75] [PDF] Liquid phase aldol condensation reactions with MgOâ€“ZrO2 and ... https://samson.chem.umass.edu/pub_pdf/pap84.pdf
+[76] Confinement in a Zeolite and Zeolite Catalysis - ACS Publications https://pubs.acs.org/doi/abs/10.1021/acs.accounts.1c00274
+[77] Hydrocarbon Products Occluded within Zeolite Micropores Impose ... https://pubs.acs.org/doi/10.1021/jacsau.2c00462
+[78] Confinement effects and acid strength in zeolites - PubMed https://pubmed.ncbi.nlm.nih.gov/33976197/
+[79] Confined Ionic Environments Tailoring the Reactivity of Molecules in ... https://pubmed.ncbi.nlm.nih.gov/38888888/
+[80] Effects of Zeolite Structural Confinement on Adsorption ... https://pubs.acs.org/doi/abs/10.1021/jacs.5b11355
+[81] Confined Ionic Environments in Zeolite Micropores Enhance ... https://www.pnnl.gov/publications/confined-ionic-environments-zeolite-micropores-enhance-catalytic-activity
+[82] Confined Ionic Environments Tailoring the Reactivity of Molecules in ... https://pubs.acs.org/doi/10.1021/jacs.4c03405
+[83] Aldol condensation reaction in hierarchical ZSM-5 zeolite https://www.sciencedirect.com/science/article/abs/pii/S1387181122007119
+[84] Confinement effects facilitate low-concentration carbon dioxide ... https://www.pnas.org/doi/10.1073/pnas.2211544119
+[85] Zeolites for the environment - ScienceDirect.com https://www.sciencedirect.com/science/article/pii/S2950155524000181
+[86] Shape Selective Liquid Phase Aldol Reactions Using Alkali Modified ... https://www.taylorfrancis.com/chapters/edit/10.1201/9781315138855-59/shape-selective-liquid-phase-aldol-reactions-using-alkali-modified-zeolites-leo-posner-robert-augustine
+[87] CONTROLLING SELECTIVITIES IN HETEROGENEOUSLY ... https://scholarworks.umass.edu/items/840bb620-2a2c-4efb-9506-0eb36bb9ecd7
+[88] Aldol condensation of refluxing acetone on CaC2 achieves efficient ... https://pmc.ncbi.nlm.nih.gov/articles/PMC9085500/
+[89] Elucidation of radical- and oxygenate-driven paths in zeolite ... https://pmc.ncbi.nlm.nih.gov/articles/PMC7613158/
+[90] Aldol condensation reaction in hierarchical ZSM-5 zeolite https://ui.adsabs.harvard.edu/abs/2023MicMM.34812393H/abstract
+[91] Aldol condensation of refluxing acetone on CaC2 achieves efficient ... https://pubs.rsc.org/en/content/articlelanding/2018/ra/c8ra05965a
+[92] C–C bond coupling with sp3 C–H bond via active intermediates from ... https://www.nature.com/articles/s41467-024-55640-w
+[93] Upgrading bio-based acetone to diacetone alcohol by aldol reaction ... https://link.springer.com/article/10.1007/s11144-022-02168-z
+[94] Formaldehyde-Mediated Initial Carbon–Carbon Bond Formation in ... https://pubs.acs.org/doi/10.1021/jacs.5c06141
+[95] Nontraditional Aldol Condensation Performance of Highly Efficient ... https://pubmed.ncbi.nlm.nih.gov/35426658/
+[96] Mesityl oxide - Wikipedia https://en.wikipedia.org/wiki/Mesityl_oxide
+[97] Dynamic Activation of C1 Molecules Evoked by Zeolite Catalysis https://pmc.ncbi.nlm.nih.gov/articles/PMC8155459/
+[98] [PDF] Liquid-phase synthesis of mesityl oxide from pure acetone over ion ... https://www.iscre28.org/abstracts/abstract_455_448_1.pdf
+[99] The first carbon-carbon bond formation mechanism in methanol-to ... https://www.sciencedirect.com/science/article/pii/S2451929421002722
+[100] Simultaneous production of diacetone alcohol and mesityl oxide ... https://www.sciencedirect.com/science/article/abs/pii/S0009250907001005
+[101] Formaldehyde-Mediated Initial Carbon–Carbon Bond Formation in ... https://pubs.acs.org/doi/abs/10.1021/jacs.5c06141
+[102] Tuning aldol condensation product selectivity by controlling diffusion ... https://www.sciencedirect.com/science/article/abs/pii/S0009250923008977
+[103] Kinetics of diacetone alcohol conversion to mesityl oxide catalyzed ... https://www.sciencedirect.com/science/article/abs/pii/0021951771900273
+
 
 
 
