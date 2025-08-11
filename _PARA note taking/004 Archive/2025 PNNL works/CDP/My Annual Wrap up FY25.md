@@ -3,7 +3,7 @@
 ## Q1 what worked well
 - BES renewal and response 
 - BES polymer progress and NCE to end of CY
-- Transition with Johannes' resign and taking care of the team
+- Transition with Johannes' resignation and taking care of the team
 - Work with Data science (Ocean LDRD and Stuanay)
 
 ## Q2 Didn't work well
