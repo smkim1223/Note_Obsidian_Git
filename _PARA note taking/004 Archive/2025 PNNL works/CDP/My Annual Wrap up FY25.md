@@ -16,7 +16,9 @@
 - XX oral presentation in NAM29
 
 - Initiating a new SPP with UOP and BASF, declined
-- Hiring for postdoc
+- Hiring for postdoctoral researcher BES (Yes), Chevron (hold due to lack of fund)
+- Ideation and preparation for EC proposal (still under progress)
+- Enhancing my visibitily in Catalysis division and community (Yes with chair and 
   
 
 ## Q4 what could be amazing in upcoming FY26
