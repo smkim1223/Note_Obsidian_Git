@@ -9,9 +9,10 @@
 ## Q2 Didn't work well
 - Projects of SPP have faced challenges. all SPPs have been declined
 - CD4DC and Yinjie
-- 
 
 ## Q3 Describe the progress and status goal of FY 25
+- Invited talk in ACS Spring and CCE
+- XX papers with decent journal including Science, and co
 
 ## Q4 what could be amazing in upcoming FY26
 
