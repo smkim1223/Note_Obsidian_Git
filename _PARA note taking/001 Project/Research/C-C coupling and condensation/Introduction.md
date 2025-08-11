@@ -226,43 +226,24 @@ Reference List (ACS Catalysis Style)
 30. Jones, A. J.; Iglesia, E. Strength of Brønsted acid sites in aluminosilicates. *ACS Catal.* **2015**, *5*, 5741–5755. https://doi.org/10.1021/acscatal.5b01229  
 31. Vjunov, A.; Fulton, J. L.; Huthwelker, T.; Pin, S.; Mei, D.; Schenter, G. K.; Govind, N.; Camaioni, D. M.; Hu, J. Z.; Lercher, J. A. Understanding solvent effects on adsorption and protonation in porous catalysts. *Nat. Commun.* **2020**, *11*, 1062. https://doi.org/10.1038/s41467-020-14860-6  
 32. Zhao, R.; Kim, S.; Lee, M.; Jackson, B. A.; Deng, F.; Chen, X.; Zhou, C.; Wang, J. A.; Fulton, J. L.; Camaioni, D. M.; Lercher, J. A. Interactions of polar and nonpolar groups of alcohols in zeolite pores. *J. Am. Chem. Soc.* **2025**, *147*, 26049–26059. https://doi.org/10.1021/jacs.5c09340  
-
 33. Kumar, M.; Luo, H.; Román-Leshkov, Y.; Rimer, J. D. SSZ-13 crystallization by particle attachment and deterministic pathways to crystal size control. *J. Am. Chem. Soc.* **2015**, *137*, 13007–13017. https://doi.org/10.1021/jacs.5b07103  
-
 34. Brogaard, R. Y.; Olsbye, U. Ethene and propene co-reaction on acidic zeolites. *ACS Catal.* **2016**, *6*, 1205–1214. https://doi.org/10.1021/acscatal.5b02447  
-
 35. Macht, J.; Janik, M. J.; Neurock, M.; Iglesia, E. Mechanistic consequences of composition in acid catalysis by polyoxometalate Keggin clusters. *J. Am. Chem. Soc.* **2008**, *130*, 10369–10379. https://doi.org/10.1021/ja801844e  
-
 36. Osmundsen, C. M.; Holm, M. S.; Dahl, S.; Taarning, E. Tin-containing silicates: structure–activity relations. *Proc. R. Soc. A* **2012**, *468*, 2000–2016. https://doi.org/10.1098/rspa.2012.0005  
-
 37. Patet, R. E.; Nikbin, N.; Williams, C. L.; Green, S. K.; Chang, C. C.; Yu, J.; Gorte, R. J.; Caratzoulas, S.; Fan, W.; Vlachos, D. G.; Dauenhauer, P. J. Kinetic regime change in the tandem dehydrative aromatization of furans over zeolite catalysts. *ACS Catal.* **2015**, *5*, 2367–2375. https://doi.org/10.1021/cs501673m  
-
 38. Dapsens, P. Y.; Mondelli, C.; Pérez-Ramírez, J. Biobased chemicals from conception toward industrial reality: lessons learned and to be learned. *ACS Catal.* **2012**, *2*, 1487–1499. https://doi.org/10.1021/cs300389h  
-
 39. Zhi, Y.; Shi, H.; Mu, L.; Liu, Y.; Mei, D.; Camaioni, D. M.; Lercher, J. A. Tailoring distinct reactive environments in Lewis acid zeolites for biomass upgrading catalysis. *Acc. Mater. Res.* **2021**, *2*, 1024–1038. https://doi.org/10.1021/accountsmr.1c00146  
-
 40. Bregante, D. T.; Johnson, A. M.; Patel, A. Y.; Ayla, E. Z.; Cordon, M. J.; Bukowski, B. C.; Greeley, J.; Gounder, R.; Flaherty, D. W. Cooperative effects of inorganic and organic structure-directing agents in ZSM-5 crystallization. *ACS Catal.* **2019**, *9*, 10951–10962. https://doi.org/10.1021/acscatal.9b03184  
-
 41. Zecevic, J.; Vanbutsele, G.; de Jong, K. P.; Martens, J. A. Nanoscale intimacy in bifunctional catalysts for selective conversion of hydrocarbons. *Nature* **2015**, *528*, 245–248. https://doi.org/10.1038/nature16091  
-
 42. Brogaard, R. Y.; Wang, C. M.; Studt, F. Methanol–alkene reactions in zeolites: insights from a descriptor-based approach and microkinetic modeling. *ACS Catal.* **2014**, *4*, 4504–4509. https://doi.org/10.1021/cs5011053  
-
-43. Paolucci, C.; Khurana, I.; Parekh, A. A.; Li, S.; Shih, A. J.; Li, H.; Di Iorio, J. R.; Albarracin-Caballero, J. D.; Yezerets, A.; Miller, J. T.; Delgass, W. N.; Ribeiro, F. H.; Schneider, W. F.; Gounder, R. Dynamic multinuclear sites formed by mobilized copper ions in NOₓ selective catalytic reduction. *Science* **2017**, *357*, 898–903. https://doi.org/10.1126/science.aan5630  
-
+43. Paolucci, C.; Khurana, I.; Parekh, A. A.; Li, S.; Shih, A. J.; Li, H.; Di Iorio, J. R.; Albarracin-Caballero, J. D.; Yezerets, A.; Miller, J. T.; Delgass, W. N.; Ribeiro, F. H.; Schneider, W. F.; Gounder, R. Dynamic multinuclear sites formed by mobilized copper ions in NOₓ selective catalytic reduction. *Science* **2017**, *357*, 898–903. https://doi.org/10.1126/science.aan5630 
 44. Di Iorio, J. R.; Gounder, R. Controlling the isolation and pairing of aluminum in chabazite zeolites using mixtures of organic and inorganic structure-directing agents. *Chem. Mater.* **2016**, *28*, 2236–2247. https://doi.org/10.1021/acs.chemmater.6b00283  
-
 45. Bates, S. A.; Verma, A. A.; Paolucci, C.; Parekh, A. A.; Anggara, T.; Yezerets, A.; Schneider, W. F.; Miller, J. T.; Delgass, W. N.; Ribeiro, F. H. Identification of the active Cu site in standard selective catalytic reduction with ammonia on Cu-SSZ-13. *J. Catal.* **2014**, *312*, 87–97. https://doi.org/10.1016/j.jcat.2014.02.003  
-
 46. Gallo, J. M. R.; Teixeira, S.; Schuchardt, U. Synthesis and characterization of niobium-modified montmorillonite and its use in the acid-catalyzed synthesis of levulinic acid. *Appl. Catal., A* **2006**, *311*, 199–203. https://doi.org/10.1016/j.apcata.2006.06.017  
-
 47. Osmundsen, C. M.; Holm, M. S.; Dahl, S.; Taarning, E. Tin-containing silicates: alkali salts improve methyl lactate yield from sugars. *Catal. Sci. Technol.* **2012**, *2*, 2044–2050. https://doi.org/10.1039/C2CY20140G  
-
 48. Gorte, R. J. What do we know about the acidity of solid acids? *Catal. Lett.* **1999**, *62*, 1–13. https://doi.org/10.1023/A:1019068117369  
-
 49. Liu, Q.; van Bokhoven, J. A. Water structures on acidic zeolites and their roles in catalysis. *Chem. Soc. Rev.* **2024**, *53*, 3065–3095. https://doi.org/10.1039/D3CS00404J  
-
 50. Vjunov, A.; Derewinski, M. A.; Fulton, J. L.; Camaioni, D. M.; Lercher, J. A. Impact of zeolite aging in hot liquid water on activity for acid catalysis. *J. Am. Chem. Soc.* **2015**, *137*, 10374–10382. https://doi.org/10.1021/jacs.5b06307  
-
 51. Knaeble, W.; Carr, R. T.; Iglesia, E. Mechanistic interpretation of the effects of acid strength on alkane isomerization turnover rates and selectivity. *J. Catal.* **2014**, *319*, 283–296. https://doi.org/10.1016/j.jcat.2014.07.017
 
 
