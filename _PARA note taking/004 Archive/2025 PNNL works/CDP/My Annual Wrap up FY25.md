@@ -28,7 +28,9 @@
 	- To enhance my visibility and contribution to Catalysis division and community in the US, I have been required to have more invited talks and have been involved in the committee or organizing symposium and conference. In this regard, I have accepted a couple of invited talk in 9th International Conference on Catalysis and Chemical Engineering (CCE-2025) and ACS Spring 2025 in the upcoming FY25. Besides, I will try to participate catalysis division activity in ACS and AICHE.
 
 ## Q4 what could be amazing in upcoming FY26
-It is still challenging, but will be amaz
+- It is still challenging, but will be amazing if you have additional funding in AI/ML
+- Will try to organize ACS symposium
+
 
 # FY24
 ## Q1 What worked well this year? (This can include accomplishments, milestones, and achievements.)
