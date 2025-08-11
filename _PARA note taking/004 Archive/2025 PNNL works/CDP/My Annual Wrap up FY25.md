@@ -12,7 +12,8 @@
 
 ## Q3 Describe the progress and status goal of FY 25
 - Invited talk in ACS Spring and CCE
-- XX papers with decent journal including Science, and co
+- XX papers with decent journal including Science, and corresponding author
+- XX oral presentation in NAM29
 
 ## Q4 what could be amazing in upcoming FY26
 
