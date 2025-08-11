@@ -15,6 +15,10 @@
 - XX papers with decent journal including Science, and corresponding author
 - XX oral presentation in NAM29
 
+- Initiating a new SPP with UOP and BASF, declined
+- Hiring for postdoc
+  
+
 ## Q4 what could be amazing in upcoming FY26
 
 # FY24
