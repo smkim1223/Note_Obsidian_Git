@@ -69,30 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250808 사회가 만든 부자될 기회와 행복까지 앗아간 현대판 노예제도.md",
+                "file": "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250808 사회가 만든 부자될 기회와 행복까지 앗아간 현대판 노예제도"
-            }
-          },
-          {
-            "id": "c0883c2f7ce33a05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Introduction"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -263,7 +249,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c0883c2f7ce33a05",
+  "active": "9584ea5aa0b3b192",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/20250808 사회가 만든 부자될 기회와 행복까지 앗아간 현대판 노예제도.md",
     "conflict-files-obsidian-git.md",
