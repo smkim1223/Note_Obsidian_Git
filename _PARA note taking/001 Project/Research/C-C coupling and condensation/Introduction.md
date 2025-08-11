@@ -208,41 +208,23 @@ Reference List (ACS Catalysis Style)
 12. Corma, A. State of the art and future challenges of zeolites as catalysts. *J. Catal.* **2003**, *216*, 298–312. https://doi.org/10.1016/S0021-9517(02)00132-X  
 13. Čejka, J.; Mintova, S. Perspectives of micro/mesoporous composites in catalysis. *Catal. Rev.* **2007**, *49*, 457–509. https://doi.org/10.1080/01614940701247147  
 14. Li, Q.; Liu, H.; Yang, T.; Zhang, X.; Ren, J.; Liu, Q. Research progress of catalysts for aldol condensation of biomass-derived aldehydes and ketones. *RSC Adv.* **2023**, *13*, 9466–9478. https://doi.org/10.1039/D3RA00906H  
-
 15. Lewis, J. D.; Van de Vyver, S.; Crisci, A. J.; Gunther, W. R.; Michaelis, V. K.; Griffin, R. G.; Román-Leshkov, Y. Continuous-flow transfer hydrogenation and etherification of 5-hydroxymethylfurfural using Lewis acid zeolites. *ChemSusChem* **2014**, *7*, 2255–2265. https://doi.org/10.1002/cssc.201402220  
-
 16. Kikhtyanin, O.; Čapek, L.; Smoláková, L.; Tišler, Z.; Rubáš, V. Aldol condensation of furfural and acetone on Mg–Al layered double hydroxides and mixed oxides. *Dalton Trans.* **2014**, *43*, 10628–10641. https://doi.org/10.1039/C4DT00184B  
-
 17. Zhang, L.; Yu, H.; Wang, P.; Li, Y. Tin-loaded montmorillonite solid acid catalyst for furfural production. *Bioresour. Technol.* **2013**, *127*, 308–315. https://doi.org/10.1016/j.biortech.2012.09.130  
-
 18. Crisci, A. J.; Tucker, M. H.; Lee, M. Y.; Jang, S. G.; Dumesic, J. A.; Scott, S. L. Acid-functionalized SBA-15 silica catalysts for carbohydrate dehydration. *ACS Catal.* **2011**, *1*, 719–728. https://doi.org/10.1021/cs200170z  
-
 19. Bui, L.; Luo, H.; Gunther, W. R.; Román-Leshkov, Y. Domino reaction catalyzed by zeolites with Brønsted and Lewis acid sites for γ-valerolactone production. *Angew. Chem., Int. Ed.* **2013**, *52*, 8022–8025. https://doi.org/10.1002/anie.201302629  
-
 20. Li, L.; Stroobants, C.; Lin, K.; Jacobs, P. A.; Sels, B. F.; Pescarmona, P. P. Selective conversion of trioses to lactates over Lewis acid heterogeneous catalysts. *Green Chem.* **2011**, *13*, 1175–1181. https://doi.org/10.1039/C0GC00476B  
-
 21. Smit, B.; Maesen, T. L. M. Towards a molecular understanding of shape selectivity. *Nature* **2008**, *451*, 671–678. https://doi.org/10.1038/nature06552  
-
-22. Gounder, R.; Iglesia, E. Confinement and solvation effects within voids of molecular dimensions. *Chem. Commun.* **2013**, *49*, 3491–3509. https://doi.org/10.1039/C3CC40876A  
-
+22. Gounder, R.; Iglesia, E. Confinement and solvation effects within voids of molecular dimensions. *Chem. Commun.* **2013**, *49*, 3491–3509. https://doi.org/10.1039/C3CC40876A 
 23. Corma, A.; Melo, F. V.; Sauvanaud, L.; Ortega, F. Converting light straight-run naphtha into petrochemicals. *Appl. Catal., A* **2004**, *265*, 195–206. https://doi.org/10.1016/j.apcata.2003.12.034  
-
 24. Bibby, D. M.; Milestone, N. B.; Patterson, J. E.; Aldridge, L. P. Coke formation in zeolite ZSM-5. *J. Catal.* **1986**, *97*, 493–502. https://doi.org/10.1016/0021-9517(86)90020-5  
-
 25. Herrmann, S.; Iglesia, E. Elementary steps in acetone condensation reactions on aluminosilicates. *J. Catal.* **2017**, *346*, 134–153. https://doi.org/10.1016/j.jcat.2016.11.012  
-
 26. Jun, Y.; Lee, S.; Lee, K.; Choi, M. Effects of mesoporosity and crystallinity on deactivation of ZSM-5 in propanal conversion. *Microporous Mesoporous Mater.* **2017**, *245*, 16–23. https://doi.org/10.1016/j.micromeso.2017.02.071  
-
 27. Bregante, D. T.; Flaherty, D. W. Periodic trends in olefin epoxidation over framework-substituted zeolites. *J. Am. Chem. Soc.* **2017**, *139*, 6888–6898. https://doi.org/10.1021/jacs.7b02806  
-
 28. Yan, T.; Li, N.; Wang, L.; Ran, W.; Duchesne, P. N.; Wan, L.; Nguyen, N. T.; Wang, L.; Xia, M.; Ozin, G. A. Bismuth atom tailoring of indium oxide surface frustrated Lewis pairs boosts heterogeneous CO₂ photocatalytic hydrogenation. *Nat. Commun.* **2020**, *11*, 6095. https://doi.org/10.1038/s41467-020-19820-8  
-
 29. Brogaard, R. Y.; Henry, R.; Schuurman, Y.; Medford, A. J.; Moses, P. G.; Beato, P.; Svelle, S.; Nørskov, J. K.; Olsbye, U. Alkene methylation pathway in methanol-to-hydrocarbons conversion. *J. Catal.* **2014**, *314*, 159–169. https://doi.org/10.1016/j.jcat.2014.03.014  
-
 30. Jones, A. J.; Iglesia, E. Strength of Brønsted acid sites in aluminosilicates. *ACS Catal.* **2015**, *5*, 5741–5755. https://doi.org/10.1021/acscatal.5b01229  
-
 31. Vjunov, A.; Fulton, J. L.; Huthwelker, T.; Pin, S.; Mei, D.; Schenter, G. K.; Govind, N.; Camaioni, D. M.; Hu, J. Z.; Lercher, J. A. Understanding solvent effects on adsorption and protonation in porous catalysts. *Nat. Commun.* **2020**, *11*, 1062. https://doi.org/10.1038/s41467-020-14860-6  
-
 32. Zhao, R.; Kim, S.; Lee, M.; Jackson, B. A.; Deng, F.; Chen, X.; Zhou, C.; Wang, J. A.; Fulton, J. L.; Camaioni, D. M.; Lercher, J. A. Interactions of polar and nonpolar groups of alcohols in zeolite pores. *J. Am. Chem. Soc.* **2025**, *147*, 26049–26059. https://doi.org/10.1021/jacs.5c09340  
 
 33. Kumar, M.; Luo, H.; Román-Leshkov, Y.; Rimer, J. D. SSZ-13 crystallization by particle attachment and deterministic pathways to crystal size control. *J. Am. Chem. Soc.* **2015**, *137*, 13007–13017. https://doi.org/10.1021/jacs.5b07103  
