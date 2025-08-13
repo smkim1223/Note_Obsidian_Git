@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "da7fa33592bf2cce",
+        "id": "92f98500d4bb1575",
         "type": "tabs",
         "children": [
           {
-            "id": "12eb3236e19173ac",
+            "id": "5a36e2fc6c38e70e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "6187637fd4dc0b6d",
+            "id": "8c813cd3965ed303",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",

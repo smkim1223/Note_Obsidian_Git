@@ -2,17 +2,35 @@
 ## Question
 ## Q1 what worked well
 - BES renewal and response 
-- BES polymer progress
-- Transition with Johannes' resign and taking care of the team
+- BES polymer progress and NCE to end of CY
+- Transition with Johannes' resignation and taking care of the team
 - Work with Data science (Ocean LDRD and Stuanay)
 
 ## Q2 Didn't work well
-- Projects of SPP have faced challenges.
-- CD4DC
+- Projects of SPP have faced challenges. all SPPs have been declined
+- CD4DC and Yinjie
 
 ## Q3 Describe the progress and status goal of FY 25
+- Invited talk in ACS Spring and CCE
+- XX papers with decent journal including Science, and corresponding author
+- XX oral presentation in NAM29
+
+- Initiating a new SPP with UOP and BASF, declined
+	-  So far, I am working on initiating a new industrial projects with  
+	- UOP for sulfidation of Mo- and W-based catalyst  
+	- BASF for acid-base catalysis for biomass-derived feedstock  
+	- The team is working on EPR and contract in progress.
+- Hiring for postdoctoral researcher BES (Yes), Chevron (hold due to lack of fund)
+	- We are looking for good postdoctoral candidates working for BES and Chevron project.
+- Ideation and preparation for EC proposal (still under progress)
+	- I have been motivated and inspired for submission of the early career proposal with my eligibility (PhD graduation in 2019).
+- Enhancing my visibitily in Catalysis division and community (Yes with chair and invited talks)
+	- To enhance my visibility and contribution to Catalysis division and community in the US, I have been required to have more invited talks and have been involved in the committee or organizing symposium and conference. In this regard, I have accepted a couple of invited talk in 9th International Conference on Catalysis and Chemical Engineering (CCE-2025) and ACS Spring 2025 in the upcoming FY25. Besides, I will try to participate catalysis division activity in ACS and AICHE.
 
 ## Q4 what could be amazing in upcoming FY26
+- It is still challenging, but will be amazing if you have additional funding in AI/ML
+- Will try to organize ACS symposium
+
 
 # FY24
 ## Q1 What worked well this year? (This can include accomplishments, milestones, and achievements.)
