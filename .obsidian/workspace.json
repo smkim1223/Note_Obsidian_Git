@@ -76,23 +76,9 @@
               "icon": "lucide-file",
               "title": "Introduction"
             }
-          },
-          {
-            "id": "5184871fee20ee7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,8 +141,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -263,10 +248,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "5184871fee20ee7b",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
-    "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
     "conflict-files-obsidian-git.md",
+    "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/My Annual Wrap up FY25.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250808 사회가 만든 부자될 기회와 행복까지 앗아간 현대판 노예제도.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250808 스태그플레이션! 경제가 멈추고 물가만 오를 때 금융부자들이 쓰는 비밀 전략.md",
