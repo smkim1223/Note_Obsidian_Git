@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/Untitled.md",
+                "file": "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for word.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "001 JACS_C1-C4 highlight for word"
+            }
+          },
+          {
+            "id": "8761cfdfe510aca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for PPT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "001 JACS_C1-C4 highlight for PPT"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -248,10 +262,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "9584ea5aa0b3b192",
+  "active": "8761cfdfe510aca5",
   "lastOpenFiles": [
+    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for word.md",
+    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for PPT.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
-    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/Untitled.md",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
     "_PARA note taking/001 Project/Research/001 AI prompt/Reference compile.md",
     "_PARA note taking/001 Project/Research/001 AI prompt/Draft and Paper writing.md",
@@ -282,7 +297,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250807 부자가 되는 1원칙 사고 - 돈의 역지사지.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250806 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 진짜이야기 6화.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250806 국가보다 강해진 기업들이 개인 자산을 지배한다.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250806 경제 위기와 폭락장을 미리 예측하는 신호와 방법! - 3탄!.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
     "_PARA note taking/001 Project/Proposal/DMC and DEC",
     "_PARA note taking/001 Project/Proposal",
