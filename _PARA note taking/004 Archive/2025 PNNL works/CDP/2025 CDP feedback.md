@@ -22,7 +22,7 @@ She has demonstrated strong leadership in the project and showcased her expertis
 
 # Huamin 2025
 ## Feedback will be sent directly to the line manager(s). To better inform the line manager, would you like to define your association to the person (e.g., peer, project manager, external feedback provider information, etc.)?
-As his colleague and collaborator, I have been working with him for the Basic Energy Science program for catalysis. Besides, we work closely together on fundamental research in heterogeneous catalysis, which includes multiple projects such as (i) BES catalysis, (ii) BES polymer, (iii) CD4DC for Metal-organic framework (MOF)-based hydrogenation. 
+I am a research colleague and collaborator and has worked closely with him for the past year on the Basic Energy Sciences (BES) program for catalysis. Besides, our collaboration spans multiple fundamental research projects in heterogeneous catalysis, including: (ii) BES polymer research, and (ii) CD4DC,  Metal-Organic Framework (MOF)-based hydrogenation studies. So, I would provide my insight on his technical capability and leadership approach with close working relationship.
 
 ## Did they make a significant contribution, demonstrate leadership, or other behavior(s) that positively impacted the team, work/project, or collaboration?
 He consistently brings valuable insights to discussions, in particular, electrocatalysis project in BES program. His leadership and proactive engagement with his technical expertise and collaborative approaches have positively impacted on our projects.
