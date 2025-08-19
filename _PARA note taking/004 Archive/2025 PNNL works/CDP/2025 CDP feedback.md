@@ -22,9 +22,7 @@ She has demonstrated strong leadership in the project and showcased her expertis
 
 # Huamin 2025
 ## Feedback will be sent directly to the line manager(s). To better inform the line manager, would you like to define your association to the person (e.g., peer, project manager, external feedback provider information, etc.)?
-I work with him in the Basic Energy Science program at PCSD, so my association with him is as a project peer and collaborator within the same research program. In addition, Udishnu and I have discussed topics related to thermal and electrochemical catalysis for a couple of projects, further expanding our collaborative interactions in these research areas.
-
-I am working with Huamin for the fundamnental studies for heterogeneous catalysis, including (i) BES catalysis, (ii) BES polymer, (iii) CO2 hydrogenolysis, and (iv) CD4DC. We are involved all together to develop the projects moving forward.
+As his colleague and collaborator, I have been working with him for the Basic Energy Science program for catalysis. Besides, we work closely together on fundamental research in heterogeneous catalysis, which includes multiple projects such as (i) BES catalysis, (ii) BES polymer, (iii) CD4DC for Metal-organic framework (MOF)-based hydrogenation. 
 
 ## Did they make a significant contribution, demonstrate leadership, or other behavior(s) that positively impacted the team, work/project, or collaboration?
 He consistently brings valuable insights to discussions, in particular, electrocatalysis project in BES program. His leadership and proactive engagement with his technical expertise and collaborative approaches have positively impacted on our projects.
