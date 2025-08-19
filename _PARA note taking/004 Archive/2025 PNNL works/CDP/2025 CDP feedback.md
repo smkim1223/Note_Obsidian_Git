@@ -19,3 +19,19 @@ As the Principal Investigator, she has effectively led the project in the right 
 
 ## Are there opportunities for improvement (e.g., related to their work, technical or behavioral competencies, collaboration, etc.)?
 She has demonstrated strong leadership in the project and showcased her expertise in data science. As collaboration between domain science and data science becomes increasingly important, in particular, with the lab’s growing emphasis on autonomous science. I look forward to seeing her further expand her understanding of experimental science, including its language and workflows. Strengthening this area will not only help bridge the gap between disciplines but will also enhance our group’s research portfolio and contribute meaningfully to her own professional development.
+
+# Huamin 2025
+## Feedback will be sent directly to the line manager(s). To better inform the line manager, would you like to define your association to the person (e.g., peer, project manager, external feedback provider information, etc.)?
+I work with him in the Basic Energy Science program at PCSD, so my association with him is as a project peer and collaborator within the same research program. In addition, Udishnu and I have discussed topics related to thermal and electrochemical catalysis for a couple of projects, further expanding our collaborative interactions in these research areas.
+
+I am working with Huamin for the fundamnental studies for heterogeneous catalysis, including (i) BES catalysis, (ii) BES polymer, (iii) CO2 hydrogenolysis, and (iv) CD4DC. We are involved all together to develop the projects moving forward.
+
+## Did they make a significant contribution, demonstrate leadership, or other behavior(s) that positively impacted the team, work/project, or collaboration?
+He consistently brings valuable insights to discussions, in particular, electrocatalysis project in BES program. His leadership and proactive engagement with his technical expertise and collaborative approaches have positively impacted on our projects.
+
+I have been closely working with him this year for the catalysis projects across the electrocatalysis, homogeneous and heterogeneous catalysis. From my personal prospective for his performance, he has helped me in providing the great insight for scientific discussion with fundamental and applied science approaches. I have been learned from him to manage the team and project, while he has taken a leadership. He has shown his capability to manage the project with appropriate experiment design and engaging discussions with lab members and managers.
+
+## Are there opportunities for improvement (e.g., related to their work, technical or behavioral competencies, collaboration, etc.)?
+I also look forward to increasing his contributions to fundamental research works with high long-term potential. Strengthening this aspect would not only enhance the group’s research portfolio but also support his own professional growth in a meaningful way. 
+
+
