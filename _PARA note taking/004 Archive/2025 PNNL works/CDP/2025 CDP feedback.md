@@ -34,4 +34,4 @@ I have been closely working with him this year for the catalysis projects across
 ## Are there opportunities for improvement (e.g., related to their work, technical or behavioral competencies, collaboration, etc.)?
 I also look forward to increasing his contributions to fundamental research works with high long-term potential. Strengthening this aspect would not only enhance the group’s research portfolio but also support his own professional growth in a meaningful way. 
 
-
+He has been requested to be involved in the fundamental studies along with his major approaches in the applied science. By considering his capability, I believe he can enhance his research and manage scope across the basic and applied science.
