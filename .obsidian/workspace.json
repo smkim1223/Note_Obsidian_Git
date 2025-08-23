@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Introduction"
             }
+          },
+          {
+            "id": "e4c2333906e797ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,9 +216,18 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "e4c2333906e797ed",
   "lastOpenFiles": [
+    "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
     "conflict-files-obsidian-git.md",
+    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/002 Science_PVC highlight for word.md",
+    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for word.md",
+    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for PPT.md",
+    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
+    "_PARA note taking/003 Resources/Chemical Engineering/Calculations.md",
+    "_PARA note taking/001 Project/Research/001 AI prompt/Reference compile.md",
+    "_PARA note taking/001 Project/Research/001 AI prompt/Draft and Paper writing.md",
+    "_PARA note taking/001 Project/Research/001 AI prompt",
     "_PARA note taking/003 Resources/Coffee/필립스 라떼고 오일제거(리무버사용) & 청소하기  전자동 에스프레소 커피머신  내돈내산 후기.md",
     "_PARA note taking/003 Resources/Coffee/필립스 커피머신 추출기 청소 후 구리스(윤활유) 바르는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250611 망고들아 안녕_ 와썹 윌리엄이야!.md",
@@ -228,17 +252,8 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250808 물과 식량, 석유를 넘어선 가장 강력한 전략 자산의 등장.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250808 금일 업로드 한 스레드 글 퀴즈 정답.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250807 부자가 되는 1원칙 사고 - 돈의 역지사지.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250807 미래의 1등 대장주 찾는 방법 (920) - 탁월한 자본 배분 능력.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250806 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 진짜이야기 6화.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250806 세상 참 요란하다!.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250806 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 7.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250806 국가보다 강해진 기업들이 개인 자산을 지배한다.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250806 경제 위기와 폭락장을 미리 예측하는 신호와 방법! - 3탄!.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250805 큰 부자 만들어 줄 섹터 답안지.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
     "_PARA note taking/001 Project/Proposal/DMC and DEC",
-    "_PARA note taking/001 Project/Proposal",
-    "_PARA note taking/001 Project/Peer review/2025",
     "Pasted image 20250715002834.png"
   ]
 }
