@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/Prompt for the proposal.md",
+                "file": "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/003 Gemini Proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompt for the proposal"
+              "title": "003 Gemini Proposal"
             }
           }
         ],
@@ -217,11 +217,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "23c80eb942ff639a",
   "lastOpenFiles": [
+    "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/002 Perplexity proposal.md",
+    "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/003 Gemini Proposal.md",
+    "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/001 Prompt for the proposal.md",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/2025 CDP feedback.md",
-    "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/Prompt for the proposal.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
     "conflict-files-obsidian-git.md",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/002 Science_PVC highlight for word.md",
@@ -252,9 +254,7 @@
     "_PARA note taking/004 Archive/2025 PNNL works/Peer review",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP",
     "_PARA note taking/004 Archive/2025 PNNL works",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250808 물과 식량, 석유를 넘어선 가장 강력한 전략 자산의 등장.md",
     "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
-    "_PARA note taking/001 Project/Proposal/DMC and DEC",
     "Pasted image 20250715002834.png"
   ]
 }
