@@ -30,4 +30,12 @@ He consistently demonstrates exceptional technical expertise and effective leade
 ## Are there opportunities for improvement (e.g., related to their work, technical or behavioral competencies, collaboration, etc.)?
 He possesses a strong technical foundation and excellent project management skills, enabling him to oversee research efforts spanning both basic and applied science effectively. Encouraging him to broaden the scope of his management responsibilities further would maximize his capabilities and provide even greater benefit to the broader research program.
 
-# Iljun Cnung
+# Iljun 2025
+## Feedback will be sent directly to the line manager(s). To better inform the line manager, would you like to define your association to the person (e.g., peer, project manager, external feedback provider information, etc.)?
+I am a research colleague and collaborator and has worked closely with him for the past year on the Basic Energy Sciences (BES) program for catalysis. Besides, our collaboration spans multiple fundamental research projects in heterogeneous catalysis, including: (ii) BES polymer research, and (ii) CD4DC,  Metal-Organic Framework (MOF)-based hydrogenation studies. So, I would provide my insight on his technical capability and leadership approach with close working relationship.
+
+## Did they make a significant contribution, demonstrate leadership, or other behavior(s) that positively impacted the team, work/project, or collaboration?
+He consistently demonstrates exceptional technical expertise and effective leadership across our catalysis projects, with particular strength in both fundamental heterogeneous catalysis and applied catalysis. His ability to provide insightful scientific perspectives during discussions has greatly enhanced the quality and impact of our work. Over the past year, through our collaboration in the projects, he has also played a key role in my own professional growth. His unique ability to bridge fundamental science with applied research has not only strengthened our team’s overall effectiveness but also contributed substantially to the success of our projects.
+
+## Are there opportunities for improvement (e.g., related to their work, technical or behavioral competencies, collaboration, etc.)?
+He possesses a strong technical foundation and excellent project management skills, enabling him to oversee research efforts spanning both basic and applied science effectively. Encouraging him to broaden the scope of his management responsibilities further would maximize his capabilities and provide even greater benefit to the broader research program.
