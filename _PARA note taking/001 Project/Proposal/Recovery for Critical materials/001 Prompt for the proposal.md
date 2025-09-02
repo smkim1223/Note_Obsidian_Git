@@ -1,6 +1,8 @@
 # References
 1. https://www.alsglobal.com/en/metallurgy-and-mineral-processing/hydrometallurgical-testwork
-2. Solvent e
+2. Solvent extraction: https://www.alsglobal.com/en/metallurgy-and-mineral-processing/hydrometallurgical-testwork/solvent-extraction
+3. Electrowinning: https://www.alsglobal.com/en/metallurgy-and-mineral-processing/hydrometallurgical-testwork/electrowinning
+4. Precipitation: https://www.alsglobal.com/en/metallurgy-and-mineral-processing/hydrometallurgical-testwork/CCD-neutralisation-solution-purification-and-precipitation
 
 # Research Proposal: Recovery of Critical Materials (Ni, Pt, Ir, Co, Li, Mg) via Electrowinning and Chemical Precipitation
 
