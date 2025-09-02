@@ -1,3 +1,7 @@
+# References
+1. https://www.alsglobal.com/en/metallurgy-and-mineral-processing/hydrometallurgical-testwork
+2. Solvent e
+
 # Research Proposal: Recovery of Critical Materials (Ni, Pt, Ir, Co, Li, Mg) via Electrowinning and Chemical Precipitation
 
 ## Executive Summary
