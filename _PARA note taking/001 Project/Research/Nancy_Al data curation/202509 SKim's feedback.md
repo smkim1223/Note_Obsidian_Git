@@ -7,7 +7,7 @@
 ## Sample identity
 1. Error with invalid entries to save the below
    ![[Pasted image 20250910105331.png]]
-2. 
+2. Once I have any errors to save, I would lost all my draft and have to put all the entries. With repeated errors to save, I would need to recall my draft 
 3. I do not totally understand which one I have to put in "material name/class"
 4. For characterization, we may consider add preselected characterization with check boxes
 5. Can we automatically add workflowId if we are started from it
