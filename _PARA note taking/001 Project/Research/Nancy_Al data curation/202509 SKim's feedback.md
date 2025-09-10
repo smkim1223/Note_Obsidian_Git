@@ -9,10 +9,13 @@
    ![[Pasted image 20250910105331.png]]
 2. Once I have any errors to save, I would lost all my draft and have to put all the entries. With repeated errors to save, I would need to figure out how to recall my draft 
 3. For characterization, multiple characterizations would be employed, for example, XRD, IR and NMR for the samples. We may consider to add multiple lines to clearly see which characterization was added, or can we provide check boxes for general characterizations, while we can add unless it is not listed. 
-4. Can we automatically add workflowId if we are started from it
-5. error message when I save and need to get error message what I made wrong: 
+
+## Sample Prep
+1. 
+
+2. Error message when I save and need to get error message what I made wrong: 
 AI Ready Data Sample Prep (M3) List failed: Invalid URL: J. Phys. Chem. C 2023, 127, 23390−23399. clientRequestId: 14abd55c-f587-40e8-b9ec-7871f3580f77 serviceRequestId: c83dc3a1-e01e-9000-e9ef-97332e06f15b
-6. Need to see a draft or saved one. 
+5. Need to see a draft or saved one. 
 
 Sample prep
 Using VPN, Network error when using Patch function: The requested operation is invalid.
