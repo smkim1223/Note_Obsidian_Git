@@ -21,8 +21,9 @@ AI Ready Data Sample Prep (M3) List failed: Invalid URL: J. Phys. Chem. C 2023, 
 ## Data Analysis
 1. What is Rad data?
 2. Error message: An entry is required or has an invalid value. Please correct and try again.
+   ![[Pasted image 20250910111333.png]]
 
-
+## Final Data
 Sample prep
 no understatnd the error message: AI Ready Data Sample Identity (M2) List failed: Invalid URL: XRD, NMR, IR. clientRequestId: d47d6c2b-13c1-4350-95ec-c1fad39fced3 serviceRequestId: d3cfc3a1-00c4-9000-e9ef-9de52f25ce84
 what is the following up to figure it out?
