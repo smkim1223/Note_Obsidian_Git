@@ -7,13 +7,12 @@
 ## Sample identity
 1. Error with invalid entries to save the below
    ![[Pasted image 20250910105331.png]]
-2. Once I have any errors to save, I would lost all my draft and have to put all the entries. With repeated errors to save, I would need to recall my draft 
-3. I do not totally understand which one I have to put in "material name/class"
-4. For characterization, we may consider add preselected characterization with check boxes
-5. Can we automatically add workflowId if we are started from it
-6. error message when I save and need to get error message what I made wrong: 
+2. Once I have any errors to save, I would lost all my draft and have to put all the entries. With repeated errors to save, I would need to figure out how to recall my draft 
+3. For characterization, multiple characterizations would be employedconsider add preselected characterization with check boxes
+4. Can we automatically add workflowId if we are started from it
+5. error message when I save and need to get error message what I made wrong: 
 AI Ready Data Sample Prep (M3) List failed: Invalid URL: J. Phys. Chem. C 2023, 127, 23390−23399. clientRequestId: 14abd55c-f587-40e8-b9ec-7871f3580f77 serviceRequestId: c83dc3a1-e01e-9000-e9ef-97332e06f15b
-7. Need to see a draft or saved one. 
+6. Need to see a draft or saved one. 
 
 Sample prep
 Using VPN, Network error when using Patch function: The requested operation is invalid.
