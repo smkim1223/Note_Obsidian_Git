@@ -6,6 +6,7 @@
 
 ## Sample identity
 1. Error message with my entries
+   ![[Pasted image 20250910105331.png]]
 2. 
 3. I do not totally understand which one I have to put in "material name/class"
 4. For characterization, we may consider add preselected characterization with check boxes
