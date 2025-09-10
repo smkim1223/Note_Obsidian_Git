@@ -25,12 +25,14 @@
             "id": "8f9a8892ca9a1145",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "_PARA note taking/001 Project/Research/Nancy_Al data curation/202509 SKim's feedback.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "202509 SKim's feedback"
             }
           }
         ],
@@ -88,7 +90,7 @@
             }
           },
           {
-            "id": "a23f98383f580db9",
+            "id": "d8138b785bbf14d0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,8 +99,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,8 +217,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "8f9a8892ca9a1145",
   "lastOpenFiles": [
+    "_PARA note taking/001 Project/Research/001 AI prompt/Reference compile.md",
+    "_PARA note taking/001 Project/Research/Nancy_Al data curation/202509 SKim's feedback.md",
+    "_PARA note taking/001 Project/Research/Nancy_Al data curation",
+    "_PARA note taking/001 Project/Research/001 AI prompt/Draft and Paper writing.md",
     "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/003 Gemini Proposal.md",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/002 Perplexity proposal.md",
@@ -229,8 +234,6 @@
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for PPT.md",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
     "_PARA note taking/003 Resources/Chemical Engineering/Calculations.md",
-    "_PARA note taking/001 Project/Research/001 AI prompt/Reference compile.md",
-    "_PARA note taking/001 Project/Research/001 AI prompt/Draft and Paper writing.md",
     "_PARA note taking/001 Project/Research/001 AI prompt",
     "_PARA note taking/003 Resources/Coffee/필립스 라떼고 오일제거(리무버사용) & 청소하기  전자동 에스프레소 커피머신  내돈내산 후기.md",
     "_PARA note taking/003 Resources/Coffee/필립스 커피머신 추출기 청소 후 구리스(윤활유) 바르는 방법.md",
@@ -249,11 +252,9 @@
     "_PARA note taking/004 Archive/2025 PNNL works/Peer review/202507 Chem Catalysis_note and summary.md",
     "_PARA note taking/004 Archive/2025 PNNL works/Peer review/202507 Chem Catalysis_Review draft.md",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/My Annual Wrap up FY25.md",
-    "_PARA note taking/004 Archive/2025 PNNL works/CDP/2025 CDP feedback.md",
     "_PARA note taking/004 Archive/2025 PNNL works/Peer review",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP",
     "_PARA note taking/004 Archive/2025 PNNL works",
-    "_PARA note taking/001 Project/Research/PCSD_MOF_Visonary",
     "Pasted image 20250715002834.png"
   ]
 }
