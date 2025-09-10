@@ -5,7 +5,7 @@
 1. We can enlarge the boxes to look at and edit the contents properly
 
 ## Sample identity
-1. Error message with my entries
+1. Error with invalid entries to save the below
    ![[Pasted image 20250910105331.png]]
 2. 
 3. I do not totally understand which one I have to put in "material name/class"
