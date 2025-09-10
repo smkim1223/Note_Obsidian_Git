@@ -19,7 +19,8 @@ AI Ready Data Sample Prep (M3) List failed: Invalid URL: J. Phys. Chem. C 2023, 
 1. Does Raw Data PID means "parameter identifier"?
 
 ## Data Analysis
-1. 
+1. d
+2. What is Rad data?
 
 
 Sample prep
