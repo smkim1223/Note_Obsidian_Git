@@ -1,14 +1,18 @@
-# URL: 
-Experimental Context
+# URL: https://apps.gov.powerapps.us/play/e/94cf96fa-4b83-44bc-851b-83bf05850675/a/01a40537-3a90-41c8-8fff-d77ed92129ba
+
+
+## Experimental Context
 1. We can enlarge the boxes to look at and edit the contents properly
 
-Sample identity
-1. I do not totally understand which one I have to put in "material name/class"
-2. For characterization, we may consider add preselected characterization with check boxes
-3. Can we automatically add workflowId if we are started from it
-4. error message when I save and need to get error message what I made wrong: 
+## Sample identity
+1. Error message with my entries
+2. 
+3. I do not totally understand which one I have to put in "material name/class"
+4. For characterization, we may consider add preselected characterization with check boxes
+5. Can we automatically add workflowId if we are started from it
+6. error message when I save and need to get error message what I made wrong: 
 AI Ready Data Sample Prep (M3) List failed: Invalid URL: J. Phys. Chem. C 2023, 127, 23390−23399. clientRequestId: 14abd55c-f587-40e8-b9ec-7871f3580f77 serviceRequestId: c83dc3a1-e01e-9000-e9ef-97332e06f15b
-5. Need to see a draft or saved one. 
+7. Need to see a draft or saved one. 
 
 Sample prep
 Using VPN, Network error when using Patch function: The requested operation is invalid.
