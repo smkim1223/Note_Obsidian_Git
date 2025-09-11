@@ -129,27 +129,27 @@ Julia has demonstrated strong performance during her internship. She shows outst
 ## Evaluation
 ### Scientific/Technical Knowledge Scientific/Technical Knowledge 
 Description : Demonstrates general knowledge in all aspects of science pertaining to the project/work. Is beginning to develop expertise in one or more areas relating to the project.
-4 - Outstanding
+5 - Distinguished
 
 ### Technical Problem Solving/Innovation Technical Problem Solving/Innovation 
 Description : Asks good questions, and secures relevant information in the problem solving process. Contributes to the identification of key issues and potential causes, and applies technical knowledge to analyzing and solving work-related problems. Meet challenges with resourcefulness, and is open to exploring different and novel approaches.
-3 - Successfulg
+5 - Distinguished
 
 ### Planning & Implementation Planning & Implementation 
 Description : Establishes a course of action to accomplish a specific goal. Plans tasks and resources and sets a schedule of actions to complete tasks. Communicates needs and effectively fulfills tasks requirements.
-3 - Successful
+4 - Outstanding
 
 ### Initiative Initiative 
 Description : Shows enthusiasm and ownership in the project and/or work. Offers helpful input and suggestions, and demonstrates motivation to get results.
-4 - Outstanding
+5 - Distinguished
 
 ### Personal/Technical Growth & Development Personal/Technical Growth & Development 
 Description : Staff driven development. Seeks out and exchanges technical information with staff and colleagues. Participates in educational and on-the-job development activities that will enhance technical background and knowledge.
-3 - Successful
+4 - Outstanding
 
 ### Professional Networking Professional Networking 
 Description : Works effectively with others to accomplish goals and resolve problems. Earns the respects of others and uses appropriate communication styles and methods to promote ideas and maintain positive working relationships.
-4 - Outstanding
+3 - Successful
 
 ### Professional & Organization Standards Professional & Organization Standards 
 Description : Demonstrates compliance, understanding and promotion of PNNL standards in all areas, without having to be reminded (e.g. ETR, travel, clearances, etc.). Contributes to a team environment.
