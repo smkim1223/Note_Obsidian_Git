@@ -1,0 +1,28 @@
+# URL: https://apps.gov.powerapps.us/play/e/94cf96fa-4b83-44bc-851b-83bf05850675/a/01a40537-3a90-41c8-8fff-d77ed92129ba
+
+
+## Experimental Context
+1. We can enlarge the boxes to look at and edit the contents properly
+
+## Sample identity
+1. Error with invalid entries to save the below
+   ![[Pasted image 20250910105331.png]]
+2. Once I have any errors to save, I would lost all my draft and have to put all the entries. With repeated errors to save, I would need to figure out how to recall my draft 
+3. For characterization, multiple characterizations would be employed, for example, XRD, IR and NMR for the samples. We may consider to add multiple lines to clearly see which characterization was added, or can we provide check boxes for general characterizations, while we can add unless it is not listed. 
+
+## Sample Prep
+1. The box for processing step is too small to see the whole procedure at once   ![[Pasted image 20250910110629.png]]
+2. Error message probably due to adding the citation: 
+AI Ready Data Sample Prep (M3) List failed: Invalid URL: J. Phys. Chem. C 2023, 127, 23390−23399. clientRequestId: 14abd55c-f587-40e8-b9ec-7871f3580f77 serviceRequestId: c83dc3a1-e01e-9000-e9ef-97332e06f15b
+
+## Data Acquisition
+1. Does Raw Data PID means "parameter identifier"?
+
+## Data Analysis
+1. What is Rad data?
+2. Error message: An entry is required or has an invalid value. Please correct and try again.
+   ![[Pasted image 20250910111333.png]]
+
+## Final Data
+1. Error with my entries below: An entry is required or has an invalid value. Please correct and try again.
+   ![[Pasted image 20250910111629.png]]
