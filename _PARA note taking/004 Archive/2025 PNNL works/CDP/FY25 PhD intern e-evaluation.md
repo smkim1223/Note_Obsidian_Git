@@ -42,7 +42,7 @@ Guidance: Provide a summary of staff member's progress and accomplishments towar
 4 - Outstanding
 
 
-### Manager comments revised by SKim
+## Manager comments revised by SKim
 Julia has demonstrated exceptional performance and growth during her time as an intern. Her scientific and technical knowledge is impressive, showing a solid understanding in her research area for electrocatalytic hydrogenation of biomass-derived compounds. Julia consistently develops her experties by asking insightful questions for the project, analyzing technical and scientific issues effectively, and applying her technical skills creatively to overcome challenges.
 
 Julia has consistently contributed helpful suggestions for the project and demonstrated a strong motivation to achieve results. She also exhibits a high standards for the lab and team, which foster a positive team environment.
@@ -51,7 +51,7 @@ I believe Julia has been successful in organizing her research tasks effectively
 
 Lastly, Julia working collaboratively with others. Her communication with others stand out, as she consistently conveys information in a clear and concise manner.
 
-### Manager comments from AI
+## Manager comments from AI
 Julia has demonstrated exceptional performance and growth during her time as an intern. Her **scientific and technical knowledge** is impressive, showing a solid understanding in all relevant areas of the project and beginning to develop expertise in key areas. Julia consistently excels in **technical problem solving** by asking insightful questions, analyzing issues effectively, and applying her technical skills creatively to overcome challenges.
 
 In terms of **initiative**, Julia has shown unparalleled enthusiasm and ownership of her work, consistently contributing helpful suggestions and demonstrating a strong motivation to achieve results. She also exhibits a high level of professionalism by adhering to organizational standards and fostering a positive team environment.
@@ -105,6 +105,20 @@ Description : Able to convey, either orally, or in writing, clear, concise and o
 ### Manager Summary and Rating Section: Manager Summary and Rating 
 Guidance: Provide a summary of staff member's progress and accomplishments towards established goals, overall performance assessment and rating for the fiscal year. (Required).
 4 - Outstanding
+
+## Manager comments revised by SKim
+Julia has demonstrated exceptional performance and growth during her time as an intern. Her scientific and technical knowledge is impressive, showing a solid understanding in her research area for electrocatalytic hydrogenation of biomass-derived compounds. Julia consistently develops her experties by asking insightful questions for the project, analyzing technical and scientific issues effectively, and applying her technical skills creatively to overcome challenges.
+
+Julia has consistently contributed helpful suggestions for the project and demonstrated a strong motivation to achieve results. She also exhibits a high standards for the lab and team, which foster a positive team environment.
+
+I believe Julia has been successful in organizing her research tasks effectively to meet her goals, which furtehr leads to developing her skills through collaboration and educational opportunities.  
+
+Lastly, Julia working collaboratively with others. Her communication with others stand out, as she consistently conveys information in a clear and concise manner.
+
+
+
+
+
 
 # Boda
 
