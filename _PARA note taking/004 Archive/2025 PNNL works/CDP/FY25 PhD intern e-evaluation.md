@@ -109,13 +109,9 @@ Guidance: Provide a summary of staff member's progress and accomplishments towar
 4 - Outstanding
 
 ## Manager comments revised by SKim
-Julia has demonstrated exceptional performance and growth during her time as an intern. Her scientific and technical knowledge is impressive, showing a solid understanding in her research area for electrocatalytic hydrogenation of biomass-derived compounds. Julia consistently develops her experties by asking insightful questions for the project, analyzing technical and scientific issues effectively, and applying her technical skills creatively to overcome challenges.
+Jiande has demonstrated strong performance during FY25. He shows outstanding scientific and technical knowledge, with clear progress toward developing expertise in his polymer project area. His initiative, enthusiasm, and ownership of work would be impressive, as his ability to communicate effectively and build positive professional relationships with team and collegues.  
 
-Julia has consistently contributed helpful suggestions for the project and demonstrated a strong motivation to achieve results. She also exhibits a high standards for the lab and team, which foster a positive team environment.
-
-I believe Julia has been successful in organizing her research tasks effectively to meet her goals, which furtehr leads to developing her skills through collaboration and educational opportunities.  
-
-Lastly, Julia working collaboratively with others. Her communication with others stand out, as she consistently conveys information in a clear and concise manner.
+Jiande is resourceful in problem solving and willing to explore new approaches, while also steadily developing his technical skills and knowledge. He consistently meets expectations in planning, implementation, adaptability, and professional standards. In this regard, Jiande has performed at an outstanding level, contributing meaningfully to the team and showing strong potential for future growth.
 
 
 
@@ -127,7 +123,69 @@ Julia has demonstrated strong performance during her internship. She shows outst
 
 
 
+
+
 # Boda
+## Evaluation
+### Scientific/Technical Knowledge Scientific/Technical Knowledge 
+Description : Demonstrates general knowledge in all aspects of science pertaining to the project/work. Is beginning to develop expertise in one or more areas relating to the project.
+4 - Outstanding
+
+### Technical Problem Solving/Innovation Technical Problem Solving/Innovation 
+Description : Asks good questions, and secures relevant information in the problem solving process. Contributes to the identification of key issues and potential causes, and applies technical knowledge to analyzing and solving work-related problems. Meet challenges with resourcefulness, and is open to exploring different and novel approaches.
+3 - Successfulg
+
+### Planning & Implementation Planning & Implementation 
+Description : Establishes a course of action to accomplish a specific goal. Plans tasks and resources and sets a schedule of actions to complete tasks. Communicates needs and effectively fulfills tasks requirements.
+3 - Successful
+
+### Initiative Initiative 
+Description : Shows enthusiasm and ownership in the project and/or work. Offers helpful input and suggestions, and demonstrates motivation to get results.
+4 - Outstanding
+
+### Personal/Technical Growth & Development Personal/Technical Growth & Development 
+Description : Staff driven development. Seeks out and exchanges technical information with staff and colleagues. Participates in educational and on-the-job development activities that will enhance technical background and knowledge.
+3 - Successful
+
+### Professional Networking Professional Networking 
+Description : Works effectively with others to accomplish goals and resolve problems. Earns the respects of others and uses appropriate communication styles and methods to promote ideas and maintain positive working relationships.
+4 - Outstanding
+
+### Professional & Organization Standards Professional & Organization Standards 
+Description : Demonstrates compliance, understanding and promotion of PNNL standards in all areas, without having to be reminded (e.g. ETR, travel, clearances, etc.). Contributes to a team environment.
+3 - Successful
+
+### Tolerance for Ambiguity Tolerance for Ambiguity 
+Description : Can effectively cope with change; shift gears comfortably; can decide and act without having the total picture; isn’t upset when things are up in the air; can set aside tasks to move towards higher value activities; can comfortably handle risk and uncertainty.
+3 - Successful
+
+### Communications/Interpersonal Relationships Communications/Interpersonal Relationships 
+Description : Able to convey, either orally, or in writing, clear, concise and organized communication. Demonstrates customer service and team support skills related to the project/work.
+4 - Outstanding
+
+### Manager Summary and Rating Section: Manager Summary and Rating 
+Guidance: Provide a summary of staff member's progress and accomplishments towards established goals, overall performance assessment and rating for the fiscal year. (Required).
+4 - Outstanding
+
+## Manager comments revised by SKim
+Jiande has demonstrated strong performance during FY25. He shows outstanding scientific and technical knowledge, with clear progress toward developing expertise in his polymer project area. His initiative, enthusiasm, and ownership of work would be impressive, as his ability to communicate effectively and build positive professional relationships with team and collegues.  
+
+Jiande is resourceful in problem solving and willing to explore new approaches, while also steadily developing his technical skills and knowledge. He consistently meets expectations in planning, implementation, adaptability, and professional standards. In this regard, Jiande has performed at an outstanding level, contributing meaningfully to the team and showing strong potential for future growth.
+
+
+
+## Manager comments from AI
+Julia has demonstrated strong performance during her internship. She shows outstanding scientific and technical knowledge, with clear progress toward developing expertise in her project area. Her initiative, enthusiasm, and ownership of work are particularly impressive, as is her ability to communicate effectively and build positive professional relationships. Julia is resourceful in problem solving and willing to explore new approaches, while also steadily developing her technical skills and knowledge. She consistently meets expectations in planning, implementation, adaptability, and professional standards, and often exceeds them in areas of collaboration and interpersonal effectiveness. Overall, Julia has performed at an outstanding level, contributing meaningfully to the team and showing strong potential for future growth.
+
+
+
+
+
+
+
+
+
+
 
 
 
