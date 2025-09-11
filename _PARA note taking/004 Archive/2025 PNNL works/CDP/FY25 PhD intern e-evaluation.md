@@ -42,7 +42,16 @@ Guidance: Provide a summary of staff member's progress and accomplishments towar
 4 - Outstanding
 
 
-## Manager comments
+### Manager comments revised by SKim
+Julia has demonstrated exceptional performance and growth during her time as an intern. Her scientific and technical knowledge is impressive, showing a solid understanding in her research area for electrocatalytic hydrogenation of biomass-derived compounds. Julia consistently develops her experties by asking insightful questions for the project, analyzing technical and scientific issues effectively, and applying her technical skills creatively to overcome challenges.
+
+Julia has consistently contributed helpful suggestions for the project and demonstrated a strong motivation to achieve results. She also exhibits a high standards for the lab and team, which foster a positive team environment.
+
+I believe Julia has been successful in organizing her research tasks effectively to meet her goals, which furtehr leads to developing her skills through collaboration and educational opportunities.  
+
+Lastly, Julia working collaboratively with others. Her communication with others stand out, as she consistently conveys information in a clear and concise manner.
+
+### Manager comments from AI
 Julia has demonstrated exceptional performance and growth during her time as an intern. Her **scientific and technical knowledge** is impressive, showing a solid understanding in all relevant areas of the project and beginning to develop expertise in key areas. Julia consistently excels in **technical problem solving** by asking insightful questions, analyzing issues effectively, and applying her technical skills creatively to overcome challenges.
 
 In terms of **initiative**, Julia has shown unparalleled enthusiasm and ownership of her work, consistently contributing helpful suggestions and demonstrating a strong motivation to achieve results. She also exhibits a high level of professionalism by adhering to organizational standards and fostering a positive team environment.
@@ -53,6 +62,17 @@ Finally, her **communication skills** stand out as exceptional, as she consisten
 
 **Overall Rating**: 4 – Outstanding  
 Julia has made significant progress toward her goals and has exceeded expectations in many areas. Her contributions to the project have been of high value, and her skills, dedication, and drive are truly commendable.
+
+
+# Jiande
+
+
+# Boda
+
+
+
+
+
 
 # SKim evaluation comments
 ## 2022
