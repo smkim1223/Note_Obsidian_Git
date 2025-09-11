@@ -1,5 +1,5 @@
 # FY25
-## Question
+## Draft
 ### Q1 what worked well
 - BES renewal and response 
 - BES polymer progress and NCE to end of CY
@@ -33,10 +33,29 @@
 
 
 
-## Al results
+## Summary with AI
 ### Statement
-#### dsf
+#### Q1: **What worked well this year?**  
+This year had several noteworthy accomplishments and milestones. After the BES renewal and in alignment with guidance from the DOE, I participated meaningfully in preparing the BES response and contributed substantively to the process. To conclude the BES polymer progress with the subcontractor (FWP 78459), we successfully obtained an approved no-cost extension (NCE). Additionally, the BES response has provided us an opportunity to continue the polymer project as part of BES catalysis. Despite the resignation of Johannes, which posed a potential disruption to the program and team, we successfully worked to minimize its impact. We remained particularly focused on supporting all the PhD students, ensuring their academic work was nurtured and helping them stay on track for graduation. Furthermore, I embraced a new and exciting opportunity to collaborate with a data scientist on a cross-directorate LDRD program, which allowed me to expand my skills and contribute to interdisciplinary research areas.  
 
+---
+
+#### Q2: **What didn’t work well this year?**  
+Several challenges emerged this year, indicating areas for growth and improvement. SPP projects encountered significant setbacks, as proposals to BASF, Total Energy, and UOP were all declined, which impacted progress. Additionally, the EFRC CD4DC program’s decision not to involve PNNL in their next renewal cycle had a notable effect on Yinjie’s research work. Anticipating the challenges this presented for her PhD work, we decided to transition her to the Technical University of Munich, ensuring she could continue her research under a stable framework and maintain progress toward completing her degree.  
+
+---
+
+#### Q3: **Describe the status/progress on fiscal year goals.**  
+The fiscal year goals were successfully achieved in many respects, while also adapting to certain shifts in priorities. I was invited to deliver a talk at the ACS Spring meeting and the CCE, which enabled me to share our research progress and insights with a broader scientific audience. Additionally, I authored 6 papers, all published in well-regarded journals, including one where I served as the corresponding author. Beyond publishing, I had the opportunity to present my work through an oral presentation at NAM29, where I also contributed as a session chair, showcasing leadership and expertise within the field. Moreover, together with Huamin, I successfully facilitated the hiring of a new postdoctoral researcher in EED for the BES, bolstering the team and ensuring we maintain momentum in our program.   
+
+---
+
+#### Q4: **What could be amazing in the new FY?**  
+Looking forward to the new fiscal year, I see several exciting opportunities on the horizon that could lead to transformative outcomes. One key goal would be to expand our AI/ML project, and although it remains challenging, securing additional funding for this program would make a measurable difference by facilitating innovative research and outcomes. Additionally, I plan to explore avenues to organize an ACS symposium, which would be not only an enriching experience for my career development but also a platform to foster deeper collaborations and enhance visibility within the scientific community. Both of these goals represent significant areas of continued focus and growth in alignment with my career and programmatic objectives.  
+
+---
+
+Let me know if you’d like any additional revisions!
 
 ### bullet points
 #### Q1: **What worked well this year?**
