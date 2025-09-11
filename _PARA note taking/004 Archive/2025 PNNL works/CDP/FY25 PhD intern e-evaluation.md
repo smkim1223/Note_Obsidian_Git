@@ -1,5 +1,6 @@
 # 2025 PhD intern evaluation in HetCat teams
 # Julia
+## Evaluation
 ### Scientific/Technical Knowledge Scientific/Technical Knowledge 
 Description : Demonstrates general knowledge in all aspects of science pertaining to the project/work. Is beginning to develop expertise in one or more areas relating to the project.
 4 - Outstanding
@@ -16,30 +17,42 @@ Description : Establishes a course of action to accomplish a specific goal. Plan
 Description : Shows enthusiasm and ownership in the project and/or work. Offers helpful input and suggestions, and demonstrates motivation to get results.
 4 - Outstanding
 
-Personal/Technical Growth & Development Personal/Technical Growth & Development 
+### Personal/Technical Growth & Development Personal/Technical Growth & Development 
 Description : Staff driven development. Seeks out and exchanges technical information with staff and colleagues. Participates in educational and on-the-job development activities that will enhance technical background and knowledge.
 3 - Successful
 
-Professional Networking Professional Networking 
+### Professional Networking Professional Networking 
 Description : Works effectively with others to accomplish goals and resolve problems. Earns the respects of others and uses appropriate communication styles and methods to promote ideas and maintain positive working relationships.
 3 - Successful
 
-Professional & Organization Standards Professional & Organization Standards 
+### Professional & Organization Standards Professional & Organization Standards 
 Description : Demonstrates compliance, understanding and promotion of PNNL standards in all areas, without having to be reminded (e.g. ETR, travel, clearances, etc.). Contributes to a team environment.
 4 - Outstanding
 
-Tolerance for Ambiguity Tolerance for Ambiguity 
+### Tolerance for Ambiguity Tolerance for Ambiguity 
 Description : Can effectively cope with change; shift gears comfortably; can decide and act without having the total picture; isn’t upset when things are up in the air; can set aside tasks to move towards higher value activities; can comfortably handle risk and uncertainty.
 3 - Successful
 
-Communications/Interpersonal Relationships Communications/Interpersonal Relationships 
+### Communications/Interpersonal Relationships Communications/Interpersonal Relationships 
 Description : Able to convey, either orally, or in writing, clear, concise and organized communication. Demonstrates customer service and team support skills related to the project/work.
 4 - Outstanding
 
-Manager Summary and Rating Section: Manager Summary and Rating 
+### Manager Summary and Rating Section: Manager Summary and Rating 
 Guidance: Provide a summary of staff member's progress and accomplishments towards established goals, overall performance assessment and rating for the fiscal year. (Required).
 4 - Outstanding
 
+
+## Manager comments
+Julia has demonstrated exceptional performance and growth during her time as an intern. Her **scientific and technical knowledge** is impressive, showing a solid understanding in all relevant areas of the project and beginning to develop expertise in key areas. Julia consistently excels in **technical problem solving** by asking insightful questions, analyzing issues effectively, and applying her technical skills creatively to overcome challenges.
+
+In terms of **initiative**, Julia has shown unparalleled enthusiasm and ownership of her work, consistently contributing helpful suggestions and demonstrating a strong motivation to achieve results. She also exhibits a high level of professionalism by adhering to organizational standards and fostering a positive team environment.
+
+Julia has been successful in **planning and implementation**, organizing tasks effectively to meet her goals, as well as in **personal/technical growth**, showing a commitment to learning and developing her skills through collaboration and educational opportunities. Her **professional networking** and **tolerance for ambiguity** have also been successful, with Julia working collaboratively with others while adapting to changes and uncertainties.
+
+Finally, her **communication skills** stand out as exceptional, as she consistently conveys information in a clear and concise manner, which contributes to fostering strong interpersonal relationships with team members and stakeholders.
+
+**Overall Rating**: 4 – Outstanding  
+Julia has made significant progress toward her goals and has exceeded expectations in many areas. Her contributions to the project have been of high value, and her skills, dedication, and drive are truly commendable.
 
 # SKim evaluation comments
 ## 2022
