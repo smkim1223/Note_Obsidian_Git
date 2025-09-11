@@ -34,7 +34,7 @@
 
 
 ## Summary with AI
-### Statement
+### Summary in Statement format
 #### Q1: **What worked well this year?**  
 This year had several noteworthy accomplishments and milestones. After the BES renewal and in alignment with guidance from the DOE, I participated meaningfully in preparing the BES response and contributed substantively to the process. To conclude the BES polymer progress with the subcontractor (FWP 78459), we successfully obtained an approved no-cost extension (NCE). Additionally, the BES response has provided us an opportunity to continue the polymer project as part of BES catalysis. Despite the resignation of Johannes, which posed a potential disruption to the program and team, we successfully worked to minimize its impact. We remained particularly focused on supporting all the PhD students, ensuring their academic work was nurtured and helping them stay on track for graduation. Furthermore, I embraced a new and exciting opportunity to collaborate with a data scientist on a cross-directorate LDRD program, which allowed me to expand my skills and contribute to interdisciplinary research areas.  
 
@@ -57,7 +57,7 @@ Looking forward to the new fiscal year, I see several exciting opportunities on 
 
 Let me know if you’d like any additional revisions!
 
-### bullet points
+### Summary in bullet points
 #### Q1: **What worked well this year?**
 
 This year, several accomplishments, milestones, and achievements demonstrated consistent progress and adaptability:
@@ -95,8 +95,6 @@ Looking ahead, there are promising opportunities that offer potential for impact
 
 - Given the challenges, it would be transformative to secure additional funding for the AI/ML project, enabling further innovation.
 - I aim to organize an ACS symposium, which would provide valuable visibility and foster collaborations within the scientific community.
-
-
 
 ### AI query
 I have to draft a coaching and development program for wrapping this and objecting next fiscal year. For the following questions I would need you to write down in a statement sentences from my summary.
@@ -137,7 +135,8 @@ Q4 **What could be amazing in the new FY?** (List new opportunities on the hori
 - Will try to organize ACS symposium
 
 
-## 
+
+
 
 
 # FY24
