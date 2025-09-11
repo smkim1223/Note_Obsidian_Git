@@ -1,4 +1,4 @@
-# 2025 PhD intern evaluation in HetCat teams
+
 # Julia
 ## Evaluation
 ### Scientific/Technical Knowledge Scientific/Technical Knowledge 
