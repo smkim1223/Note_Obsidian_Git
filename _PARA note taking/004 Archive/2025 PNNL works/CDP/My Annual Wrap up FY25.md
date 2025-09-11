@@ -1,16 +1,16 @@
 # FY25
 ## Question
-## Q1 what worked well
+### Q1 what worked well
 - BES renewal and response 
 - BES polymer progress and NCE to end of CY
 - Transition with Johannes' resignation and taking care of the team
 - Work with Data science (Ocean LDRD and Stuanay)
 
-## Q2 Didn't work well
+### Q2 Didn't work well
 - Projects of SPP have faced challenges. all SPPs have been declined
 - CD4DC and Yinjie
 
-## Q3 Describe the progress and status goal of FY 25
+### Q3 Describe the progress and status goal of FY 25
 - Invited talk in ACS Spring and CCE
 - XX papers with decent journal including Science, and corresponding author
 - XX oral presentation in NAM29
@@ -27,8 +27,46 @@
 - Enhancing my visibitily in Catalysis division and community (Yes with chair and invited talks)
 	- To enhance my visibility and contribution to Catalysis division and community in the US, I have been required to have more invited talks and have been involved in the committee or organizing symposium and conference. In this regard, I have accepted a couple of invited talk in 9th International Conference on Catalysis and Chemical Engineering (CCE-2025) and ACS Spring 2025 in the upcoming FY25. Besides, I will try to participate catalysis division activity in ACS and AICHE.
 
-## Q4 what could be amazing in upcoming FY26
+### Q4 what could be amazing in upcoming FY26
 - It is still challenging, but will be amazing if you have additional funding in AI/ML
+- Will try to organize ACS symposium
+
+## AI query
+I have to draft a coaching and development program for wrapping this and objecting next fiscal year. For the following questions I would need you to write down in a statement sentences from my summary.
+
+Q1 What worked well this year? (This can include accomplishments, milestones, and achievements.)
+
+- After BES renewal and following guidance from DOE, I would participate for preparing the response and contributing it.
+    
+- To wrap up BES polymer progress with subcontractor (FWP 78459), we did no cost extension (NCE) and approved. Besides, as a BES response, we are allowed to continue our polymer project as a part of BES catalysis
+    
+- With Johannes' resignation, we worked to minimize the impact to the program and team. Moreover, we have focused on taking care of all the PhD students and fostered their research work considering the graduation.
+    
+- I was able to have a new opportunity working with Data scientist for cross-directorate LDRD program.
+    
+
+Q2 What didn’t work well this year? (This can include challenges, missed opportunities, and areas to be addressed or improvement needed.)
+
+- Projects of SPP have faced challenges. All SPP with BASF, Total Energy, and UOP have been declined
+    
+- EFRC CD4DC program doesn’t consider PNNL for the next renew cycle. It would impact on Yinjie’s research work. So, we decided to move her to Technical Universtiy of Munich to continue her research work and PhD.
+    
+
+Q3 **Describe the status/progress on fiscal year goals.** (Describe how the fiscal year goals were accomplished and/or how you adapted goals due to changing priorities.)
+
+- Invited talk in ACS Spring and CCE
+    
+- 6 papers with decent journals, including 1 corresponding author
+    
+- Oral presentation and session chair in NAM29
+    
+- Hiring a postdoctoral researcher in EED for BES with Huamin
+    
+
+Q4 **What could be amazing in the new FY?** (List new opportunities on the horizon or areas of continued focus related to goals and career development. This can include barriers that management can remove, assistance the manager can provide, areas of development that would be of benefit, etc.)
+
+- It is still challenging, but will be amazing if you have additional funding in AI/ML project
+    
 - Will try to organize ACS symposium
 
 
