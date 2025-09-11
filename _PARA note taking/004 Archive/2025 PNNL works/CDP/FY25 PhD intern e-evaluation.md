@@ -168,14 +168,16 @@ Guidance: Provide a summary of staff member's progress and accomplishments towar
 5 - Distinguished
 
 ## Manager comments revised by SKim
-Jiande has demonstrated strong performance during FY25. He shows outstanding scientific and technical knowledge, with clear progress toward developing expertise in his polymer project area. His initiative, enthusiasm, and ownership of work would be impressive, as his ability to communicate effectively and build positive professional relationships with team and collegues.  
+Boda has delivered an exceptional year of performance, making significant scientific contributions to the polymer project and publishing his work in _Science_ and _JACS Au_, which underscores both the quality and impact of his research. He demonstrates distinguished scientific and technical knowledge, coupled with strong problem-solving skills and innovative thinking. Boda consistently shows enthusiasm, ownership, and dedication to achieving results, setting a high standard of initiative and effort. This would be a results from not only his own efforts, but also his productive collaborations. Therefore, his overall contributions and achievements during this fiscal year are outstanding.
 
-Jiande is resourceful in problem solving and willing to explore new approaches, while also steadily developing his technical skills and knowledge. He consistently meets expectations in planning, implementation, adaptability, and professional standards. In this regard, Jiande has performed at an outstanding level, contributing meaningfully to the team and showing strong potential for future growth.
+Boda’s accomplishments reflect a distinguished level of performance, marking him as a highly valuable contributor with strong potential for continued impact.
 
 
 
 ## Manager comments from AI
-Julia has demonstrated strong performance during her internship. She shows outstanding scientific and technical knowledge, with clear progress toward developing expertise in her project area. Her initiative, enthusiasm, and ownership of work are particularly impressive, as is her ability to communicate effectively and build positive professional relationships. Julia is resourceful in problem solving and willing to explore new approaches, while also steadily developing her technical skills and knowledge. She consistently meets expectations in planning, implementation, adaptability, and professional standards, and often exceeds them in areas of collaboration and interpersonal effectiveness. Overall, Julia has performed at an outstanding level, contributing meaningfully to the team and showing strong potential for future growth.
+Boda has delivered an exceptional year of performance, making significant scientific contributions to the polymer project and publishing his work in _Science_ and _JACS Au_, which underscores both the quality and impact of his research. He demonstrates distinguished scientific and technical knowledge, coupled with strong problem-solving skills and innovative thinking. Boda consistently shows enthusiasm, ownership, and dedication to achieving results, setting a high standard of initiative and effort. This would be a results from not only his own efforts, but also his productive collaborations. Therefore, his overall contributions and achievements during this fiscal year are outstanding.
+
+Boda’s accomplishments reflect a distinguished level of performance, marking him as a highly valuable contributor with strong potential for continued impact.
 
 
 
