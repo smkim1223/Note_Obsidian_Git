@@ -64,6 +64,8 @@ Finally, her **communication skills** stand out as exceptional, as she consisten
 Julia has made significant progress toward her goals and has exceeded expectations in many areas. Her contributions to the project have been of high value, and her skills, dedication, and drive are truly commendable.
 
 
+
+
 # Jiande
 ## Evaluation
 ### Scientific/Technical Knowledge Scientific/Technical Knowledge 
@@ -114,6 +116,11 @@ Julia has consistently contributed helpful suggestions for the project and demon
 I believe Julia has been successful in organizing her research tasks effectively to meet her goals, which furtehr leads to developing her skills through collaboration and educational opportunities.  
 
 Lastly, Julia working collaboratively with others. Her communication with others stand out, as she consistently conveys information in a clear and concise manner.
+
+
+
+## Manager comments from AI
+Julia has demonstrated strong performance during her internship. She shows outstanding scientific and technical knowledge, with clear progress toward developing expertise in her project area. Her initiative, enthusiasm, and ownership of work are particularly impressive, as is her ability to communicate effectively and build positive professional relationships. Julia is resourceful in problem solving and willing to explore new approaches, while also steadily developing her technical skills and knowledge. She consistently meets expectations in planning, implementation, adaptability, and professional standards, and often exceeds them in areas of collaboration and interpersonal effectiveness. Overall, Julia has performed at an outstanding level, contributing meaningfully to the team and showing strong potential for future growth.
 
 
 
