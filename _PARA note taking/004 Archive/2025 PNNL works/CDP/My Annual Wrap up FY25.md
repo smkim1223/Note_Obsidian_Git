@@ -31,6 +31,50 @@
 - It is still challenging, but will be amazing if you have additional funding in AI/ML
 - Will try to organize ACS symposium
 
+
+
+## Al results
+### bullet points
+#### Q1: **What worked well this year?**
+
+This year, several accomplishments, milestones, and achievements demonstrated consistent progress and adaptability:
+
+- After the BES renewal, I took an active role in preparing the response, aligning with DOE guidance, and contributing meaningfully.
+- We successfully wrapped up the BES polymer progress (FWP 78459) with a no-cost extension (NCE) approval. Furthermore, the BES response has allowed us to continue the polymer project within the BES catalysis framework.
+- Despite Johannes' resignation, measures were implemented to minimize program and team disruptions. We prioritized supporting PhD students and fostering their academic progress toward timely graduation.
+- I explored a new opportunity by collaborating with a data scientist on a cross-directorate LDRD program.
+
+---
+
+#### Q2: **What didn’t work well this year?**
+
+This year presented challenges that highlighted areas for improvement:
+
+- SPP projects faced notable setbacks, with proposals to BASF, Total Energy, and UOP unfortunately being declined.
+- The EFRC CD4DC program decided not to include PNNL in its next renew cycle. This decision significantly impacted Yinjie’s research continuity. To address this, we transitioned Yinjie to the Technical University of Munich, ensuring the progression of her research and PhD work.
+
+---
+
+#### Q3: **Describe the status/progress on fiscal year goals.**
+
+Fiscal year goals were successfully accomplished in several key areas, with some adaptations to align with shifting priorities:
+
+- Delivered an invited talk at both the ACS Spring meeting and CCE.
+- Authored 6 papers published in reputable journals, including one as corresponding author.
+- Presented an oral presentation and served as session chair at NAM29.
+- Collaborated with Huamin to hire a new postdoctoral researcher in EED for the BES team.
+
+---
+
+#### Q4: **What could be amazing in the new FY?**
+
+Looking ahead, there are promising opportunities that offer potential for impactful contributions and personal development:
+
+- Given the challenges, it would be transformative to secure additional funding for the AI/ML project, enabling further innovation.
+- I aim to organize an ACS symposium, which would provide valuable visibility and foster collaborations within the scientific community.
+
+
+
 ### AI query
 I have to draft a coaching and development program for wrapping this and objecting next fiscal year. For the following questions I would need you to write down in a statement sentences from my summary.
 
