@@ -31,7 +31,7 @@
 - It is still challenging, but will be amazing if you have additional funding in AI/ML
 - Will try to organize ACS symposium
 
-## AI query
+### AI query
 I have to draft a coaching and development program for wrapping this and objecting next fiscal year. For the following questions I would need you to write down in a statement sentences from my summary.
 
 Q1 What worked well this year? (This can include accomplishments, milestones, and achievements.)
@@ -68,6 +68,9 @@ Q4 **What could be amazing in the new FY?** (List new opportunities on the hori
 - It is still challenging, but will be amazing if you have additional funding in AI/ML project
     
 - Will try to organize ACS symposium
+
+
+## 
 
 
 # FY24
