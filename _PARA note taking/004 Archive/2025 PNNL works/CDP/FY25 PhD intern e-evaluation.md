@@ -88,11 +88,11 @@ Description : Staff driven development. Seeks out and exchanges technical inform
 
 ### Professional Networking Professional Networking 
 Description : Works effectively with others to accomplish goals and resolve problems. Earns the respects of others and uses appropriate communication styles and methods to promote ideas and maintain positive working relationships.
-3 - Successful
+4 - Outstanding
 
 ### Professional & Organization Standards Professional & Organization Standards 
 Description : Demonstrates compliance, understanding and promotion of PNNL standards in all areas, without having to be reminded (e.g. ETR, travel, clearances, etc.). Contributes to a team environment.
-4 - Outstanding
+3 - Successful
 
 ### Tolerance for Ambiguity Tolerance for Ambiguity 
 Description : Can effectively cope with change; shift gears comfortably; can decide and act without having the total picture; isn’t upset when things are up in the air; can set aside tasks to move towards higher value activities; can comfortably handle risk and uncertainty.
