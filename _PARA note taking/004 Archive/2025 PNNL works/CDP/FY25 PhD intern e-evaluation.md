@@ -157,7 +157,7 @@ Description : Demonstrates compliance, understanding and promotion of PNNL stand
 
 ### Tolerance for Ambiguity Tolerance for Ambiguity 
 Description : Can effectively cope with change; shift gears comfortably; can decide and act without having the total picture; isn’t upset when things are up in the air; can set aside tasks to move towards higher value activities; can comfortably handle risk and uncertainty.
-3 - Successful
+4 - Outstanding
 
 ### Communications/Interpersonal Relationships Communications/Interpersonal Relationships 
 Description : Able to convey, either orally, or in writing, clear, concise and organized communication. Demonstrates customer service and team support skills related to the project/work.
@@ -165,7 +165,7 @@ Description : Able to convey, either orally, or in writing, clear, concise and o
 
 ### Manager Summary and Rating Section: Manager Summary and Rating 
 Guidance: Provide a summary of staff member's progress and accomplishments towards established goals, overall performance assessment and rating for the fiscal year. (Required).
-4 - Outstanding
+5 - Distinguished
 
 ## Manager comments revised by SKim
 Jiande has demonstrated strong performance during FY25. He shows outstanding scientific and technical knowledge, with clear progress toward developing expertise in his polymer project area. His initiative, enthusiasm, and ownership of work would be impressive, as his ability to communicate effectively and build positive professional relationships with team and collegues.  
