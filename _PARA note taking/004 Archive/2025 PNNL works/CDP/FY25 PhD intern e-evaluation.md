@@ -192,6 +192,9 @@ Julia has demonstrated strong performance during her internship. She shows outst
 
 
 
+
+
+
 # SKim evaluation comments
 ## 2022
 Sungmin has a very good background that has helped him contribute to the project as well as to other projects with similar objectives.
