@@ -72,7 +72,7 @@ Description : Demonstrates general knowledge in all aspects of science pertainin
 
 ### Technical Problem Solving/Innovation Technical Problem Solving/Innovation 
 Description : Asks good questions, and secures relevant information in the problem solving process. Contributes to the identification of key issues and potential causes, and applies technical knowledge to analyzing and solving work-related problems. Meet challenges with resourcefulness, and is open to exploring different and novel approaches.
-4 - Outstanding
+3 - Successfulg
 
 ### Planning & Implementation Planning & Implementation 
 Description : Establishes a course of action to accomplish a specific goal. Plans tasks and resources and sets a schedule of actions to complete tasks. Communicates needs and effectively fulfills tasks requirements.
