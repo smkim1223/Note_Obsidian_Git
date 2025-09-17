@@ -25,12 +25,14 @@
             "id": "8f9a8892ca9a1145",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250731 큰 부자 만들어 줄 미래 성장 섹터 - 장수과학.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "20250731 큰 부자 만들어 줄 미래 성장 섹터 - 장수과학"
             }
           }
         ],
@@ -88,7 +90,7 @@
             }
           },
           {
-            "id": "bbd9210641989ad2",
+            "id": "57f7b38a23a3f517",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -216,7 +218,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "8f9a8892ca9a1145",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/Nancy_Al data curation/202509 SKim's feedback.md",
