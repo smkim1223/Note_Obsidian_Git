@@ -11,12 +11,14 @@
             "id": "7a1ed09d8186e411",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20250910111629.png"
+                "file": "Clippings/윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 7화.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250910111629"
+              "icon": "lucide-file",
+              "title": "윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 7화"
             }
           }
         ]
@@ -202,6 +204,9 @@
   },
   "active": "7a1ed09d8186e411",
   "lastOpenFiles": [
+    "Clippings/Doctor Of Credit.md",
+    "Clippings/윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 7화.md",
+    "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
     "Images/Pasted image 20250910110629.png",
     "Images/Pasted image 20250910105331.png",
@@ -227,7 +232,6 @@
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/FY25 SKim Annual Wrap up.md",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/FY25 PhD intern e-evaluation.md",
-    "Images/Pasted image 20250910111629.png",
     "Images",
     "_PARA note taking/001 Project/Research/Nancy_Al data curation/202509 SKim's feedback.md",
     "_PARA note taking/001 Project/Research/Nancy_Al data curation",
@@ -236,7 +240,6 @@
     "Pasted image 20250910110629.png",
     "Pasted image 20250910105331.png",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/003 Gemini Proposal.md",
-    "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/002 Perplexity proposal.md",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
     "_PARA note taking/001 Project/Research/001 AI prompt",
