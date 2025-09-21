@@ -4,263 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f08b6c7f0b85b01d",
+        "id": "6ffe9e49fafa0155",
         "type": "tabs",
         "children": [
           {
-            "id": "589bd7b1e3f122a7",
+            "id": "7a1ed09d8186e411",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기"
-            }
-          },
-          {
-            "id": "389f01b7235f859d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기"
-            }
-          },
-          {
-            "id": "e4f79abef8101800",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기"
-            }
-          },
-          {
-            "id": "ba602e39caece162",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250627 나라별 큰 부자 만들어 줄 핵심 산업"
-            }
-          },
-          {
-            "id": "f9604e6ea10eda9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250627 나라별 큰 부자 만들어 줄 핵심 산업"
-            }
-          },
-          {
-            "id": "605ad3383db1af92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250627 나라별 큰 부자 만들어 줄 핵심 산업"
-            }
-          },
-          {
-            "id": "129bc08bb73fa9e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250627 나라별 큰 부자 만들어 줄 핵심 산업"
-            }
-          },
-          {
-            "id": "95395e2c651af6aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250627 나라별 큰 부자 만들어 줄 핵심 산업"
-            }
-          },
-          {
-            "id": "fb03f4e0792a6f02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250627 나라별 큰 부자 만들어 줄 핵심 산업"
-            }
-          },
-          {
-            "id": "89943d8b5f4be5c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250630 가장 빠르게 큰 부자되는 미래가치 투자 방법 1탄.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250630 가장 빠르게 큰 부자되는 미래가치 투자 방법 1탄"
-            }
-          },
-          {
-            "id": "5b6af15557a8ebd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250707 금융 부자들이 활용하는 매도 타이밍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250707 금융 부자들이 활용하는 매도 타이밍"
-            }
-          },
-          {
-            "id": "36feb93b5b4d4028",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터"
-            }
-          },
-          {
-            "id": "9c381007f514dd76",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250805 큰 부자 만들어 줄 섹터 답안지.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250805 큰 부자 만들어 줄 섹터 답안지"
-            }
-          },
-          {
-            "id": "25f110cb018d72f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250805 큰 부자 만들어 줄 섹터 답안지.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250805 큰 부자 만들어 줄 섹터 답안지"
-            }
-          },
-          {
-            "id": "93b5781f2182a3ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250731 큰 부자 만들어 줄 미래 성장 섹터 - 장수과학.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250731 큰 부자 만들어 줄 미래 성장 섹터 - 장수과학"
-            }
-          },
-          {
-            "id": "7255efe2bb188b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250704 30년에 한번 오는 큰 부자될 기회.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250704 30년에 한번 오는 큰 부자될 기회"
-            }
-          },
-          {
-            "id": "60bd691433307f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터"
-            }
-          },
-          {
-            "id": "159b098e10b63c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 17
+        ]
       }
     ],
     "direction": "vertical"
@@ -314,7 +71,7 @@
             }
           },
           {
-            "id": "57f7b38a23a3f517",
+            "id": "4020ce2b0b191a38",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -323,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -442,27 +198,29 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "159b098e10b63c7b",
+  "active": "7a1ed09d8186e411",
   "lastOpenFiles": [
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
-    "conflict-files-obsidian-git.md",
+    "Papers.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250704 30년에 한번 오는 큰 부자될 기회.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250731 큰 부자 만들어 줄 미래 성장 섹터 - 장수과학.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250805 큰 부자 만들어 줄 섹터 답안지.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250727 단 한 번의 폭락장으로 평생 부자되는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250725 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 3(위성통신 네트워크 및 우주 데이터.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250707 금융 부자들이 활용하는 매도 타이밍.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250702 미래의 1등 대장주 찾는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250630 가장 빠르게 큰 부자되는 미래가치 투자 방법 1탄.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250629 테슬라, 엔비디아 처럼 미래에 엄청난 부자 만들어 줄 기업 발굴하는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250625 이 주식이 싼지 비싼지 10초 만에 판단하는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 피부과 의료기기.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "conflict-files-obsidian-git.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250727 단 한 번의 폭락장으로 평생 부자되는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250702 미래의 1등 대장주 찾는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250629 테슬라, 엔비디아 처럼 미래에 엄청난 부자 만들어 줄 기업 발굴하는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250625 이 주식이 싼지 비싼지 10초 만에 판단하는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250614 국장에서 폭발적으로 성장할 산업과 대장주 고르는 방법 - 우주항공(방위산업).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250613 은행이 절대 말하지 않는 비밀.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/FY25 SKim Annual Wrap up.md",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/FY25 PhD intern e-evaluation.md",
-    "Untitled 1.md",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
     "Images/Pasted image 20250910110629.png",
@@ -479,8 +237,6 @@
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/001 Prompt for the proposal.md",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/002 Science_PVC highlight for word.md",
-    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for word.md",
-    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/001 JACS_C1-C4 highlight for PPT.md",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
     "_PARA note taking/001 Project/Research/001 AI prompt",
     "_PARA note taking/003 Resources/Coffee",
