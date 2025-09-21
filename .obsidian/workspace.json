@@ -11,10 +11,12 @@
             "id": "7a1ed09d8186e411",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20250910111629.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250910111629"
             }
           }
         ]
@@ -200,6 +202,10 @@
   },
   "active": "7a1ed09d8186e411",
   "lastOpenFiles": [
+    "Images/Pasted image 20250910111333.png",
+    "Images/Pasted image 20250910110629.png",
+    "Images/Pasted image 20250910105331.png",
+    "Welcome.md",
     "Papers.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250704 30년에 한번 오는 큰 부자될 기회.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250731 큰 부자 만들어 줄 미래 성장 섹터 - 장수과학.md",
@@ -222,9 +228,6 @@
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/FY25 SKim Annual Wrap up.md",
     "_PARA note taking/004 Archive/2025 PNNL works/CDP/FY25 PhD intern e-evaluation.md",
     "Images/Pasted image 20250910111629.png",
-    "Images/Pasted image 20250910111333.png",
-    "Images/Pasted image 20250910110629.png",
-    "Images/Pasted image 20250910105331.png",
     "Images",
     "_PARA note taking/001 Project/Research/Nancy_Al data curation/202509 SKim's feedback.md",
     "_PARA note taking/001 Project/Research/Nancy_Al data curation",
@@ -234,9 +237,7 @@
     "Pasted image 20250910105331.png",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/003 Gemini Proposal.md",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/002 Perplexity proposal.md",
-    "_PARA note taking/001 Project/Proposal/Recovery for Critical materials/001 Prompt for the proposal.md",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials",
-    "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight/002 Science_PVC highlight for word.md",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
     "_PARA note taking/001 Project/Research/001 AI prompt",
     "_PARA note taking/003 Resources/Coffee",
