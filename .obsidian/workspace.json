@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250922 남의 돈으로 전통산업 방어하는 미국의 숨은 목적 (14).md",
+                "file": "Clippings/20250922 평생 흔들리지 않는 저점 분할매수 공식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250922 남의 돈으로 전통산업 방어하는 미국의 숨은 목적 (14)"
+              "title": "20250922 평생 흔들리지 않는 저점 분할매수 공식"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "4020ce2b0b191a38",
+            "id": "4d7c62004f8e3f76",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250726 금융 패권자들이 준비중인 미래의 거대한 변화.md",
+                "file": "Clippings/20250922 평생 흔들리지 않는 저점 분할매수 공식.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250726 금융 패권자들이 준비중인 미래의 거대한 변화"
+              "title": "Outline of 20250922 평생 흔들리지 않는 저점 분할매수 공식"
             }
           },
           {
@@ -181,9 +181,19 @@
               "icon": "wand-sparkles",
               "title": "Smart composer chat"
             }
+          },
+          {
+            "id": "7d7be65fad24c3f6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -203,10 +213,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "7a1ed09d8186e411",
+  "active": "e31070ef2ce98d44",
   "lastOpenFiles": [
-    "Clippings/20250921 25년 지금! 큰 부자 만들어 줄 미래 답안지.md",
+    "Untitled.canvas",
+    "Clippings/20250922 평생 흔들리지 않는 저점 분할매수 공식.md",
+    "2025-09-24.md",
     "Clippings/20250922 남의 돈으로 전통산업 방어하는 미국의 숨은 목적 (14).md",
+    "Untitled.base",
+    "Clippings/20250921 25년 지금! 큰 부자 만들어 줄 미래 답안지.md",
     "Clippings/20250921 행복한 부자의 삶이 이뤄지는 오늘!.md",
     "Clippings/20250919 돈의 시작과 끝 행복한 부자 - 14편 (보이지 않는 가장 무서운 세금 인플레이션).md",
     "Clippings/20250919 글로벌 금융위기로 모두가 처참히 무너질 때 - 금융 부자들이 더 큰 부자가 되는 비밀 행동.md",
@@ -228,9 +242,6 @@
     "Clippings/20250914 중요한 결정 공지합니다.md",
     "Clippings/20250913 아무것도 모르는 바보도 부자만들어 줄 주식!.md",
     "Clippings/20250913 망고 요거트🥭 - 경제 금융 용어 쉽게 떠먹여주기 10.md",
-    "Clippings/20250912 돈의 시작과 끝 행복한 부자 - 8편 (위기와 기회 경제 위기는 어떻게 오고! 왜 그 순간 부자가 태어나는가).md",
-    "Clippings/20250912 큰 부자 만들어 줄 미래 성장 섹터 - 무선 전력 전송 플랫폼.md",
-    "Clippings/20250912 미국이 해외 핵심기업들 까지 모두 흡수시키는 방법 (20).md",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
     "Images/Pasted image 20250910110629.png",
@@ -248,7 +259,6 @@
     "_PARA note taking/004 Archive/Paper and scholar/Experimental description",
     "_PARA note taking/004 Archive/Paper and scholar",
     "_PARA note taking/004 Archive/2025 PNNL works/Peer review",
-    "_PARA note taking/004 Archive/2025 PNNL works/CDP",
     "Pasted image 20250715002834.png"
   ]
 }
