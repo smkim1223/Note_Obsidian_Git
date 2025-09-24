@@ -80,11 +80,11 @@ Given the extent of required revisions, I suggest this work would benefit from s
 
 **Recommendation:** Reject - Major revisions required before consideration at ACS Catalysis
 
-## Overall Assessment
+### Overall Assessment
 
 While the concept of using ALD Fe2O3 coatings to enhance Pd/Al2O3 catalyst performance for dry reforming of methane (DRM) is scientifically interesting, this manuscript contains several fundamental experimental and analytical flaws that significantly compromise the reliability and validity of the conclusions. The work requires substantial additional experimentation and analysis before it meets the standards expected for publication in ACS Catalysis.
 
-## Specific Point-by-Point Comments
+### Specific Point-by-Point Comments
 
 ### 1. Catalyst Preparation and Activation (p.5)
 
@@ -194,7 +194,7 @@ While the concept of using ALD Fe2O3 coatings to enhance Pd/Al2O3 catalyst perfo
 
 **Comment:** XPS analysis of coked catalysts has limited penetration depth (~10 nm). Changes in Fe signals may not reliably indicate Fe2O3 acting as a "sacrificial layer" if coke deposits exceed XPS sampling depth. Alternative bulk characterization methods are needed to support these conclusions.
 
-## Recommendation
+### Recommendation
 
 This manuscript requires major revisions addressing fundamental experimental design flaws before it can be considered suitable for publication in ACS Catalysis. The current work falls short of the rigorous experimental standards expected for this premier catalysis journal.
 
