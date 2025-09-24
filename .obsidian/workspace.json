@@ -4,149 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b7518fd1c88367d1",
+        "id": "e5cb4c1438a40a42",
         "type": "tabs",
         "children": [
           {
-            "id": "7204097f1f2f32ad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "mk-ever-view",
-              "state": {},
-              "pinned": true,
-              "icon": "columns",
-              "title": "Overview"
-            }
-          },
-          {
-            "id": "49501215fa1f54d4",
+            "id": "b04ca55df74c4246",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250813 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 8화.md",
+                "file": "_PARA note taking/004 Archive/2025 PNNL works/Peer review/202509 .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250813 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 8화"
-            }
-          },
-          {
-            "id": "b25f4fef77ce56a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250814 앞으로 우리 앞에 다가올 부동산의 시장과 은행의 숨은 진실과 미래!.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250814 앞으로 우리 앞에 다가올 부동산의 시장과 은행의 숨은 진실과 미래!"
-            }
-          },
-          {
-            "id": "b4fd809e31fbf48f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250815 외계문자 해설 풀이🛸.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250815 외계문자 해설 풀이🛸"
-            }
-          },
-          {
-            "id": "38f5be1ed5a4d20d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250815 금융부자들이 인플레이션과 스태그플레이션 때도 자산을 지키고 불리는 진짜 안전자산은.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250815 금융부자들이 인플레이션과 스태그플레이션 때도 자산을 지키고 불리는 진짜 안전자산은"
-            }
-          },
-          {
-            "id": "2f688ddce84d7109",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250815 금융부자들이 인플레이션과 스태그플레이션 때도 자산을 지키고 불리는 진짜 안전자산은.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250815 금융부자들이 인플레이션과 스태그플레이션 때도 자산을 지키고 불리는 진짜 안전자산은"
-            }
-          },
-          {
-            "id": "ef9dedf85c1fee6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250817 미국과 중국의 칩 전쟁 그 중심에 있는 엔비디아의 H20 진짜 이야기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250817 미국과 중국의 칩 전쟁 그 중심에 있는 엔비디아의 H20 진짜 이야기"
-            }
-          },
-          {
-            "id": "1c005504863eb5b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250817 트럼프와 푸틴의 정상회담 이면의 진실 파악하기.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250817 트럼프와 푸틴의 정상회담 이면의 진실 파악하기"
-            }
-          },
-          {
-            "id": "fe259193d988cd6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250818 주식시장 하루 10% 이상 대폭락이 왔던 순간들.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250818 주식시장 하루 10% 이상 대폭락이 왔던 순간들"
-            }
-          },
-          {
-            "id": "f08af2e8f257b58c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/20250818 AI 패권전쟁, 챗GPT의 미국과 딥시크의 중국 - 숨은 이면의 진실.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250818 AI 패권전쟁, 챗GPT의 미국과 딥시크의 중국 - 숨은 이면의 진실"
+              "title": "202509"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -328,20 +202,22 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "b04ca55df74c4246",
   "lastOpenFiles": [
+    "_PARA note taking/004 Archive/Paper and scholar/Paper and scholar.md",
+    "_PARA note taking/004 Archive/2025 PNNL works/Peer review/202509 .md",
     "Clippings/20250818 AI 패권전쟁, 챗GPT의 미국과 딥시크의 중국 - 숨은 이면의 진실.md",
-    "conflict-files-obsidian-git.md",
     "Clippings/20250818 주식시장 하루 10% 이상 대폭락이 왔던 순간들.md",
     "Clippings/20250817 트럼프와 푸틴의 정상회담 이면의 진실 파악하기.md",
     "Clippings/20250817 미국과 중국의 칩 전쟁 그 중심에 있는 엔비디아의 H20 진짜 이야기.md",
-    "Clippings/20250816 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 10화.md",
-    "Clippings/20250816 데이터센터의 폭발적 증가로 기존 전력망의 존재 가치가 사라지는 순간.md",
     "Clippings/20250815 금융부자들이 인플레이션과 스태그플레이션 때도 자산을 지키고 불리는 진짜 안전자산은.md",
     "Clippings/20250815 외계문자 해설 풀이🛸.md",
-    "Clippings/20250814 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 9화.md",
     "Clippings/20250814 앞으로 우리 앞에 다가올 부동산의 시장과 은행의 숨은 진실과 미래!.md",
     "Clippings/20250813 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 8화.md",
+    "conflict-files-obsidian-git.md",
+    "Clippings/20250816 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 10화.md",
+    "Clippings/20250816 데이터센터의 폭발적 증가로 기존 전력망의 존재 가치가 사라지는 순간.md",
+    "Clippings/20250814 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 9화.md",
     "_PARA note taking/001 Project/Research/C-C coupling and condensation/Introduction.md",
     "_PARA note taking/001 Project/Research/Nancy_Al data curation/202509 SKim's feedback.md",
     "_PARA note taking/001 Project/Proposal/DMC and DEC/Development of heterogeneous catalysis for DMC and DEC.md",
@@ -354,8 +230,6 @@
     "Clippings/20250812 경제 위기를 기회로 만드는 가장 쉬운 방법들 총정리!.md",
     "Clippings/20250811 트럼프 관세의 숨겨진 진짜 목적.md",
     "Clippings/20250811 미래 에너지 산업 1 - 초소형 모듈 원자로(SMR) 및 핵융합 에너지 플랫폼.md",
-    "Clippings/20250810 주가 하락장에서 금융 부자들이 돈 버는 법 - 인버스 ETF와 공매도.md",
-    "Clippings/20250810 경제위기 때 가장 빠르게 부자되는 행동.md",
     "Images/Pasted image 20250910105331.png",
     "Images/Pasted image 20250910110629.png",
     "Images",
