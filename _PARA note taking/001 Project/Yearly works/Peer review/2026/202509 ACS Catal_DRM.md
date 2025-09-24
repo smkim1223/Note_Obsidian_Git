@@ -198,14 +198,6 @@ While the concept of using ALD Fe2O3 coatings to enhance Pd/Al2O3 catalyst perfo
 
 This manuscript requires major revisions addressing fundamental experimental design flaws before it can be considered suitable for publication in ACS Catalysis. The current work falls short of the rigorous experimental standards expected for this premier catalysis journal.
 
-## Gemini research summary
-
-
-## PNNL AI incubator summary
-
-
-
-
 
 # Note summary
 Wang et al. Improved Coking Resistance and Thermal Stability of Pd/Al2O3 Catalyst by Atomic Layer Deposition of Iron Oxide for Dry Reforming of Methane. ACS Catalysis
@@ -275,3 +267,27 @@ p.11: The activation energies (Figure 4c), determined from the slopes on the Arr
 
 p.12: The change in Fe signal could be attributed to Fe oxide acting as a sacrificial layer for the Pd metal, and the Fe oxide was encapsulated by the random carbon deposits.62, 63 -- Highlight, Sep 24, 2025, 13:52
 | How much of the penetration depth of XPS, not enough to go into or throuhg the coating of coke? -- Note on Highlight, Sep 24, 2025, 13:52
+
+
+# SKim's draft
+Wang _et al._ present presents a study on the modification of Pd/Al2O3 catalyst for dry reforming of methane (DRM) reaction. The authors have successfully deposited Fe2O3 layers via atomic layer deposition (ALD) onto Pd/Al2O3 catalyst, which improves thermal stability and coke resistance. While the concept of surface modification with ALD is a valid and intriguing area of research, the present manuscript, in its current form, is not suitable for publication in ACS Catalysis. The work lacks the necessary scientific rigor, convincing data, and substantiated claims required for a top-tier journal in the field of catalysis. The fundamental claims of catalyst synthesis and performance are not supported by the provided characterization data. The work requires substantial additional experimentation and analysis before it meets the standards expected for publication in ACS Catalysis.
+
+1.     For catalyst preparation, after calcination at 500°C in air for 6 hours to remove organics and nitrates, the Pd would be present as PdO. However, no reduction step is described before DRM testing. This is a critical omission as the activation protocol directly affects the active phase and catalytic performance. The authors need to provide detailed catalyst activation procedures.
+
+2.     Regarding ALD Process, the selection of only 20 ALD cycles appears arbitrary without systematic optimization. A study examining different numbers of ALD cycles (e.g., 5, 10, 15, 20, 30 cycles) is essential to understand the structure-activity relationship and determine the optimal Fe2O3 thickness for DRM performance.
+
+3.     For ensuring the conformal Fe2O3 layer deposition, the calculation of Fe2O3 thickness (~0.4 nm) lacks mathematical details. Given the assumption of uniform coverage over complex Al2O3 phases, detailed equations and underlying assumptions must be provided and validated. Besides, By given statement a mixture of Al2O3 phases, it questions how the authors can provide the corresponding thickness with mass and the surface area of Pd/Al2O3. The presence of multiple Al2O3 phases with different -OH densities may be challenges to obtain uniform ALD growth assumptions. HR-TEM or IR spectroscopy evidence across different ALD cycles would strengthen claims about conformal deposition. Lastly, the TEM images given in this work show Fe dispersion but do not conclusively demonstrate conformal layer formation. More definitive microscopic evidence or alternative characterization techniques are needed to support conformal coating claims.
+
+4.     For benchmark catalyst IWI Fe2O3-Pd/Al2O3, the morphological evolution of IWI-deposited Fe2O3 during preparation steps needs characterization to understand further whether IWI forms layers or particles compared to ALD. This would be crucial for meaningful comparison between the two deposition methods.
+
+5.     In CO-O2 pulse measure, the authors monitor CO2 formation; however, it cannot distinguish CO2 from either PdO reduction or  Fe2O3 reduction. Moreover, Fe2O3 ALD layer may restrict access to surface PdO, but how it enhances the reducibility and results in 300 µmol/g. It questions that the reduction of Fe2O3, not purely by PdO reduction. This ambiguity undermines claims about PdO-Fe2O3 interactions. The authors can consider control experiments with Fe2O3/Al2O3.
+
+6.     The authors may consider discussing the textural properties about the porosity changes of Pd/Al2O3 with Fe2O3 ALD deposition: (i) calcination at 900°C creates multiple Al2O3 phases with varying surface properties. Phase identification and textural characterization before and after ALD deposition are essential to understand the ALD growth mechanism and its impact on catalyst properties. (ii) the significant surface area decrease (130 to 100 m²/g) after ALD deposition may contradict with the authors claim about no pore blockage. Detailed pore size distribution analysis and discussion of how such a decrease occurs without pore blocking are required. And (iii) The authors discussed porosity creation in Fe2O3 layer after 900°C calcination, but it has been lack, thus, the authors consider N2 physisorption for characterizing pore size distribution to validate these structural changes.
+
+7.     For quantitatively analysis during DRM, the manuscript lacks proper quantitative analysis methodology. DRM involves volume expansion, yet no internal standard (N2) was quantified using MS quantification due to interference with CO (m/z=28). The authors must provide detailed equations for conversion and selectivity calculations and validate their quantitative approach. DRM light-off analysis also further requires both CH4 and CO2 conversion data. Again, the quantitative reliability is compromised without internal standards, especially considering potential CO/N2 spectral overlap in MS analysis.
+
+8.     The coking experiments using 5% CH4/N2 at 900°C represent methane decomposition rather than DRM coking conditions. This does not properly assess coking resistance under actual DRM conditions where both CH4 and CO2 are present. The authors should conduct coking studies under realistic DRM feed compositions.
+
+9.     The characterization of CH4-rich conditions as "severe" is questionable. Severe DRM conditions typically involve high concentrations of both reactants or lower temperatures where coking is more problematic by considering methane decomposition and boudoudard reactions. The authors should better justify their condition selection.
+
+10.  The apparent activation energies would give the intrinsic temperature dependence of the catalyst for DRM. The authors would be encouraged to further discuss how Pd/Al2O3 with IWI Fe2O3 and ALD Fe2O3 can change the temperature dependence compared to Pd/Al2O3 and Fe2O3/Al2O3. This would provide mechanistic insights into the role of Fe2O3 location and morphology.
