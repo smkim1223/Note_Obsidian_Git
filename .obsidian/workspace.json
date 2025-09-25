@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e5cb4c1438a40a42",
+        "id": "6ffe9e49fafa0155",
         "type": "tabs",
         "children": [
           {
-            "id": "b04ca55df74c4246",
+            "id": "c5db21f354c77e08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Yearly works/Peer review/2026/202509 ACS Catal_DRM.md",
+                "file": "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202509 ACS Catal_DRM"
-            }
-          },
-          {
-            "id": "c04e6830c7a460e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/001 Project/Research/Polymer conversion by Alkylation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polymer conversion by Alkylation"
+              "title": "20250925 2025년판 윌리엄의 투자 원칙 리스트"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +75,7 @@
             }
           },
           {
-            "id": "5c36fa18433de21c",
+            "id": "4d7c62004f8e3f76",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -99,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -167,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/20250726 금융 패권자들이 준비중인 미래의 거대한 변화.md",
-                "followCursor": false,
-                "showSearch": false,
+                "file": "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
+                "followCursor": true,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250726 금융 패권자들이 준비중인 미래의 거대한 변화"
+              "title": "Outline of 20250925 2025년판 윌리엄의 투자 원칙 리스트"
             }
           },
           {
@@ -195,13 +181,23 @@
               "icon": "wand-sparkles",
               "title": "Smart composer chat"
             }
+          },
+          {
+            "id": "7d7be65fad24c3f6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 560.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,25 +213,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c04e6830c7a460e3",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/Polymer conversion by Alkylation.md",
-    "Clippings/20250926 역사를 바꾸는 오늘.md",
-    "Clippings/20250925 미국의 숨은 전략! 자본 흡수 - 달러와 국채 완벽 방어 - 패권 강화의 숨은 진실! (11).md",
     "Clippings/20250925 돈의 시작과 끝 행복한 부자 - 16편 (거대한 돈의 흐름을 알아야 큰 부자된다).md",
     "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250809 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 7화.md",
-    "Untitled.md",
-    "_PARA note taking/001 Project/Yearly works/Peer review/2026/202509 ACS Catal_DRM.md",
-    "_PARA note taking/004 Archive/2025 PNNL works/Peer review/202507 Chem Catalysis_note and summary.md",
-    "_PARA note taking/004 Archive/2025 PNNL works/Peer review/202507 Chem Catalysis_Review draft.md",
-    "Untitled.canvas",
-    "Untitled.base",
-    "Temp/Welcome.md",
-    "Temp/Untitled.md",
-    "Temp/Untitled 1.md",
-    "Temp/Papers.md",
+    "Clippings/20250926 역사를 바꾸는 오늘.md",
+    "Clippings/20250925 미국의 숨은 전략! 자본 흡수 - 달러와 국채 완벽 방어 - 패권 강화의 숨은 진실! (11).md",
+    "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250924 진정한 탐욕의 끝! 고점을 파악하는 소름돋는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250924 미국이 관세 협상으로 약한 국가에게 족쇄 채우는 방법 (12).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250923 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 13화 (뉴럴링크..).md",
@@ -247,19 +232,34 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250921 25년 지금! 큰 부자 만들어 줄 미래 답안지.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250919 미국이 미래 패권까지 장악하는 치밀한 방법  (15).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250919 돈의 시작과 끝 행복한 부자 - 14편 (보이지 않는 가장 무서운 세금 인플레이션).md",
-    "Images/Pasted image 20250910105331.png",
-    "Images/Pasted image 20250910110629.png",
-    "Images",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250919 글로벌 금융위기로 모두가 처참히 무너질 때 - 금융 부자들이 더 큰 부자가 되는 비밀 행동.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250918 현재 금융 패권의 나라가 경제를 장악하는 과정 (16).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250918 투자와 부자의 모든 것.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250918 돈의 시작과 끝 행복한 부자 - 13편 (국민을 위한다는 정부가 세금과 국채로 가두는 원리).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250917 미국이 미래산업 대장주를 초기 단계에 투자하여 길들이는 방법 (17).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250917 래의 1등 대장주 찾는 방법 (1220) - 인재 확보 능력.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250917 돈의 시작과 끝 행복한 부자 - 12편 (보이지 않는 경제 지휘자 중앙은행).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250916 큰 부자 만들어 줄 미래 성장 섹터 - 해양 온도 제어 산업.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/20250916 미국 정부가 대장주가 될 미래 산업 기업들을 족쇄채우는 법 (18).md",
+    "_PARA note taking/001 Project/Yearly works/Peer review/2026",
+    "_PARA note taking/001 Project/Yearly works/Peer review",
+    "_PARA note taking/001 Project/Yearly works",
+    "Untitled.canvas",
+    "Untitled.base",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
+    "Images/Pasted image 20250910110629.png",
+    "Images/Pasted image 20250910105331.png",
+    "Images",
     "_PARA note taking/001 Project/Research/Nancy_Al data curation",
+    "Pasted image 20250910111629.png",
+    "Pasted image 20250910111333.png",
+    "Pasted image 20250910110629.png",
+    "Pasted image 20250910105331.png",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
     "_PARA note taking/001 Project/Research/001 AI prompt",
     "_PARA note taking/003 Resources/Coffee",
-    "_PARA note taking/004 Archive/Paper and scholar/Experimental description",
-    "_PARA note taking/004 Archive/Paper and scholar",
-    "_PARA note taking/004 Archive/2025 PNNL works/Peer review",
     "Pasted image 20250715002834.png"
   ]
 }
