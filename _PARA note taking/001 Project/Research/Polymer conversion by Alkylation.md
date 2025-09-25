@@ -1,1 +1,1 @@
-# 20250925 Note conjua
+# 20250925 Note conjugated Brønsted-Lewis acid catalyst
