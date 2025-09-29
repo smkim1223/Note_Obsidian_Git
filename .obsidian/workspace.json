@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/20250928 한 나라가 국가 부도 디폴트 상태가 되면 금융 부자들이 하는 비밀 행동.md",
+                "file": "Clippings/20250929 CBDC 금지와 민간 스테이블코인이 보여줄 자율성과 신뢰의 힘 (9).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250928 한 나라가 국가 부도 디폴트 상태가 되면 금융 부자들이 하는 비밀 행동"
+              "title": "20250929 CBDC 금지와 민간 스테이블코인이 보여줄 자율성과 신뢰의 힘 (9)"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/20250928 한 나라가 국가 부도 디폴트 상태가 되면 금융 부자들이 하는 비밀 행동.md",
+                "file": "Clippings/20250929 CBDC 금지와 민간 스테이블코인이 보여줄 자율성과 신뢰의 힘 (9).md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250928 한 나라가 국가 부도 디폴트 상태가 되면 금융 부자들이 하는 비밀 행동"
+              "title": "Outline of 20250929 CBDC 금지와 민간 스테이블코인이 보여줄 자율성과 신뢰의 힘 (9)"
             }
           },
           {
@@ -181,13 +181,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9590086ce516a059",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 233.5
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +215,11 @@
   },
   "active": "e31070ef2ce98d44",
   "lastOpenFiles": [
+    "Clippings/20250928 한 나라가 국가 부도 디폴트 상태가 되면 금융 부자들이 하는 비밀 행동.md",
+    "Clippings/20250929 CBDC 금지와 민간 스테이블코인이 보여줄 자율성과 신뢰의 힘 (9).md",
     "Clippings/20250928 2025년판 윌리엄의 투자 원칙 리스트 2.md",
     "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
     "Clippings/20250927 반드시 지켜야 할 순서.md",
-    "Clippings/20250928 한 나라가 국가 부도 디폴트 상태가 되면 금융 부자들이 하는 비밀 행동.md",
     "Clippings/20250927 👽외계문자 해설 풀이3🛸.md",
     "Clippings/20250926 디지털 화폐 대중화가 타국의 통화를 휴지조각으로 만드는 소름돋는 진실 (10).md",
     "Clippings/20250926 역사를 바꾸는 오늘 1.md",
@@ -230,7 +241,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250919 미국이 미래 패권까지 장악하는 치밀한 방법  (15).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250919 돈의 시작과 끝 행복한 부자 - 14편 (보이지 않는 가장 무서운 세금 인플레이션).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250919 글로벌 금융위기로 모두가 처참히 무너질 때 - 금융 부자들이 더 큰 부자가 되는 비밀 행동.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250918 현재 금융 패권의 나라가 경제를 장악하는 과정 (16).md",
     "_PARA note taking/001 Project/Yearly works/Peer review/2026",
     "_PARA note taking/001 Project/Yearly works/Peer review",
     "_PARA note taking/001 Project/Yearly works",
