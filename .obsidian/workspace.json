@@ -11,14 +11,15 @@
             "id": "c5db21f354c77e08",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "aFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250812 행복한 부자가 되기 위해 무엇을 왜 배워야 하는가?.md",
+                "bFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250812 행복한 부자가 되기 위해 무엇을 왜 배워야 하는가?.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: 20250812 행복한 부자가 되기 위해 무엇을 왜 배워야 하는가?"
             }
           }
         ]
@@ -212,12 +213,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "c5db21f354c77e08",
   "lastOpenFiles": [
+    "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
     "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/Polymer conversion by Alkylation.md",
     "Clippings/20250925 돈의 시작과 끝 행복한 부자 - 16편 (거대한 돈의 흐름을 알아야 큰 부자된다).md",
-    "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
     "Clippings/20250926 역사를 바꾸는 오늘.md",
     "Clippings/20250925 미국의 숨은 전략! 자본 흡수 - 달러와 국채 완벽 방어 - 패권 강화의 숨은 진실! (11).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250924 진정한 탐욕의 끝! 고점을 파악하는 소름돋는 방법.md",
