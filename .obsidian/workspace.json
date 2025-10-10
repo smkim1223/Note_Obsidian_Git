@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6ffe9e49fafa0155",
+        "id": "4dfd723a87c21821",
         "type": "tabs",
         "children": [
           {
-            "id": "c5db21f354c77e08",
+            "id": "146da41ec7acca62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Clippings/20251008 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 (해결책 3).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "2d67ea93aea675d3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
-          },
-          {
-            "id": "4a6d0a1b858c612c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/윌리엄의 거시경제의 숨겨진 내막 파악하는 방법 (130).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "윌리엄의 거시경제의 숨겨진 내막 파악하는 방법 (130)"
+              "title": "20251008 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 (해결책 3)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +75,7 @@
             }
           },
           {
-            "id": "75da6a67e3b7c5d5",
+            "id": "47046def4869bca5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -179,23 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
+                "file": "Clippings/20250930 미국의 셧다운 그리고 경제 금융 역사가 바뀌는 시기.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250925 2025년판 윌리엄의 투자 원칙 리스트"
-            }
-          },
-          {
-            "id": "d2d566ebddc680b7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 20250930 미국의 셧다운 그리고 경제 금융 역사가 바뀌는 시기"
             }
           },
           {
@@ -217,13 +180,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9590086ce516a059",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,9 +212,13 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "4a6d0a1b858c612c",
+  "active": "146da41ec7acca62",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Clippings/20251008 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 -(해결책 2편).md",
+    "Clippings/20251008 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 (해결책 3).md",
+    "Clippings/윌리엄의 거시경제의 숨겨진 내막 파악하는 방법 (130).md",
+    "Clippings",
+    "untitled folder",
     "_PARA note taking/002 Area/Brokerage/William_s note/20251007 돈의 시작과 끝 행복한 부자 - 25편 (돈의 전쟁 무기보다 강한 화폐의 힘).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20251007 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 -(해결책).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20251006 돈의 시작과 끝 행복한 부자 - 24편 (국가가 빚으로 세상을 유지하는 방법 정부부채).md",
@@ -265,14 +242,11 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/20250929 급변하는 거시경제! 반드시 피해야 할 투자 위험 리스트.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250929 CBDC 금지와 민간 스테이블코인이 보여줄 자율성과 신뢰의 힘 (9).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250928 한 나라가 국가 부도 디폴트 상태가 되면 금융 부자들이 하는 비밀 행동.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250928 2025년판 윌리엄의 투자 원칙 리스트 2.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250927 👽외계문자 해설 풀이3🛸.md",
-    "Clippings",
+    "Untitled.canvas",
+    "Untitled.base",
     "_PARA note taking/001 Project/Yearly works/Peer review/2026",
     "_PARA note taking/001 Project/Yearly works/Peer review",
     "_PARA note taking/001 Project/Yearly works",
-    "Untitled.canvas",
-    "Untitled.base",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
     "Images/Pasted image 20250910110629.png",
@@ -285,7 +259,6 @@
     "Pasted image 20250910105331.png",
     "_PARA note taking/001 Project/Proposal/Recovery for Critical materials",
     "_PARA note taking/004 Archive/2025 PNNL works/PNNL Publication highlight",
-    "_PARA note taking/001 Project/Research/001 AI prompt",
     "Pasted image 20250715002834.png"
   ]
 }
