@@ -11,15 +11,14 @@
             "id": "c5db21f354c77e08",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250812 행복한 부자가 되기 위해 무엇을 왜 배워야 하는가?.md",
-                "bFile": "_PARA note taking/002 Area/Brokerage/William_s note/20250812 행복한 부자가 되기 위해 무엇을 왜 배워야 하는가?.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 20250812 행복한 부자가 되기 위해 무엇을 왜 배워야 하는가?"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
