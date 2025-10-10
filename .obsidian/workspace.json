@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6ffe9e49fafa0155",
+        "id": "30aa35d43ba0ff36",
         "type": "tabs",
         "children": [
           {
-            "id": "c5db21f354c77e08",
+            "id": "362200997ccd7f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "1b02f044dc67ed3d",
+            "id": "0b7a441afff6e8d0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -152,23 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
+                "file": "Clippings/20250930 미국의 셧다운 그리고 경제 금융 역사가 바뀌는 시기.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20250925 2025년판 윌리엄의 투자 원칙 리스트"
-            }
-          },
-          {
-            "id": "d2d566ebddc680b7",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of 20250930 미국의 셧다운 그리고 경제 금융 역사가 바뀌는 시기"
             }
           },
           {
@@ -190,13 +180,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "9590086ce516a059",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 560.5
+    "width": 490.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,34 +212,34 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c5db21f354c77e08",
+  "active": "9590086ce516a059",
   "lastOpenFiles": [
-    "Clippings/20250925 2025년판 윌리엄의 투자 원칙 리스트.md",
     "conflict-files-obsidian-git.md",
-    "_PARA note taking/001 Project/Research/Polymer conversion by Alkylation.md",
-    "Clippings/20250925 돈의 시작과 끝 행복한 부자 - 16편 (거대한 돈의 흐름을 알아야 큰 부자된다).md",
-    "Clippings/20250926 역사를 바꾸는 오늘.md",
-    "Clippings/20250925 미국의 숨은 전략! 자본 흡수 - 달러와 국채 완벽 방어 - 패권 강화의 숨은 진실! (11).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250924 진정한 탐욕의 끝! 고점을 파악하는 소름돋는 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250924 미국이 관세 협상으로 약한 국가에게 족쇄 채우는 방법 (12).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250923 윌리엄의 거시경제 소설 - 도람푸와 얄론마스크의 브로맨스 13화 (뉴럴링크..).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250923 미국의 기준금리와 환율 압박이 다른 국가들의 힘을 무너뜨리는 치밀한 방법 (13).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250922 평생 흔들리지 않는 저점 분할매수 공식.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250922 돈의 시작과 끝 행복한 부자 - 15편 (자본주의가 가장 무서워하는 존재 디플레이션).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250922 남의 돈으로 전통산업 방어하는 미국의 숨은 목적 (14).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250921 행복한 부자의 삶이 이뤄지는 오늘!.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250921 25년 지금! 큰 부자 만들어 줄 미래 답안지.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250919 미국이 미래 패권까지 장악하는 치밀한 방법  (15).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250919 돈의 시작과 끝 행복한 부자 - 14편 (보이지 않는 가장 무서운 세금 인플레이션).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250919 글로벌 금융위기로 모두가 처참히 무너질 때 - 금융 부자들이 더 큰 부자가 되는 비밀 행동.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250918 현재 금융 패권의 나라가 경제를 장악하는 과정 (16).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250918 투자와 부자의 모든 것.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250918 돈의 시작과 끝 행복한 부자 - 13편 (국민을 위한다는 정부가 세금과 국채로 가두는 원리).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250917 미국이 미래산업 대장주를 초기 단계에 투자하여 길들이는 방법 (17).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250917 래의 1등 대장주 찾는 방법 (1220) - 인재 확보 능력.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250917 돈의 시작과 끝 행복한 부자 - 12편 (보이지 않는 경제 지휘자 중앙은행).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250916 큰 부자 만들어 줄 미래 성장 섹터 - 해양 온도 제어 산업.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250916 미국 정부가 대장주가 될 미래 산업 기업들을 족쇄채우는 법 (18).md",
+    "Clippings/20251009 연휴의 끝! 한글날이 가진 자본의 힘.md",
+    "Clippings/20251009 (추석특집) 주식투자로 반드시 큰 부자되는 방법 3편.md",
+    "Clippings/20251009 (추석특집! 한정판) 내부자 대량매도 판단하는 기준과 방법.md",
+    "Clippings/20251008 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 (해결책 3).md",
+    "Clippings/20251008 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 -(해결책 2편).md",
+    "Clippings/20251007 돈의 시작과 끝 행복한 부자 - 25편 (돈의 전쟁 무기보다 강한 화폐의 힘).md",
+    "Clippings/20251007 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 -(해결책).md",
+    "Clippings/20251005 돈의 시작과 끝 행복한 부자 - 23편 (가난을 옭아매고 부자에겐 길을 터주는 제도장치 세금).md",
+    "Clippings/20251006 돈의 시작과 끝 행복한 부자 - 24편 (국가가 빚으로 세상을 유지하는 방법 정부부채).md",
+    "Clippings/20251006 (추석특집! 단 하루만 공개) 큰 부자될 답안지! 미래 핵심 변화 38가지.md",
+    "Clippings/20251004 (추석특집) 주식투자로 반드시 큰 부자되는 방법.md",
+    "Clippings/20251005 (추석특집) 주식투자로 반드시 큰 부자되는 방법 2편.md",
+    "Clippings/20251004 돈의 시작과 끝 행복한 부자 - 22편 (부와 가난을 만드는 양날의 검 레버리지 활용).md",
+    "Clippings/20251003 돈의 시작과 끝 행복한 부자 - 21편 (리스크를 관리하는 자만이 기회를 누린다).md",
+    "Clippings/20251003 뉴스로 이면의 이해관계 찾는 법.md",
+    "Clippings/20251002 2025년판 윌리엄의 투자 원칙 리스트 3.md",
+    "Clippings/20251002 비트코인 부동산 담보화와 안전자산의 진실 (6).md",
+    "Clippings/20250930 미국의 셧다운 그리고 경제 금융 역사가 바뀌는 시기.md",
+    "Clippings/20251001 중국 테더 vs 미국 USDC – 신뢰자본 전쟁 (7).md",
+    "Clippings/20251001 만약 환율 급등 통화붕괴가 오면! 숨겨진 가장 큰 기회.md",
+    "Clippings/20251001 돈의 시작과 끝 행복한 부자 - 19편 (공포를 기회로 역이용 하는 분할매수).md",
+    "Clippings/20251001 아름다운 밤으로 기억 될 오늘!.md",
+    "Clippings/20250930 미국의 지니어스 법안이 이뤄낸 달러 및 국채 락인 구조 (8).md",
+    "Clippings/20250930 돈의 시작과 끝 행복한 부자 - 18편 (거품과 붕괴 자본주의가 의도적으로 만드는 구조 원리).md",
+    "Clippings/20250929 돈의 시작과 끝 행복한 부자 - 17편 (부채의 숨은 진실과 이면의 이해관계).md",
     "_PARA note taking/001 Project/Yearly works/Peer review/2026",
     "_PARA note taking/001 Project/Yearly works/Peer review",
     "_PARA note taking/001 Project/Yearly works",
