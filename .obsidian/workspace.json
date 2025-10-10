@@ -80,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,7 +208,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "146da41ec7acca62",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Untitled.base",
