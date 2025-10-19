@@ -25,12 +25,14 @@
             "id": "2d67ea93aea675d3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Clippings/20251019 지금 이 순간 큰 부자 만들어 줄 비밀 원칙 2편.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "20251019 지금 이 순간 큰 부자 만들어 줄 비밀 원칙 2편"
             }
           }
         ],
@@ -88,7 +90,7 @@
             }
           },
           {
-            "id": "75da6a67e3b7c5d5",
+            "id": "2c3ad060d03321b8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,7 +99,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -225,8 +228,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "2d67ea93aea675d3",
   "lastOpenFiles": [
+    "Clippings/20251019 지금 이 순간 큰 부자 만들어 줄 비밀 원칙 2편.md",
     "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/006 돈의 시작과 끝_진정 행복한 부자/20251010 돈의 시작과 끝 행복한 부자 - 26편 (달러의 제국 미국이 세계를 지배한 방법).md",
     "Clippings/20251010 연휴 특집 인사이트 한정판 공지.md",
@@ -254,7 +258,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/011 내 자식 행복한 부자만들기/20250702 알아두면 저절로 부자되는 내 자식 금융교육 법 2탄.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/011 내 자식 행복한 부자만들기",
     "_PARA note taking/002 Area/Brokerage/William_s note/010 CBDC로 인한 미래의 재앙과 기회/20250813 미국은 어떻게 스테이블코인과 비트코인으로 국채를 방어하고 부채를 해결하려는걸까?.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/010 CBDC로 인한 미래의 재앙과 기회/20250728 미국은 어떻게 스테이블코인과 비트코인으로 달러 패권을 더욱 확대할 수 있을까.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/010 CBDC로 인한 미래의 재앙과 기회",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼",
     "_PARA note taking/002 Area/Brokerage/William_s note/008 윌리엄의 거시경제 소설 윌플릭스",
