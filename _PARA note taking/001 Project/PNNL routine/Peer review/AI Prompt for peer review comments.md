@@ -93,7 +93,5 @@ The following points concern issues of clarity, nomenclature, and accuracy that 
     - On page 13, the text discusses results from infrared spectroscopy to support claims about HCHO adsorption but incorrectly cites "Figure S3." Figure S3 in the supplementary information displays XPS data. The authors must carefully review their manuscript and supplementary materials to identify and cite the correct figure for the infrared spectroscopy data.
 
 
-# Clude summary
-I was requested to conduct a peer review for submitted to scientific journal of The Innovation. With expertise in chemistry, chemical engineering, kinetics, and catalysis, I need to prepare comments from my notes below.
-
-So, please draft my review comments based on the note and the specific comments are need to be in the statement
+# Clude point-by-point refine
+I am preparing a peer review comments for submitted manuscript to Journal of Catalysis. So, I would need you to refine my note and summary in a statement format in a paragrph.
