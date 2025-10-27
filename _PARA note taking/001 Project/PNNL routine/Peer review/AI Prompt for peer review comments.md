@@ -33,11 +33,11 @@ For these reasons, the manuscript is not suitable for publication in its present
 
 --------------------------------------------------------------------------------
 
-## 2. Major Comments
+### 2. Major Comments
 
 The following points detail the substantial scientific and methodological issues that must be addressed for the manuscript to meet the standards of the _Chemical Engineering Journal_. These comments focus on fundamental mechanistic clarity, experimental rigor, and the interpretation of key data.
 
-### 2.1. Critical Ambiguity in the Role of Hydrogen Species (H* vs. H+)
+#### 2.1. Critical Ambiguity in the Role of Hydrogen Species (H* vs. H+)
 
 Throughout the manuscript, the authors fail to distinguish between adsorbed atomic hydrogen (H*) and protons (H+), using the terms almost interchangeably. This lack of precision is a fundamental flaw that obscures the proposed mechanism and makes the central hypothesis difficult to evaluate. Adsorbed H* is typically formed and resides on metallic active sites (e.g., Ni), participating directly in surface hydrogenation reactions. In contrast, H+ exists in the electrolyte or can be associated with Brønsted acid sites (BAS), which the phosphate groups in the PD-Ni/C@CP catalyst could provide.
 
@@ -48,7 +48,7 @@ The authors must rigorously define these distinct hydrogen species and apply the
 
 Clarifying the distinct contributions of H* versus H+ is not a minor semantic point; it is absolutely fundamental to validating the manuscript's central claim regarding the synergistic function of the Ni sites and phosphate groups. Without this clarity, the scientific contribution of the work remains unsubstantiated.
 
-### 2.2. Insufficient Justification of the Proposed Reaction Pathway
+#### 2.2. Insufficient Justification of the Proposed Reaction Pathway
 
 The proposed reaction pathway is underdeveloped and fails to fully integrate the hypothesized roles of H+ and the phosphate groups. While the authors suggest that phosphate groups "stabilize H+" to suppress HER and facilitate *CH₂OH formation, the mechanism by which this occurs is not clearly articulated.
 
@@ -56,7 +56,7 @@ The authors are requested to substantially elaborate on the reaction mechanism. 
 
 Furthermore, the authors' proposed pathway (Figure 4a) posits that `*H` is responsible for the undesired over-hydrogenation to methanol. The current explanation fails to clarify how the phosphate-stabilized hydrogen species selectively promotes the desired C-C coupling of `*CH2OH` intermediates while simultaneously inhibiting the competing `*H`-driven hydrogenation to methanol. A more rigorous mechanistic distinction is required to explain this crucial aspect of their catalyst's performance.
 
-### 2.3. Concerns Regarding Mass Transfer Limitations
+#### 2.3. Concerns Regarding Mass Transfer Limitations
 
 The electrochemical experiments were conducted with magnetic stirring at only 300 rpm. At such a low stirring rate, it is highly probable that the reaction is limited by the mass transfer of formaldehyde to the electrode surface rather than by the intrinsic kinetics of the catalyst.
 
@@ -64,13 +64,13 @@ If the system is operating under mass transfer control, the reported kinetic dat
 
 The authors must provide compelling evidence that their experiments were conducted in a kinetically-controlled regime, free from mass transfer limitations. This can be accomplished experimentally by demonstrating that the reaction rate is independent of the stirring speed above a certain threshold (e.g., by testing at 300, 600, and 900 rpm). Alternatively, a robust theoretical justification based on dimensionless numbers (e.g., Damköhler numbers) could be provided, though experimental validation is strongly preferred.
 
-### 2.4. Unsubstantiated Claims of Adsorption Strength
+#### 2.4. Unsubstantiated Claims of Adsorption Strength
 
 In the discussion of Figure 2, the authors observe a higher Raman peak intensity for Ni-CHO on the PD-Ni/C@CP catalyst compared to the NiO/C@CP catalyst. From this observation, they conclude that PD-Ni/C@CP exhibits "stronger HCHO adsorption." This conclusion is not adequately supported by the evidence provided.
 
 An increased signal intensity could simply be due to a higher surface concentration of active Ni sites available for HCHO adsorption on the amorphous PD-Ni/C@CP material, rather than a stronger binding energy (_i.e._, greater adsorption strength) at each individual site. To substantiate the claim of _stronger_ adsorption, more direct evidence is required. The authors should provide data from techniques such as adsorption isotherms or present further DFT calculations that explicitly compare the binding energy of HCHO on the two catalyst surfaces. In the absence of such evidence, the claim must be moderated to reflect that the data indicate a higher surface coverage of adsorbed HCHO, the cause of which remains undetermined.
 
-### 2.5. Incorrect Definition of Product "Yield"
+#### 2.5. Incorrect Definition of Product "Yield"
 
 A critical error is present in the definition of "Yield of EG" in Equation (2) on page 9. The equation provided is: `Yield of EG = moles of EG / (Reaction time × volume)`
 
@@ -82,7 +82,7 @@ In addition to these major points, several minor issues requiring correction wer
 
 --------------------------------------------------------------------------------
 
-## 3. Minor Comments
+### 3. Minor Comments
 
 The following points concern issues of clarity, nomenclature, and accuracy that should be straightforward for the authors to address during revision.
 
@@ -91,3 +91,6 @@ The following points concern issues of clarity, nomenclature, and accuracy that 
     - The catalyst is named "PD-Ni/C". However, given the synthesis method and the characterization data (e.g., XPS results showing Ni-O and P-O-Ni bonds), a more accurate name might be "PD-NiO/C" or similar, to reflect the oxidized state of the nickel phosphate phase. The authors should clarify or justify their chosen nomenclature.
 2. **Incorrect Figure Citation:**
     - On page 13, the text discusses results from infrared spectroscopy to support claims about HCHO adsorption but incorrectly cites "Figure S3." Figure S3 in the supplementary information displays XPS data. The authors must carefully review their manuscript and supplementary materials to identify and cite the correct figure for the infrared spectroscopy data.
+
+
+# Clude s
