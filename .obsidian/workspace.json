@@ -41,10 +41,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Clippings"
+                "path": "/"
               },
               "icon": "lucide-file",
-              "title": "Clippings"
+              "title": "Note_Obsidian_Git"
             }
           }
         ],
@@ -240,7 +240,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "c4a582465c141728",
+  "active": "11ae335228ce3c40",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251018 역대급 특별 선물!.md",
     "conflict-files-obsidian-git.md",
