@@ -94,4 +94,4 @@ The following points concern issues of clarity, nomenclature, and accuracy that 
 
 
 # Clude point-by-point refine
-I am preparing a peer review comments for submitted manuscript to Journal of Catalysis. So, I would need you to refine my note and summary in a statement format in a paragrph.
+So, I am preparing peer review comments for the manuscript submitted to Chemical Engineering Journal. I would need you to refine my note and summary in a statement format in a paragraph.
