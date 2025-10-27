@@ -39,14 +39,12 @@
             "id": "c4a582465c141728",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251018 역대급 특별 선물!.md",
-                "mode": "source",
-                "source": false
+                "path": "Clippings"
               },
               "icon": "lucide-file",
-              "title": "20251018 역대급 특별 선물!"
+              "title": "Clippings"
             }
           }
         ],
@@ -242,7 +240,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "c4a582465c141728",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251018 역대급 특별 선물!.md",
     "conflict-files-obsidian-git.md",
