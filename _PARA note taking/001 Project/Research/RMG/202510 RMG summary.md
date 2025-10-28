@@ -32,5 +32,5 @@
 		2. [Draw functional groups](https://rmg.mit.edu/tools/group_draw)
 	3. In Jupyter 
 		1. from rmgpy.molecule import Molecule 
-		2. m = Molecule(smiles="CC")
+		2. m = Molecule(smiles="CC") --> ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEQAAAARCAIAAADrMp2hAAAABmJLR0QA/wD/AP+gvaeTAAAB/klEQVRIie2UPaviQBSGJ8taJFGJBrstQhoVAwEttLJNkcrONoLYWdnZi2BnoZhGREEFFbE2tYrkFwSDjSCIIBG1EXMLud6sH9kxXHFZ9qkyw8w7z5mTBNF1Hfwr/Hi3wHfyv5i/ld+KYRim0Whchq1Wy+fzPdrZ7XYjkQiGYR6Ph+f50WhkWeJu1FMyZyx2RhRFQRASiYSiKIqiCIJQq9XeHgV0A4FAoF6vX4bNZtPr9eo37Pd7giAqlYpx8nQ63a78IyZRkDJGrHRGluXNZhOPx42TCIK8NwqAm87Y7XbyE4fDcfcy+v0+juMmNwR/rkkUpIyRn1dn5HK5WCx2fh4MBsViEQCw3W47nc5qteI4jmVZkiR3u52maU6n85Eo5FWaR8HIGNdfv2Yul+vXJ263+zy5Xq+Px6Pf7xcEYT6fh0IhgiDa7ba1AoyYR8HIGDded+YuFEUlk0kAwHQ6VVWVoqh8Pp/JZBAE4XkeRVFJkobDYblcfrYYFEWfjbqVea4YAICqqpIkaZoWjUYBAKlUiiTJQqGQTqdxHA+Hw9ls9tlKzliIupL5wvyTujCbzURRZFlWlmXILa/jkQxsZ2iapmnaZrNNJpNgMGitCd/FIxmoYsbj8WKxwDCsWq2WSqWXSUJhIoPoEH+h5XLZ6/UOhwPHcQzDvMwTChOZDzUA7Ufdof1/AAAAAElFTkSuQmCC)
 		3. display(m)
