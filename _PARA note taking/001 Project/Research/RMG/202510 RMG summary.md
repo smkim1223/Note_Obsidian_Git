@@ -48,5 +48,7 @@
 		   
 		6. m = Molecule(smiles="CCcC=CC")
 		7. m.generate_resonance_structures
-		8. 
+		8. for i in m.generate_resonance_structures():
+		   display (i)
+		9. 		       
 		   
