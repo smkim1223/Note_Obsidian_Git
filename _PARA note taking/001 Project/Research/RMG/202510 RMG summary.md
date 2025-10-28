@@ -54,9 +54,6 @@
 		7. m.generate_resonance_structures
 		8. for i in m.generate_resonance_structures():
 		   display (i)
-3. sd
-4. sad
-	
-		
-5. 
-		   
+
+# Running RMG jobs # 5
+1. 
