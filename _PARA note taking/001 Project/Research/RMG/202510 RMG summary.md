@@ -34,5 +34,14 @@
 		1. from rmgpy.molecule import Molecule 
 		2. m = Molecule(smiles="CC")
 		3. display(m)
-		4. str(m) ; '<Molecule "CC">'
-		5. 
+		4. str(m) ; 
+		   '<Molecule "CC">'
+		5. print(m.to_adjacency_list());
+		   1 C u0 p0 c0 {2,S} {3,S} {4,S} {5,S}
+		   2 C u0 p0 c0 {1,S} {6,S} {7,S} {8,S}
+		   3 H u0 p0 c0 {1,S}
+		   4 H u0 p0 c0 {1,S}
+		   5 H u0 p0 c0 {1,S}
+		   6 H u0 p0 c0 {2,S}
+		   7 H u0 p0 c0 {2,S}
+		   8 H u0 p0 c0 {2,S}
