@@ -18,9 +18,10 @@
 	2. "python rmg.py --help"
 	3. "python /rmg/RMG-Py/rmg.py /rmg/RMG-Py/examples/rmg/superminimal/input.py"
 	4. [Example of input file](https://reactionmechanismgenerator.github.io/RMG-Py/users/rmg/examples.html)
-3. Jupyter 
-	1. docker container rm rmgcontainer
-	2. docker run --name rmgcontainer -p 8888:8888 -v "/Users/kims910/_PNNL_SKim/Research/myrmgfiles:/rmg/RMG-Py/myrmgfiles" -it reactionmechanismgenerator/rmg:3.3.0
-	3. docker start rmgcontainer -ai
-	4. cd /rmg; jupyter notebook --allow-root --ip 0.0.0.0 --no-browser
-4. browser: [localhost:8888](http://localhost:8888) —>copy the token from the terminal and then paste token
+3. Jupyter
+	1. [Take a look from 2023 seminar]()
+	2. docker container rm rmgcontainer
+	3. docker run --name rmgcontainer -p 8888:8888 -v "/Users/kims910/_PNNL_SKim/Research/myrmgfiles:/rmg/RMG-Py/myrmgfiles" -it reactionmechanismgenerator/rmg:3.3.0
+	4. docker start rmgcontainer -ai
+	5. cd /rmg; jupyter notebook --allow-root --ip 0.0.0.0 --no-browser
+	6. browser: [localhost:8888](http://localhost:8888) —>copy the token from the terminal and then paste token
