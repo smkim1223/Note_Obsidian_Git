@@ -3,7 +3,8 @@
 	1. Download and install "Docker"
 	2. In terminal "docker pull reactionmechanismgenerator/rmg:3.3.0"
 	3. docker run --name rmgcontainer -v "/Users/kims910/_PNNL_SKim/Research/myrmgfiles" -it reactionmechanismgenerator/rmg:3.3.0
-	4. to leave: "exit" or enter again "docker start rmgcontainer --attach --interactive"
+	4. For 
+	5. to leave: "exit" or enter again "docker start rmgcontainer --attach --interactive"
 2. [First RMG job](https://www.youtube.com/watch?v=_YjUFG3uB0s)
 	1. Vscode
 		1. Installing a extension 
