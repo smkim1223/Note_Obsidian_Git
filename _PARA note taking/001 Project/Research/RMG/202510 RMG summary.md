@@ -8,7 +8,8 @@
 	1. Vscode
 		1. Installing a extension 
 			1. docker
-			2. 
+			2. dev container
+			3. remote explorer
 		2. Remote explorer and run rmg container
 		3. open a new terminal and explorer the folders
 	2. "python rmg.py --help"
