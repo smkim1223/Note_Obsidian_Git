@@ -6,4 +6,4 @@
 	4. to leave: "exit" or enter again "docker start rmgcontainer --attach --interactive"
 2. [First RMG job](https://www.youtube.com/watch?v=_YjUFG3uB0s)
 	1. "python rmg.py --help"
-	2. 
+	2. "python rmg.py examples/rmg/superminimal/input.py"
