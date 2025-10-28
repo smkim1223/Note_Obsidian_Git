@@ -31,7 +31,7 @@
 		1. [molecule search](https://rmg.mit.edu/molecule_search)
 		2. [Draw functional groups](https://rmg.mit.edu/tools/group_draw)
 	3. In Jupyter 
-		1. 1. from rmgpy.molecule import Molecule 
+		1. from rmgpy.molecule import Molecule 
 		2. m = Molecule(smiles="CC")
 		3. display(m)
 		4. str(m) ; 
@@ -50,6 +50,9 @@
 		7. m.generate_resonance_structures
 		8. for i in m.generate_resonance_structures():
 		   display (i)
+6. sd
+7. sad
+	
 		
-	4. 
+8. 
 		   
