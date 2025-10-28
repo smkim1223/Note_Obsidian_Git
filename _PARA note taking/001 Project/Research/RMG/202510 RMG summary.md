@@ -26,5 +26,8 @@
 	5. cd /rmg; jupyter notebook --allow-root --ip 0.0.0.0 --no-browser
 	6. browser: [localhost:8888](http://localhost:8888) —>copy the token from the terminal and then paste token
 4. Molecular representation
-	1. [Molecular search in rmg]() 
-	2. 
+	1. [Molecular search in rmg](https://rmg.mit.edu/molecule_search) 
+	2. Useful tools
+		1. molecule search
+		2. Draw functional group
+	3. 
