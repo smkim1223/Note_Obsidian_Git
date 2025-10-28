@@ -7,7 +7,7 @@
 	5. For with jupyter
 	   docker run --name rmgcontainer -p 8888:8888 -v "/Users/kims910/_PNNL_SKim/Research/myrmgfiles:/rmg/RMG-Py/myrmgfiles" -it reactionmechanismgenerator/rmg:3.3.0
 	6. to leave: "exit" or enter again "docker start rmgcontainer --attach --interactive"
-2. [First RMG job](https://www.youtube.com/watch?v=_YjUFG3uB0s)
+2. [First RMG job #3](https://www.youtube.com/watch?v=_YjUFG3uB0s)
 	1. Vscode
 		1. Installing a extension 
 			1. Docker
@@ -31,7 +31,7 @@
 		1. [molecule search](https://rmg.mit.edu/molecule_search)
 		2. [Draw functional groups](https://rmg.mit.edu/tools/group_draw)
 	3. In Jupyter 
-		1. from rmgpy.molecule import Molecule 
+		1. 1. from rmgpy.molecule import Molecule 
 		2. m = Molecule(smiles="CC")
 		3. display(m)
 		4. str(m) ; 
@@ -50,5 +50,6 @@
 		7. m.generate_resonance_structures
 		8. for i in m.generate_resonance_structures():
 		   display (i)
-		9. 		       
+		
+	4. 
 		   
