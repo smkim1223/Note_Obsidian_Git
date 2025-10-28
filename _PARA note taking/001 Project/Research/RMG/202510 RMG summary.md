@@ -7,7 +7,7 @@
 2. [First RMG job](https://www.youtube.com/watch?v=_YjUFG3uB0s)
 	1. Vscode
 		1. Remote explorer and run rmg container
-		2. open a new terminal and 
+		2. open a new terminal and explorer the folders
 	2. "python rmg.py --help"
 	3. "python /rmg/RMG-Py/rmg.py /rmg/RMG-Py/examples/rmg/superminimal/input.py"
 	4. [Example of input file](https://reactionmechanismgenerator.github.io/RMG-Py/users/rmg/examples.html)
