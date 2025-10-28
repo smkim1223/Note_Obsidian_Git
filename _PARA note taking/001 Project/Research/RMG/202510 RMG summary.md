@@ -28,6 +28,6 @@
 4. Molecular representation
 	1. [Molecular search in rmg](https://rmg.mit.edu/molecule_search) 
 	2. Useful tools
-		1. molecule search
-		2. Draw functional group
+		1. [molecule search](https://rmg.mit.edu/molecule_search)
+		2. [Draw functional groups](https://rmg.mit.edu/tools/group_draw)
 	3. 
