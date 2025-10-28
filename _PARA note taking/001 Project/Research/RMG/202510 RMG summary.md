@@ -25,3 +25,6 @@
 	4. docker start rmgcontainer -ai
 	5. cd /rmg; jupyter notebook --allow-root --ip 0.0.0.0 --no-browser
 	6. browser: [localhost:8888](http://localhost:8888) —>copy the token from the terminal and then paste token
+4. Molecular representation
+	1. [Molecular search in rmg]() 
+	2. 
