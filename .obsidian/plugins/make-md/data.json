@@ -39,16 +39,17 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//_PARA note taking",
     "//_PARA note taking/_PARA note taking/003 Resources/_PARA note taking/003 Resources/Chemical Engineering",
     "//Tags",
     "//Tags/Tags/와썹윌리엄",
-    "//_PARA note taking/_PARA note taking/001 Project",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal/_PARA note taking/001 Project/Personal/Note taking",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal/_PARA note taking/001 Project/Personal/Note taking/_PARA note taking/001 Project/Personal/Note taking/Obsidian",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Research",
-    "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Research/_PARA note taking/001 Project/Research/RMG"
+    "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Research/_PARA note taking/001 Project/Research/RMG",
+    "//_PARA note taking",
+    "//Tags/Tags/와썹윌리엄/Tags/와썹윌리엄/거시경제 소설",
+    "//_PARA note taking/_PARA note taking/001 Project"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
