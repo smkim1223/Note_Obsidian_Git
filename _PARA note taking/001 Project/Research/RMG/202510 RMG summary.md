@@ -19,7 +19,7 @@
 	3. "python /rmg/RMG-Py/rmg.py /rmg/RMG-Py/examples/rmg/superminimal/input.py"
 	4. [Example of input file](https://reactionmechanismgenerator.github.io/RMG-Py/users/rmg/examples.html)
 3. Jupyter
-	1. [Take a look from 2023 seminar]()
+	1. [Take a look from 2023 seminar #13 Simulation and sensitivity analysis](https://www.youtube.com/watch?v=H6AB4CB-59Q&t=360s)
 	2. docker container rm rmgcontainer
 	3. docker run --name rmgcontainer -p 8888:8888 -v "/Users/kims910/_PNNL_SKim/Research/myrmgfiles:/rmg/RMG-Py/myrmgfiles" -it reactionmechanismgenerator/rmg:3.3.0
 	4. docker start rmgcontainer -ai
