@@ -30,4 +30,7 @@
 	2. Useful tools
 		1. [molecule search](https://rmg.mit.edu/molecule_search)
 		2. [Draw functional groups](https://rmg.mit.edu/tools/group_draw)
-	3. 
+	3. In Jupyter 
+		1. from rmgpy.molecule import Molecule 
+		2. m = Molecule(smiles="CC")
+		3. display(m)
