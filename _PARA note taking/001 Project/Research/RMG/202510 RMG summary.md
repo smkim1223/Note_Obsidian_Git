@@ -57,7 +57,7 @@
 
 # Running RMG jobs # 5
 1. General procedure for running 
-	1. 
+	1. [Presentation](https://www.youtube.com/watch?v=-K6fLPgVkWc)
 	2. python /rmg/RMG-Py/rmg.py *option* */path/to/your/input.py*
 		1. Full list of optional argument: -h or --help 
 		2. To specify maximum run time: -t or --walltime
