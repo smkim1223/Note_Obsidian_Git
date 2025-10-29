@@ -58,4 +58,4 @@
 # Running RMG jobs # 5
 1. General procedure for running 
 	1. python /rmg/RMG-Py/rmg.py *option* */path/to/your/input.py*
-		1. 
+		1. -h or --help 
