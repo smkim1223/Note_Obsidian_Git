@@ -61,5 +61,5 @@
 		1. Full list of optional argument: -h or --help 
 		2. To specify maximum run time: -t or --walltime
 		3. to run in parallel: -n or --maxproc
-	2. RMG imput files
-		1. 
+	2. RMG input files
+		1. RMG-Py/examples/rmg 
