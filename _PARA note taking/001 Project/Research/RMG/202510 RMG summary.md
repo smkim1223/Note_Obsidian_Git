@@ -63,5 +63,5 @@
 		3. to run in parallel: -n or --maxproc
 	2. RMG input files
 		1. RMG-Py/examples/rmg 
-		2. [Gitub](https://github.com/ReactionMechanismGenerator/RMG-Py)
-		3. 
+		2. [Gitub](https://github.com/ReactionMechanismGenerator/RMG-Py) or [Github documentation]() 
+		3. Documentation
