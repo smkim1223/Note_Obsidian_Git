@@ -72,19 +72,9 @@
               "icon": "lucide-file",
               "title": "20251030 General ideation for tandem catalysis"
             }
-          },
-          {
-            "id": "756d3ece75390d7b",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 20251030 General ideation for tandem catalysis.md"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -275,7 +265,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "756d3ece75390d7b",
+  "active": "bfcf33b728174c17",
   "lastOpenFiles": [
     "_PARA note taking/001 Project/Research/RMG/RMG.md",
     "_PARA note taking/001 Project/Proposal/Tandem catalysis/20251030 General ideation for tandem catalysis.md",
