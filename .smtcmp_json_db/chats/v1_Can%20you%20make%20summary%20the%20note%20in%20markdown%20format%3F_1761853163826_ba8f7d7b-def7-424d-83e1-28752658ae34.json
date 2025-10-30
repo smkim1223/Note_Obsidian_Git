@@ -1,0 +1,156 @@
+{
+  "id": "ba8f7d7b-def7-424d-83e1-28752658ae34",
+  "title": "Can you make summary the note in markdown format?",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Can you make summary the note in markdown format?",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nCan you make summary the note in markdown format?\n\n"
+        }
+      ],
+      "id": "7372ef96-896f-4192-8171-2d4ae890d12a",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "_PARA note taking/001 Project/Proposal/Tandem catalysis/20251030 General ideation for tandem catalysis.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block language=\"markdown\">\n## Tandem Catalysis Overview\n\nTandem catalysis is a strategy for hydrodeoxygenation (HDO) of biomass-derived compounds that combines multiple catalysts with distinct functions in one or more reactors. This coordination enhances product selectivity, yield, and catalyst stability.\n\n#### Core Principles\n\n- **Metallic sites:** Catalyze hydrogenation of double bonds and hydrogenolysis of C–O bonds (e.g., Pd, Pt, Ru, Ni, Co).\n- **Acidic sites:** Promote dehydration reactions (e.g., zeolites, alumina supports).\n- **Interface sites:** Strong metal-support interactions create unique active sites enhancing activity and selectivity.\n\n#### Tandem Catalytic Strategies\n\n- **Bimetallic catalysts:** Two metals on one support create synergistic effects (e.g., CoZnOx, Pd-Co on acidic supports).\n- **Physically mixed catalysts:** Separate catalysts mixed physically for distinct functions (e.g., Co/TiO₂ and WO₃/TiO₂).\n- **Multifunctional catalysts:** Single catalysts with engineered multiple active sites (e.g., Ru-Ni/NiAl₂O₄).\n- **In-situ hydrogen generation:** Catalysts producing hydrogen internally from water for HDO (e.g., Ni-CeO₂ systems).\n\n#### Advantages of Tandem Catalysis\n\n- Improved selectivity through step separation.\n- Enhanced catalyst stability and easy regeneration.\n- Increased yields and overall process efficiency.\n- Eliminates the need for intermediate isolation (one-pot process).\n- Capitalizes on unstable intermediates and reduces waste.\n- Synergistic effects improve reaction rates and selectivity.\n- Controlled spatial arrangement mitigates catalyst poisoning.\n\n#### Applications in Biomass Conversion\n\n- Metallic sites for hydrogenation and C–O bond cleavage.\n- Acidic sites for dehydration removing oxygen as water.\n- Coordinated function converts complex oxygenated species efficiently.\n\n## Addressing Complexity in Heterogeneous Catalysis\n\n#### Managing Incompatible Reaction Conditions\n\n- **Compartmentalization:** Separate zones or core-shell catalysts optimize different environments.\n- **Different phases:** Combining solid and soluble catalysts for diverse chemistries.\n\n#### Overcoming Catalyst Deactivation\n\n- **Function separation:** Avoids exposing sensitive active sites to poisons.\n- **Tuning site distances:** Controls intermediate transfer to prevent decomposition or side reactions.\n\n#### Enhancing Product Selectivity\n\n- **Directing pathways:** Specific active site placement channels reactions (e.g., metallic for hydrogenation, acidic for dehydration).\n- **Fine-tuning activity:** Adjusting size, composition, loading; use of single-atom catalysts (SACs).\n\n## Leveraging Tandem Catalysis in Heterogeneous Systems\n\n#### Advanced Synthesis Methods\n\n- **Core-shell structures:** Control mass transfer and intermediate escape.\n- **Nanocube arrays:** Precise interfaces for synergistic catalytic effects.\n- **Single-atom catalysts (SACs):** High specificity for complex reaction cascades.\n\n#### Intelligent Reactor Design\n\n- **Multi-bed reactors:** Separate catalytic materials enable independent condition control.\n- **Structured catalysts:** Hierarchical porosity improves mass transport.\n\n#### In-situ and Self-sustained Systems\n\n- **In-situ hydrogen generation:** Catalysts produce hydrogen within the reactor, improving safety and economy.\n- **Redox-adaptive catalysts:** Change oxidation states to perform multiple functions dynamically.\n</smtcmp_block>",
+      "annotations": [
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://docs.gruntwork.io/guides/style/markdown-style-guide/",
+            "title": "Markdown style guide | Gruntwork Docs"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://docs.skillable.com/docs/creating-instructions-with-markdown-syntax",
+            "title": "Creating Instructions with Markdown Syntax"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://learn.microsoft.com/en-us/powershell/scripting/community/contributing/general-markdown?view=powershell-7.5",
+            "title": "Markdown best practices - PowerShell | Microsoft Learn"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://google.github.io/styleguide/docguide/style.html",
+            "title": "Markdown style guide | styleguide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/writing-essentials/markdown",
+            "title": "How to use Markdown for writing documentation"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.markdownguide.org/extended-syntax/",
+            "title": "Extended Syntax | Markdown Guide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://www.markdownguide.org/basic-syntax/",
+            "title": "Basic Syntax | Markdown Guide"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://talk.commonmark.org/t/markdown-best-practices/3115",
+            "title": "Markdown &quot;best practices&quot; - Spec - CommonMark Discussion"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax",
+            "title": "Basic writing and formatting syntax - GitHub Docs"
+          }
+        },
+        {
+          "type": "url_citation",
+          "url_citation": {
+            "url": "https://docs.ed-fi.org/community/sdlc/code-contribution-guidelines/coding-standards/markdown-best-practices/",
+            "title": "Markdown Best Practices | Ed-Fi Alliance"
+          }
+        }
+      ],
+      "id": "bf5d82c0-8aac-4bc4-9b2f-885309316a8a",
+      "metadata": {
+        "model": {
+          "providerType": "perplexity",
+          "providerId": "perplexity",
+          "id": "sonar-pro",
+          "model": "sonar",
+          "web_search_options": {
+            "search_context_size": "low"
+          }
+        },
+        "usage": {
+          "prompt_tokens": 3514,
+          "completion_tokens": 727,
+          "total_tokens": 4241,
+          "search_context_size": "low",
+          "cost": {
+            "input_tokens_cost": 0.004,
+            "output_tokens_cost": 0.001,
+            "request_cost": 0.005,
+            "total_cost": 0.009
+          }
+        }
+      }
+    }
+  ],
+  "createdAt": 1761853151262,
+  "updatedAt": 1761853163826,
+  "schemaVersion": 1
+}
