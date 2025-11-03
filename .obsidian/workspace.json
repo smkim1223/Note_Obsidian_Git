@@ -4,77 +4,134 @@
     "type": "split",
     "children": [
       {
-        "id": "6ffe9e49fafa0155",
+        "id": "da7da03c073a82b8",
         "type": "tabs",
         "children": [
           {
-            "id": "c5db21f354c77e08",
+            "id": "5f366a7c0b4afac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250922 평생 흔들리지 않는 저점 분할매수 공식.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "20250922 평생 흔들리지 않는 저점 분할매수 공식"
             }
           },
           {
-            "id": "2d67ea93aea675d3",
+            "id": "a677a1a771188c6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251018 역대급 특별 선물!.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/006 돈의 시작과 끝_진정 행복한 부자/20251015 돈의 시작과 끝 행복한 부자 - 29편 (자본시장과 달러가 흔들릴 때 가장 빛나는 금과 원자재).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20251018 역대급 특별 선물!"
+              "title": "20251015 돈의 시작과 끝 행복한 부자 - 29편 (자본시장과 달러가 흔들릴 때 가장 빛나는 금과 원자재)"
             }
           },
           {
-            "id": "c4a582465c141728",
+            "id": "076d9031bb82454a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Proposal/Tandem catalysis/20251030 General ideation for tandem catalysis.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250817 미국과 중국의 칩 전쟁 그 중심에 있는 엔비디아의 H20 진짜 이야기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20251030 General ideation for tandem catalysis"
+              "title": "20250817 미국과 중국의 칩 전쟁 그 중심에 있는 엔비디아의 H20 진짜 이야기"
             }
           },
           {
-            "id": "ae64e3742cb3ed25",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-apply-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Applying: 20251030 General ideation for tandem catalysis.md"
-            }
-          },
-          {
-            "id": "bfcf33b728174c17",
+            "id": "75caa80f15732cfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/003 First RMG job.md",
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/006 돈의 시작과 끝_진정 행복한 부자/20251003 돈의 시작과 끝 행복한 부자 - 21편 (리스크를 관리하는 자만이 기회를 누린다).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 First RMG job"
+              "title": "20251003 돈의 시작과 끝 행복한 부자 - 21편 (리스크를 관리하는 자만이 기회를 누린다)"
+            }
+          },
+          {
+            "id": "02ddd0edbe8aeb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250913 아무것도 모르는 바보도 부자만들어 줄 주식!.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250913 아무것도 모르는 바보도 부자만들어 줄 주식!"
+            }
+          },
+          {
+            "id": "5d97f52af595d6db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/005 30년 만에 오는 큰 부자될 기회/20251015 다가올 미래! 진정한 금융 부자로 거듭날 구조를 읽는 투자자의 사고법.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20251015 다가올 미래! 진정한 금융 부자로 거듭날 구조를 읽는 투자자의 사고법"
+            }
+          },
+          {
+            "id": "56a22ecc4e1f88c5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "_PARA note taking/002 Area/Brokerage/William_s note/005 30년 만에 오는 큰 부자될 기회"
+              },
+              "icon": "lucide-file",
+              "title": "005 30년 만에 오는 큰 부자될 기회"
+            }
+          },
+          {
+            "id": "7434e8b05da5dc5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250918 투자와 부자의 모든 것.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250918 투자와 부자의 모든 것"
+            }
+          },
+          {
+            "id": "0a3fa1377fe22221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250903 미래 에너지 산업 4 - 초대형 글로벌 인프라 전환 플랫폼.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20250903 미래 에너지 산업 4 - 초대형 글로벌 인프라 전환 플랫폼"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +185,7 @@
             }
           },
           {
-            "id": "60b3557c826ae873",
+            "id": "d59059956e06479f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -137,7 +194,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -249,7 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,40 +323,41 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "bfcf33b728174c17",
+  "active": "5f366a7c0b4afac3",
   "lastOpenFiles": [
-    "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/004 Molecular representation.md",
-    "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/005 Running RMG job.md",
-    "_PARA note taking/001 Project/Proposal/Tandem catalysis/20251030 General ideation for tandem catalysis.md",
-    "conflict-files-obsidian-git.md",
-    "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/202510 RMG summary.md",
-    "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/003 First RMG job.md",
-    "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/002 Installation.md",
-    "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar",
-    "_PARA note taking/001 Project/Research/RMG/RMG.md",
-    "_PARA note taking/001 Project/Proposal/Tandem catalysis",
-    "_PARA note taking/001 Project/Research/Research.md",
-    "_PARA note taking/001 Project/Research/RMG",
-    "_PARA note taking/001 Project/Personal/Note taking/Obsidian/SKim practice 1.md",
-    "_PARA note taking/001 Project/PNNL routine/Peer review/AI Prompt for peer review comments.md",
-    "Untitled.base",
-    "Tags/와썹윌리엄/와썹윌리엄.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250828 주린이가 우량주 투자할 때! 실패없이 판단하는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250911 실물경제 폭락 붕괴 가장 먼저 파악하는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250810 경제위기 때 가장 빠르게 부자되는 행동.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250727 단 한 번의 폭락장으로 평생 부자되는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250720 미국 상장기업 사자마자 폭락할 때! 락업(Lock-Up)해제의 비밀.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250716 나스닥 시장에서 투자자 수급 파악하는 방법 - 아주 중요함.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250626 손절에 실패하지 않는 명확한 기준과 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250702 진짜 부자들이 써먹는 경제위기를 기회로 만드는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250619 국내 기관, 슈퍼개미 보다 더 먼저 돈 버는 비밀 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250703 부자들이 항상 현금을 보유하는 숨은 진실.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250630 가장 빠르게 큰 부자되는 미래가치 투자 방법 1탄.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250628 가장 빠르게 부자가 되는 사람들의 투자 습관 3가지.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250625 안전한 주식 포트폴리오 세팅 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250624 주린이들이 가장 자주 틀리는 투자 상식 3가지.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250623 반드시 피해야 할, 절대 사면 안 되는 기업 특징 3가지.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250617 평범한 사람이 몰랐던 진짜 황금 기업 찾는 법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250616 가장 빠르게 부자되는 매수 타이밍.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250616 3년 안에 자산 10배 만드는 매수, 매도 신호 확인법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250613 전쟁 위기 상황에 알맞는 3가지 선택지와 대응전략.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250612 딱 이거만 지켜도 남들보다 10년 빠르게 부자 된다.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250612 나를 부자로 만들어 줄 기업 고르는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250725 금융 부자들이 활용하는 멘탈 관리법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/006 돈의 시작과 끝_진정 행복한 부자/20251003 돈의 시작과 끝 행복한 부자 - 21편 (리스크를 관리하는 자만이 기회를 누린다).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250922 평생 흔들리지 않는 저점 분할매수 공식.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/001 금융문맹 탈출하기/20250711 미래에도 유일하게 남을 안전자산 금 - 어떻게 보유해야 하는가_.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250713 미국 연준(Fed)의 금리 결정을 미리 파악하는 방법.md",
+    "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar",
+    "_PARA note taking/001 Project/Proposal/Tandem catalysis",
+    "_PARA note taking/001 Project/Research/RMG",
     "_PARA note taking/001 Project/PNNL routine/Peer review",
     "_PARA note taking/001 Project/PNNL routine",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251010 0.1% 금융 부자들만 아는 윌리엄의 저점 매수 법칙.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251018 역대급 특별 선물!.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251019 아무도 몰랐던 경제 금융 이면의 이해관계.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251018 지금 이 순간 큰 부자 만들어 줄 비밀 원칙 1편.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251016 현재 주식시장에서 큰 부자될 투자 원칙리스트.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251016 현재 주식 시장을 완전히 통찰하는 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251016 자본시장 설계자가 되는 법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251015 화폐 구조의 근본적 존재 가치와 디지털 진화를 이루는 이면의 이해관계 (3).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251014 미국이 비트코인 최대 보유국이 된 과정과 이면의 이해관계 (4).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251014 딱 하나만 생각해라.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251013 ETF 승인과 제도권 편입 신뢰 자본의 이동 (5).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251012 현재의 자본시장! 가장 큰 기회를 누릴 행복한 부자 망고단.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251012 거두절미 딱 얘기한다!.md",
+    "Untitled.base",
+    "Images/Pasted image 20250910110629.png",
     "_PARA note taking/002 Area/Brokerage/William_s note/012 망고들에게 용어 설명해주기",
     "_PARA note taking/002 Area/Brokerage/William_s note/011 내 자식 행복한 부자만들기",
     "_PARA note taking/002 Area/Brokerage/William_s note/010 CBDC로 인한 미래의 재앙과 기회",
@@ -306,7 +365,6 @@
     "Untitled.canvas",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
-    "Images/Pasted image 20250910110629.png",
     "Images/Pasted image 20250910105331.png",
     "Pasted image 20250910111629.png",
     "Pasted image 20250910111333.png",
