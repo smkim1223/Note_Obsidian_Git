@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/004 Molecular representation.md",
+                "file": "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/002 Installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004 Molecular representation"
+              "title": "002 Installation"
             }
           }
         ],
@@ -266,7 +266,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "bfcf33b728174c17",
   "lastOpenFiles": [
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/004 Molecular representation.md",
     "conflict-files-obsidian-git.md",
