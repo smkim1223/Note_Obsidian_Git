@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96cf3f38cacad058",
+        "id": "ee343e397a1c9cd1",
         "type": "tabs",
         "children": [
           {
-            "id": "005a89aaa4fd2c8a",
+            "id": "0769b1f0c0c5c1e1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -209,12 +209,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "005a89aaa4fd2c8a",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/004 Molecular representation.md",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/003 First RMG job.md",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/002 Installation.md",
-    "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/005 Running RMG job.md",
     "_PARA note taking/001 Project/Proposal/Tandem catalysis/20251030 General ideation for tandem catalysis.md",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/202510 RMG summary.md",
