@@ -11,10 +11,12 @@
             "id": "0769b1f0c0c5c1e1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ]
@@ -71,7 +73,7 @@
             }
           },
           {
-            "id": "61b0e6ef27821540",
+            "id": "8ab62f808ff307ac",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -209,7 +211,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "0769b1f0c0c5c1e1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/004 Molecular representation.md",
