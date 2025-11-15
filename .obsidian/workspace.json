@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 546.5
+    "width": 264.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "0769b1f0c0c5c1e1",
+  "active": "d2d566ebddc680b7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar/004 Molecular representation.md",
