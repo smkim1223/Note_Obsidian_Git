@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/001 Project/Proposal/2025 Helion_024 H2-D2/002 Full proposal from AI incubator.md",
+                "file": "_PARA note taking/001 Project/Proposal/2025 Helion_024 H2-D2/001 Prompt for proposal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002 Full proposal from AI incubator"
+              "title": "001 Prompt for proposal"
             }
           }
         ]
@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,10 +212,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "0769b1f0c0c5c1e1",
   "lastOpenFiles": [
-    "_PARA note taking/001 Project/Proposal/2025 Helion_024 H2-D2/001 Prompt for proposal.md",
     "_PARA note taking/001 Project/Proposal/2025 Helion_024 H2-D2/002 Full proposal from AI incubator.md",
+    "_PARA note taking/001 Project/Proposal/2025 Helion_024 H2-D2/001 Prompt for proposal.md",
     "_PARA note taking/003 Resources/Al for writing/Prompt/20251117 Journal writing.md",
     "_PARA note taking/001 Project/Proposal/2025 Helion_024 H2-D2",
     "_PARA note taking/003 Resources/Obsidian/프롬프트 프레임워크.md",
