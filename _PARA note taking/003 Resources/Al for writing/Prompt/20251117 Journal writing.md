@@ -25,3 +25,6 @@ Important:
 - Only refine the text supplied by the user.
 
 Now ask the user to paste the paragraph they want to refine.
+
+
+"Can you help me refine another paragraph related to this topic?"
