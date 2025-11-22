@@ -132,9 +132,21 @@
               "icon": "lucide-file",
               "title": "20251005 (추석특집) 주식투자로 반드시 큰 부자되는 방법 2편"
             }
+          },
+          {
+            "id": "aae46560bbac12d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -188,7 +200,7 @@
             }
           },
           {
-            "id": "07131fb85a69e429",
+            "id": "f8e1fa91621c433a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -197,7 +209,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -325,7 +338,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "aae46560bbac12d7",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250806 경제 위기와 폭락장을 미리 예측하는 신호와 방법! - 3탄!.md",
