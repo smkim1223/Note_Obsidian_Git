@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "부자",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,7 +211,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -339,7 +340,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "aae46560bbac12d7",
+  "active": "acd2b80199c9a0b2",
   "lastOpenFiles": [
     "Untitled.base",
     "Untitled.md",
