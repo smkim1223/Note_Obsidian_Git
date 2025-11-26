@@ -180,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "독점",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -211,8 +211,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -340,7 +339,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "aae46560bbac12d7",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/005 30년 만에 오는 큰 부자될 기회/20250908 금융 패권 엘리트들이 설계한 자본주의 시스템의 최후.md",
