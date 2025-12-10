@@ -146,9 +146,21 @@
               "icon": "lucide-file",
               "title": "20250623 숫자 하나로 경제 위기 파악하는 가장 쉽고 확실한 방법"
             }
+          },
+          {
+            "id": "4d8c4a3157cb578a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,7 @@
             }
           },
           {
-            "id": "7cc9e2eff1387fd5",
+            "id": "1606edac337dac17",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -340,7 +352,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "aae46560bbac12d7",
+  "active": "4d8c4a3157cb578a",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250617 1,000만원이 50억이 되는 돈의 흐름 매뉴얼.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250911 비트코인과 미국의 5경 원 짜리 부채 청산 시나리오 (21).md",
