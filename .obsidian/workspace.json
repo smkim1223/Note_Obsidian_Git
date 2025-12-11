@@ -151,12 +151,14 @@
             "id": "4d8c4a3157cb578a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "_PARA note taking/001 Project/PNNL routine/Peer review/AI Prompt for peer review comments.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "AI Prompt for peer review comments"
             }
           }
         ],
@@ -223,8 +225,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -352,7 +353,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "4d8c4a3157cb578a",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Untitled 2.base",
