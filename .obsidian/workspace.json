@@ -160,9 +160,23 @@
               "icon": "lucide-file",
               "title": "AI Prompt for peer review comments"
             }
+          },
+          {
+            "id": "73969b1837d39215",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -353,11 +367,12 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "4d8c4a3157cb578a",
+  "active": "73969b1837d39215",
   "lastOpenFiles": [
+    "_PARA note taking/001 Project/PNNL routine/Peer review/AI Prompt for peer review comments.md",
+    "conflict-files-obsidian-git.md",
     "Untitled 3.base",
     "Untitled 1.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 2.base",
     "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250617 1,000만원이 50억이 되는 돈의 흐름 매뉴얼.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250911 비트코인과 미국의 5경 원 짜리 부채 청산 시나리오 (21).md",
@@ -391,7 +406,6 @@
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar",
     "_PARA note taking/001 Project/Proposal/Tandem catalysis",
     "_PARA note taking/001 Project/Research/RMG",
-    "_PARA note taking/001 Project/PNNL routine/Peer review",
     "Images/Pasted image 20250910110629.png",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
