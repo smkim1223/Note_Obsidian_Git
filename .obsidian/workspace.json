@@ -160,9 +160,21 @@
               "icon": "lucide-file",
               "title": "AI Prompt for peer review comments"
             }
+          },
+          {
+            "id": "26087e9c1f8d9409",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -216,7 +228,7 @@
             }
           },
           {
-            "id": "1606edac337dac17",
+            "id": "57420d1a4f7712ef",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -353,7 +365,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "4d8c4a3157cb578a",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/PNNL routine/Peer review/AI Prompt for peer review comments.md",
