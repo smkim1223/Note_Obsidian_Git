@@ -165,12 +165,14 @@
             "id": "26087e9c1f8d9409",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "_PARA note taking/001 Project/Personal/Promts of email writing at work.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "Promts of email writing at work"
             }
           }
         ],
@@ -365,8 +367,14 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "26087e9c1f8d9409",
   "lastOpenFiles": [
+    "_PARA note taking/001 Project/Personal/Personal.md",
+    "_PARA note taking/001 Project/Personal/Promts of email writing at work.md",
+    "Untitled 1.base",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled.base",
     "conflict-files-obsidian-git.md",
     "_PARA note taking/001 Project/PNNL routine/Peer review/AI Prompt for peer review comments.md",
     "Untitled 3.base",
@@ -392,12 +400,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251012 거두절미 딱 얘기한다!.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251007 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 -(해결책).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251006 (추석특집! 단 하루만 공개) 큰 부자될 답안지! 미래 핵심 변화 38가지.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251005 (추석특집) 주식투자로 반드시 큰 부자되는 방법 2편.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251004 (추석특집) 주식투자로 반드시 큰 부자되는 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251003 지금 이 순간 가장 소중한 존재.md",
-    "Untitled.canvas",
-    "Untitled 1.base",
-    "Untitled.base",
     "_PARA note taking/001 Project/Proposal/2025 Helion_024 H2-D2",
     "_PARA note taking/003 Resources/Al for writing/Prompt",
     "_PARA note taking/003 Resources/Al for writing",
