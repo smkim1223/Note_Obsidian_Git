@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250730 금리 인상과 긴축 - 자산증식 매뉴얼.md",
+                "file": "_PARA note taking/001 Project/Personal/AI Prompt/Promts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250730 금리 인상과 긴축 - 자산증식 매뉴얼"
+              "title": "Promts"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "2b1eb4dfc3abe550",
+            "id": "42e9168c7697c80e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,13 +212,15 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "4d8c4a3157cb578a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt/Refernce searching.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt/Promts.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt",
     "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250730 금리 인상과 긴축 - 자산증식 매뉴얼.md",
+    "conflict-files-obsidian-git.md",
     "Tags/와썹윌리엄/와썹윌리엄.md",
     "_PARA note taking/001 Project/PNNL routine/Peer review/AI Prompt for peer review comments.md",
-    "_PARA note taking/001 Project/Personal/Promts.md",
     "Untitled 3.base",
     "Untitled 1.md",
     "Untitled 2.base",
@@ -241,7 +243,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251013 ETF 승인과 제도권 편입 신뢰 자본의 이동 (5).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251012 거두절미 딱 얘기한다!.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251007 (추석특집! 한정판) 큰 부자될 답안지! 미래 핵심 변화 38가지 -(해결책).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251006 (추석특집! 단 하루만 공개) 큰 부자될 답안지! 미래 핵심 변화 38가지.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
@@ -250,7 +251,6 @@
     "_PARA note taking/003 Resources/Al for writing",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar",
     "_PARA note taking/001 Project/Proposal/Tandem catalysis",
-    "_PARA note taking/001 Project/Research/RMG",
     "Images/Pasted image 20250910110629.png",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
