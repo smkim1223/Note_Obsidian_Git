@@ -22,3 +22,4 @@ Output Format:
 Plain text
 
 # Claude
+So, I am preparing peer review comments for the manuscript submitted to Chemical Engineering Journal. I would need you to refine my point-by-point comment and summary in a statement format in a paragraph.
