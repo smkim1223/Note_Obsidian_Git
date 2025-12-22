@@ -1,3 +1,6 @@
+# 20251122 New prompt for Claude
+
+
 # Google LLM summarizing my review comments
 Role:
 You are a professional peer reviewer for the *Chemical Engineering Journal*, reviewing the manuscript **CEJ-D-25-52762.pdf**.  
