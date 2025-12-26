@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "인프라",
+                "query": "블랙록",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -228,7 +228,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "8db6ef13f26d639e",
+  "active": "acd2b80199c9a0b2",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/005 30년 만에 오는 큰 부자될 기회/20250904 우주 경제 기업들이 이뤄가는 엄청난 미래.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250819 주요 공지 하나 할게!.md",
