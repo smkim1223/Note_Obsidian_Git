@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c25562d55f7b6e98",
+        "id": "1d811985b9d981a3",
         "type": "tabs",
         "children": [
           {
-            "id": "f904ed168d98e19f",
+            "id": "a3d467f8a8630f87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250726 미래의 1등 대장주 찾는 방법 (820) - 데이터 우위 확보.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "20250726 미래의 1등 대장주 찾는 방법 (820) - 데이터 우위 확보"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "윌플릭스",
+                "query": "우ㅣ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,8 +209,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "f904ed168d98e19f",
+  "active": "acd2b80199c9a0b2",
   "lastOpenFiles": [
+    "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250726 미래의 1등 대장주 찾는 방법 (820) - 데이터 우위 확보.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250612 나를 부자로 만들어 줄 기업 고르는 방법.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/20250611 망고들아 안녕_ 와썹 윌리엄이야!.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/005 30년 만에 오는 큰 부자될 기회/20250904 우주 경제 기업들이 이뤄가는 엄청난 미래.md",
@@ -241,7 +238,6 @@
     "_PARA note taking/001 Project/Personal/AI Prompt",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250928 2025년판 윌리엄의 투자 원칙 리스트 2.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251015 화폐 구조의 근본적 존재 가치와 디지털 진화를 이루는 이면의 이해관계 (3).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250623 숫자 하나로 경제 위기 파악하는 가장 쉽고 확실한 방법.md",
     "Untitled 3.base",
     "Untitled 2.base",
     "Untitled.canvas",
