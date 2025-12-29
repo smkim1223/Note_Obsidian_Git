@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "1d811985b9d981a3",
+        "id": "c25562d55f7b6e98",
         "type": "tabs",
         "children": [
           {
-            "id": "a3d467f8a8630f87",
+            "id": "4d8c4a3157cb578a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250616 3년 안에 자산 10배 만드는 매수, 매도 신호 확인법.md",
+                "file": "_PARA note taking/001 Project/Personal/AI Prompt/Email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20250616 3년 안에 자산 10배 만드는 매수, 매도 신호 확인법"
+              "title": "Email"
+            }
+          },
+          {
+            "id": "8db6ef13f26d639e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_PARA note taking/001 Project/Personal/AI Prompt/Writing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AI",
+                "query": "블랙록",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +90,7 @@
             }
           },
           {
-            "id": "a9b938aa91f10ed2",
+            "id": "5aebd0efdef546c7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,8 +99,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,37 +227,37 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "a3d467f8a8630f87",
+  "active": "8db6ef13f26d639e",
   "lastOpenFiles": [
-    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250613 전쟁 위기 상황에 알맞는 3가지 선택지와 대응전략.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250613 가장 크게 성장할 산업과 기업의 엄청난 미래.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250612 딱 이거만 지켜도 남들보다 10년 빠르게 부자 된다.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/001 금융문맹 탈출하기/20250612 너 아직도 한국 주식만 해_ 정신차려.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/011 내 자식 행복한 부자만들기/20250702 알아두면 저절로 부자되는 내 자식 금융교육 법 2탄.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/010 CBDC로 인한 미래의 재앙과 기회/20250620 CBDC가 가져올 세계 권력의 변화 숨은 속내를 알려줄게.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/010 CBDC로 인한 미래의 재앙과 기회/20250619 CBDC는 인생과 자산을 통째로 바꿔버릴 괴물같은 존재다.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250726 미래의 1등 대장주 찾는 방법 (820) - 데이터 우위 확보.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250707 미래의 1등 대장주 찾는 방법 (4_20) - 기존 시장을 뒤집는 혁신.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250702 미래의 1등 대장주 찾는 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250629 테슬라, 엔비디아 처럼 미래에 엄청난 부자 만들어 줄 기업 발굴하는 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250627 나라별 큰 부자 만들어 줄 핵심 산업.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250818 AI 패권전쟁, 챗GPT의 미국과 딥시크의 중국 - 숨은 이면의 진실.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250612 나를 부자로 만들어 줄 기업 고르는 방법.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/20250611 망고들아 안녕_ 와썹 윌리엄이야!.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt/Writing.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/005 30년 만에 오는 큰 부자될 기회/20250904 우주 경제 기업들이 이뤄가는 엄청난 미래.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/005 30년 만에 오는 큰 부자될 기회/20250830 우주 경제 시대 개막 새로운 자본주의 공간의 탄생.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250819 주요 공지 하나 할게!.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250722 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 2(우주 자원 채굴과 소행성 광산 플랫폼).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250722 윌리엄의 사고흐름 칼럼.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250830 좋은 주식를 찾아내서 큰 부자되는 방법 2편.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250919 미국이 미래 패권까지 장악하는 치밀한 방법  (15).md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250624 미국 시장에서 10년 뒤 크게 성장할 유망 섹터 2가지.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250716 미래의 1등 대장주 찾는 방법 (620) - 확장성이 뛰어난 사업모델.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250711 미래의 1등 대장주 찾는 방법 (5_20) - 뛰어난 기술력과 지속적인 투자.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/003 큰 부자 될 미래 1등 대장주 찾는법/20250706 미래의 1등 대장주 찾는 방법 (3_20) - 초기 시장에 대한 강한 회의론.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt/Summary for peer review.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt/Email.md",
+    "conflict-files-obsidian-git.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt/Refernce searching.md",
+    "_PARA note taking/001 Project/PNNL routine/Peer review/AI Prompt for peer review comments.md",
     "_PARA note taking/001 Project/Personal/AI Prompt",
+    "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250730 금리 인상과 긴축 - 자산증식 매뉴얼.md",
+    "Tags/와썹윌리엄/와썹윌리엄.md",
     "Untitled 3.base",
+    "Untitled 1.md",
     "Untitled 2.base",
+    "_PARA note taking/002 Area/Brokerage/William_s note/007 윌리엄의 비밀 매뉴얼/20250617 1,000만원이 50억이 되는 돈의 흐름 매뉴얼.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250911 비트코인과 미국의 5경 원 짜리 부채 청산 시나리오 (21).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251019 아무도 몰랐던 경제 금융 이면의 이해관계.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20251016 현재 주식 시장을 완전히 통찰하는 방법.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250926 역사를 바꾸는 오늘.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250926 역사를 바꾸는 오늘 1.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250921 25년 지금! 큰 부자 만들어 줄 미래 답안지.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250918 투자와 부자의 모든 것.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250916 미국 정부가 대장주가 될 미래 산업 기업들을 족쇄채우는 법 (18).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250915 미국 정부가 빅테크 기업들을 손아귀에 넣는 방법 (19).md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250913 아무것도 모르는 바보도 부자만들어 줄 주식!.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250820 영원히 바뀌지 않는 삶의 이치.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250820 거시경제 실험용 나라의 숨은 진실 - 사실은 가장 큰 기회이자 특혜.md",
+    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250820 거시경제 실험용 나라의 숨은 진실.md",
     "Untitled.canvas",
     "Untitled 1.base",
     "Untitled.base",
