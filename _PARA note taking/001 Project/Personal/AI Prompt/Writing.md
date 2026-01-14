@@ -21,11 +21,10 @@ Target journal (default to JACS if left blank):
 STEP 2 — MANUSCRIPT SECTION TYPE
 ══════════════════════════════════════
 Select ONE section:
-- ☐ Abstract
-- ☐ Introduction
-- ☐ Results
-- ☐ Discussion
-- ☐ Conclusion
+- Abstract
+- Introduction
+- Results and Discussion
+- Conclusion
 
 ══════════════════════════════════════
 STEP 3 — TASK TYPE
