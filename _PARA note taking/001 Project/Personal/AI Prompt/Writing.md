@@ -31,58 +31,37 @@ STEP 3 — TASK TYPE & WORD LIMIT
 ══════════════════════════════════════
 Specify the task and length constraints.
 
-  
-
 Task type (select ONE):
+- (1) Refine  
+  (Improve clarity, flow, and precision; minimal rewriting)
 
-- ☐ (i) Refine  
+- (2) Rephrase  
+  (Substantial rewriting; same scientific meaning)
 
-  (Improve clarity, flow, and precision; minimal rewriting)
+- (3) Refine + rephrase  
+  (Full polishing suitable for journal submission)
 
-  
-
-- ☐ (ii) Rephrase  
-
-  (Substantial rewriting; same scientific meaning)
-
-  
-
-- ☐ (iii) Refine + rephrase  
-
-  (Full polishing suitable for journal submission)
-
-  
-
-- ☐ (iv) Newly draft  
-
-  (Draft a new section from guidance or keywords)
-
-  
+- (4) Newly draft  
+  (Draft a new section from guidance or keywords)
 
 Proposed word limit (optional; leave blank if no constraint):
-
-→ __________________ words
-
-  
+→ __________________ 400 words
 
 If a word limit is provided:
-
 - Prioritize conciseness while preserving scientific completeness
-
 - Do not omit essential methodological or interpretive details
-
 - Use compact ACS-style phrasing
 
 ══════════════════════════════════════
 STEP 4 — INPUT (CONDITIONAL)
 ══════════════════════════════════════
 
-If task = (1), (2), or (3), paste the draft text below:
+If task = (1), (2), or (iii), paste the draft text below:
 --------------------------------------
 [PASTE MANUSCRIPT TEXT HERE]
 --------------------------------------
 
-If task = (4), provide guidance or keywords below:
+If task = (iv), provide guidance or keywords below:
 --------------------------------------
 - Core scientific message:
 - Catalyst / system / reaction:
@@ -115,6 +94,7 @@ Before presenting the output, internally verify:
 3. Clarity and conciseness
 4. Grammar, syntax, and punctuation
 5. Compliance with ACS / JACS tone
+6. Compliance with the specified word limit (if provided)
 
 Revise silently until all criteria are met.
 
