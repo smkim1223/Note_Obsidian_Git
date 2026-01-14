@@ -1,3 +1,6 @@
+
+
+# 20260114 Revised prompt for JACS-
 # 20251229 Manuscript writing
 ## **🧠 Field 1: “What would you like ChatGPT to know about you to provide better responses?”**
 I am a researcher working in chemistry and chemical engineering, with a strong focus on:
