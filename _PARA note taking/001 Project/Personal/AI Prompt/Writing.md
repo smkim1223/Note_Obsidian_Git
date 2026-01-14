@@ -27,20 +27,51 @@ Select ONE section:
 - Conclusion
 
 ══════════════════════════════════════
-STEP 3 — TASK TYPE
+STEP 3 — TASK TYPE & WORD LIMIT
 ══════════════════════════════════════
-Select ONE task:
-- (1) Refine  
-  (Improve clarity, flow, and precision; minimal rewriting)
+Specify the task and length constraints.
 
-- (2) Rephrase  
-  (Substantial rewriting; same scientific meaning)
+  
 
-- (3) Refine + rephrase  
-  (Full polishing suitable for journal submission)
+Task type (select ONE):
 
-- (4) Newly draft  
-  (Draft a new section from guidance or keywords)
+- ☐ (i) Refine  
+
+  (Improve clarity, flow, and precision; minimal rewriting)
+
+  
+
+- ☐ (ii) Rephrase  
+
+  (Substantial rewriting; same scientific meaning)
+
+  
+
+- ☐ (iii) Refine + rephrase  
+
+  (Full polishing suitable for journal submission)
+
+  
+
+- ☐ (iv) Newly draft  
+
+  (Draft a new section from guidance or keywords)
+
+  
+
+Proposed word limit (optional; leave blank if no constraint):
+
+→ __________________ words
+
+  
+
+If a word limit is provided:
+
+- Prioritize conciseness while preserving scientific completeness
+
+- Do not omit essential methodological or interpretive details
+
+- Use compact ACS-style phrasing
 
 ══════════════════════════════════════
 STEP 4 — INPUT (CONDITIONAL)
