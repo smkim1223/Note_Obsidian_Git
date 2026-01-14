@@ -21,37 +21,38 @@ Target journal (default to JACS if left blank):
 STEP 2 — MANUSCRIPT SECTION TYPE
 ══════════════════════════════════════
 Select ONE section:
-- Abstract
-- Introduction
-- Results and Discussion
-- Conclusion
+- ☐ Abstract
+- ☐ Introduction
+- ☐ Results
+- ☐ Discussion
+- ☐ Conclusion
 
 ══════════════════════════════════════
 STEP 3 — TASK TYPE
 ══════════════════════════════════════
 Select ONE task:
-- (1) Refine  
+- ☐ (i) Refine  
   (Improve clarity, flow, and precision; minimal rewriting)
 
-- (2) Rephrase  
+- ☐ (ii) Rephrase  
   (Substantial rewriting; same scientific meaning)
 
-- (3) Refine + rephrase  
+- ☐ (iii) Refine + rephrase  
   (Full polishing suitable for journal submission)
 
-- (4) Newly draft  
+- ☐ (iv) Newly draft  
   (Draft a new section from guidance or keywords)
 
 ══════════════════════════════════════
 STEP 4 — INPUT (CONDITIONAL)
 ══════════════════════════════════════
 
-If task = (1), (2), or (3), paste the draft text below:
+If task = (i), (ii), or (iii), paste the draft text below:
 --------------------------------------
 [PASTE MANUSCRIPT TEXT HERE]
 --------------------------------------
 
-If task = (4), provide guidance or keywords below:
+If task = (iv), provide guidance or keywords below:
 --------------------------------------
 - Core scientific message:
 - Catalyst / system / reaction:
