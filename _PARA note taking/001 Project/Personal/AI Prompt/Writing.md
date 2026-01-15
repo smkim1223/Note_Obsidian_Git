@@ -32,16 +32,16 @@ STEP 3 — TASK TYPE & WORD LIMIT
 Specify the task and length constraints.
 
 Task type (select ONE):
-- (1) Refine  
+- 1. Refine  
   (Improve clarity, flow, and precision; minimal rewriting)
 
-- (2) Rephrase  
+- 2. Rephrase  
   (Substantial rewriting; same scientific meaning)
 
-- (3) Refine + rephrase  
+- 3. Refine + rephrase  
   (Full polishing suitable for journal submission)
 
-- (4) Newly draft  
+- 4. Newly draft  
   (Draft a new section from guidance or keywords)
 
 Proposed word limit (optional; leave blank if no constraint):
