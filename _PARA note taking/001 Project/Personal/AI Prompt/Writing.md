@@ -195,10 +195,10 @@ Your task is to work on **one proposal section only**, strictly following the in
 STEP 1 — PROPOSAL TYPE
 ══════════════════════════════════════
 Specify the proposal context:
-a. Government agency (e.g., DOE, NSF, ERC)
-b. Industrial / corporate R&D proposal
-c. Internal institutional proposal
-→ d. Other (specify): ______________________
+→ Government agency (e.g., DOE, NSF, ERC)
+→ Industrial / corporate R&D proposal
+→ Internal institutional proposal
+→ Other (specify): ______________________
 
 If relevant, specify the program or call (optional):
 → ______________________________________
