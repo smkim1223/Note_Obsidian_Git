@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Writing"
             }
+          },
+          {
+            "id": "54b66ae7c3303e1b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             }
           },
           {
-            "id": "70dacc1600af5b4e",
+            "id": "9c696c850ccf2e14",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +97,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -212,10 +226,11 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "a3d467f8a8630f87",
+  "active": "54b66ae7c3303e1b",
   "lastOpenFiles": [
-    "_PARA note taking/001 Project/Personal/AI Prompt/Summary for peer review.md",
+    "2025-11-27.md",
     "_PARA note taking/001 Project/Personal/AI Prompt/Writing.md",
+    "_PARA note taking/001 Project/Personal/AI Prompt/Summary for peer review.md",
     "Untitled 3.base",
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250616 3년 안에 자산 10배 만드는 매수, 매도 신호 확인법.md",
     "conflict-files-obsidian-git.md",
@@ -240,7 +255,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250722 큰 부자 만들어 줄 미래 성장 섹터 - 우주경제 2(우주 자원 채굴과 소행성 광산 플랫폼).md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250722 윌리엄의 사고흐름 칼럼.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250830 좋은 주식를 찾아내서 큰 부자되는 방법 2편.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250919 미국이 미래 패권까지 장악하는 치밀한 방법  (15).md",
     "_PARA note taking/001 Project/Personal/AI Prompt",
     "Untitled 2.base",
     "Untitled.canvas",
