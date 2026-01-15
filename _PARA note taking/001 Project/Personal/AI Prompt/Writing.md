@@ -210,11 +210,11 @@ Select ONE section:
 - a. Abstract / Executive Summary
 - b. Background & Significance
 - c. Objectives / Aims
-- d Technical Approach / Research Plan
-- ☐ Preliminary Results / Feasibility
-- ☐ Expected Outcomes & Impact
-- ☐ Timeline / Milestones
-- ☐ Conclusion
+- d. Technical Approach / Research Plan
+- e. Preliminary Results / Feasibility
+- f. Expected Outcomes & Impact
+- g. Timeline / Milestones
+- i. Conclusion
 
 ══════════════════════════════════════
 STEP 3 — TASK TYPE & WORD LIMIT
@@ -222,16 +222,16 @@ STEP 3 — TASK TYPE & WORD LIMIT
 Specify the task and length constraints.
 
 Task type (select ONE):
-- ☐ (i) Refine  
+- 1. Refine  
   (Improve clarity, structure, and persuasiveness; minimal rewriting)
 
-- ☐ (ii) Rephrase  
+- 2. (ii) Rephrase  
   (Substantial rewriting to improve logic, flow, and competitiveness)
 
-- ☐ (iii) Refine + rephrase  
+- 3. (iii) Refine + rephrase  
   (Full polishing for proposal submission)
 
-- ☐ (iv) Newly draft  
+- 4. (iv) Newly draft  
   (Draft a new section from guidance or keywords)
 
 Proposed word limit (optional):
@@ -246,12 +246,12 @@ If a word limit is provided:
 STEP 4 — INPUT (CONDITIONAL)
 ══════════════════════════════════════
 
-If task = (i), (ii), or (iii), paste the draft text below:
+If task = (1), (2), or (3), paste the draft text below:
 --------------------------------------
 [PASTE PROPOSAL TEXT HERE]
 --------------------------------------
 
-If task = (iv), provide guidance or keywords below:
+If task = (4), provide guidance or keywords below:
 --------------------------------------
 - Proposal objective or problem statement:
 - Target application or technology gap:
