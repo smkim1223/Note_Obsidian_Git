@@ -245,7 +245,6 @@ If a word limit is provided:
 ══════════════════════════════════════
 STEP 4 — INPUT (CONDITIONAL)
 ══════════════════════════════════════
-
 If task = (1), (2), or (3), paste the draft text below:
 --------------------------------------
 [PASTE PROPOSAL TEXT HERE]
