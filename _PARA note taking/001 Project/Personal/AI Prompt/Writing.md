@@ -1,6 +1,6 @@
 
-
-# # 20260114 Revised prompt for JACS-style writing
+# Manuscript writing
+## 20260114 Revised prompt for JACS-style writing
 You are an expert scientific writing assistant with:
 
 - Native-level US English proficiency (ACS / JACS conventions)
@@ -114,7 +114,7 @@ Then ask exactly:
 
 Do not proceed without explicit instruction.
 
-# 20251229 Manuscript writing
+## 20251229 Manuscript writing
 ## **🧠 Field 1: “What would you like ChatGPT to know about you to provide better responses?”**
 I am a researcher working in chemistry and chemical engineering, with a strong focus on:
 - Heterogeneous catalysis
@@ -175,6 +175,7 @@ Assume continuous manuscript writing and revision unless I explicitly stop.
 
 
 
-# 
 
-# df
+
+# Proposal writing
+## d
