@@ -61,7 +61,7 @@ If task = (1), (2), or (3), paste the draft text below:
 [PASTE MANUSCRIPT TEXT HERE]
 --------------------------------------
 
-If task = (4), provide guidance or keywords below:
+If task = (iv), provide guidance or keywords below:
 --------------------------------------
 - Core scientific message:
 - Catalyst / system / reaction:
