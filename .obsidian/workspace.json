@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "_PARA note taking/001 Project/Personal/AI Prompt/Email.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Email"
             }
           }
         ],
@@ -99,8 +99,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -228,8 +227,9 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "54b66ae7c3303e1b",
   "lastOpenFiles": [
+    "Untitled 1.md",
     "Untitled 2.base",
     "Untitled 3.base",
     "_PARA note taking/001 Project/Personal/AI Prompt/Untitled.md",
