@@ -93,7 +93,7 @@ B.S. in Chemical Engineering; B.S. in Techno-Business (Joint-Degree) | 2007
 
 - **Conducted catalyst development and testing projects** in collaboration with academic and industrial partners; demonstrated ability to manage multiple complex projects simultaneously with solid problem-solving skills.
 
-- **Mentored junior researchers** and contributed to technical reports and presentations.
+- c
 
 ---
 
