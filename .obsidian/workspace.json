@@ -39,12 +39,14 @@
             "id": "23f817dc066abeae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "_PARA note taking/003 Resources/Realtor/U1 Lv4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "U1 Lv4"
             }
           }
         ],
@@ -111,8 +113,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,6 +243,8 @@
   },
   "active": "23f817dc066abeae",
   "lastOpenFiles": [
+    "_PARA note taking/003 Resources/Realtor/U1 Lv4.md",
+    "_PARA note taking/003 Resources/Realtor",
     "_PARA note taking/001 Project/Personal/AI Prompt/Email and Resume.md",
     "_PARA note taking/001 Project/Personal/AI Prompt/Peer review.md",
     "_PARA note taking/001 Project/Personal/AI Prompt/Refernce searching.md",
@@ -269,7 +272,6 @@
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250612 딱 이거만 지켜도 남들보다 10년 빠르게 부자 된다.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/001 금융문맹 탈출하기/20250612 너 아직도 한국 주식만 해_ 정신차려.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/011 내 자식 행복한 부자만들기/20250702 알아두면 저절로 부자되는 내 자식 금융교육 법 2탄.md",
-    "_PARA note taking/002 Area/Brokerage/William_s note/010 CBDC로 인한 미래의 재앙과 기회/20250620 CBDC가 가져올 세계 권력의 변화 숨은 속내를 알려줄게.md",
     "_PARA note taking/001 Project/Personal/AI Prompt",
     "Untitled.canvas",
     "Untitled 1.base",
@@ -278,7 +280,6 @@
     "_PARA note taking/003 Resources/Al for writing/Prompt",
     "_PARA note taking/003 Resources/Al for writing",
     "_PARA note taking/001 Project/Research/RMG/2025 RMG seminar",
-    "_PARA note taking/001 Project/Proposal/Tandem catalysis",
     "Images/Pasted image 20250910110629.png",
     "Images/Pasted image 20250910111629.png",
     "Images/Pasted image 20250910111333.png",
