@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Assitant for Flight"
             }
+          },
+          {
+            "id": "23f817dc066abeae",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             }
           },
           {
-            "id": "71060ad0ca1ffc73",
+            "id": "fe86b66aefb44ee3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -99,7 +111,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -227,7 +240,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "54b66ae7c3303e1b",
+  "active": "23f817dc066abeae",
   "lastOpenFiles": [
     "_PARA note taking/001 Project/Personal/AI Prompt/Email and Resume.md",
     "_PARA note taking/001 Project/Personal/AI Prompt/Peer review.md",
