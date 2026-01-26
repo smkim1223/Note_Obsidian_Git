@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "자산토큰화",
+                "query": "보안",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -239,7 +240,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "6ed5dfdb72232f04",
+  "active": "acd2b80199c9a0b2",
   "lastOpenFiles": [
     "Tags/와썹윌리엄/와썹윌리엄.md",
     "2025-11-27.md",
