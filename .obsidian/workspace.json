@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "데이터 인프라",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +242,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "23f817dc066abeae",
+  "active": "acd2b80199c9a0b2",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250612 딱 이거만 지켜도 남들보다 10년 빠르게 부자 된다.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/009 윌리엄의 사고흐름 칼럼/20250921 25년 지금! 큰 부자 만들어 줄 미래 답안지.md",
