@@ -39,12 +39,12 @@
             "id": "23f817dc066abeae",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "mk-space",
               "state": {
-                "currentVersion": "1.11.5"
+                "path": "Tags/와썹윌리엄"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "와썹윌리엄"
             }
           }
         ],
@@ -102,7 +102,7 @@
             }
           },
           {
-            "id": "fe86b66aefb44ee3",
+            "id": "2f2b643cdf814e19",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -239,8 +239,10 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "d2d566ebddc680b7",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
+    "Tags/와썹윌리엄/와썹윌리엄.md",
+    "2025-11-27.md",
     "_PARA note taking/003 Resources/Realtor/U1 Lv4.md",
     "Pasted image 20260123200814.png",
     "_PARA note taking/003 Resources/Realtor",
@@ -263,7 +265,6 @@
     "Untitled 1.md",
     "Untitled 2.base",
     "Untitled 3.base",
-    "2025-11-27.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250616 3년 안에 자산 10배 만드는 매수, 매도 신호 확인법.md",
     "conflict-files-obsidian-git.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/002 가장 빠르고 쉽게 부자되기/20250613 전쟁 위기 상황에 알맞는 3가지 선택지와 대응전략.md",

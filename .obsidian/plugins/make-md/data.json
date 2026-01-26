@@ -38,7 +38,6 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//Tags",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Personal/_PARA note taking/001 Project/Personal/Note taking",
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Research/_PARA note taking/001 Project/Research/RMG",
@@ -58,6 +57,8 @@
     "//_PARA note taking/_PARA note taking/001 Project/_PARA note taking/001 Project/Research/_PARA note taking/001 Project/Research/RMG/_PARA note taking/001 Project/Research/RMG/2025 RMG seminar",
     "//_PARA note taking/_PARA note taking/002 Area",
     "//Tags/Tags/와썹윌리엄",
+    "//Clippings",
+    "/",
     "//Tags/Tags/와썹윌리엄/Tags/와썹윌리엄/거시경제 소설"
   ],
   "expandFolderOnClick": true,
