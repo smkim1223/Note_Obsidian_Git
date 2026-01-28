@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "탄소중",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,8 +113,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,7 +241,7 @@
       "smart-composer:Open smart composer": false
     }
   },
-  "active": "23f817dc066abeae",
+  "active": "6ed5dfdb72232f04",
   "lastOpenFiles": [
     "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250903 미래 에너지 산업 4 - 초대형 글로벌 인프라 전환 플랫폼.md",
     "_PARA note taking/002 Area/Brokerage/William_s note/004 큰 부자 만들어 줄 미래 성장 섹터/20250812 미래 에너지 산업 2 - 초대형 그린수소 및 암모니아 에너지.md",
